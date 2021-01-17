@@ -19,6 +19,7 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://addons/dialogic/Other/DialogicUtil.gd"
 }, {
+dialogic9
 "base": "Node2D",
 "class": "background",
 "language": "GDScript",
@@ -28,6 +29,32 @@ _global_script_class_icons={
 "Dialogic": "",
 "DialogicUtil": "",
 "background": ""
+"base": "RichTextEffect",
+"class": "HideTextFX",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/hide.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextGhost",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/ghost.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextMatrix",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/matrix.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextPulse",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/pulse.gd"
+} ]
+_global_script_class_icons={
+"DialogicUtil": "",
+"HideTextFX": "",
+"RichTextGhost": "",
+"RichTextMatrix": "",
+"RichTextPulse": ""
 }
 
 [application]
