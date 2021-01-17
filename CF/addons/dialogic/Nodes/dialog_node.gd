@@ -7,14 +7,17 @@ var finished: bool = false
 var text_speed = 0.02 # Higher = lower speed
 var waiting_for_answer: bool = false
 var waiting_for_input: bool = false
+var glossary_visible: bool = false
 var settings
 
 #export(String) var timeline: String # Timeline-var-replace
 
 export(String, "TimelineDropdown") var timeline: String
+signal dialogic_signal(value)
 
 var dialog_resource
 var characters
+
 
 onready var ChoiceButton = load("res://addons/dialogic/Nodes/ChoiceButton.tscn")
 onready var Portrait = load("res://addons/dialogic/Nodes/Portrait.tscn")
@@ -34,6 +37,8 @@ func _ready():
 	# Setting everything up for the node to be default
 	$TextBubble/NameLabel.text = ''
 	$Background.visible = false
+	$TextBubble/RichTextLabel.meta_underlined = false
+	$GlossaryInfo.visible = false
 	
 	# Getting the character information
 	characters = DialogicUtil.get_character_list()
@@ -46,7 +51,6 @@ func resize_main():
 	if Engine.is_editor_hint() == false:
 		set_global_position(Vector2(0,0))
 		rect_size = get_viewport().size
-		print(get_viewport().size)
 
 
 func set_current_dialog(dialog_path):
@@ -129,6 +133,11 @@ func parse_text(text):
 
 func _process(_delta):
 	$TextBubble/NextIndicator.visible = finished
+	if glossary_visible: 
+		if get_local_mouse_position().x - $GlossaryInfo.rect_size.x < 0:
+			$GlossaryInfo.rect_global_position = get_global_mouse_position() - Vector2(0, $GlossaryInfo.rect_size.y)
+		else:
+			$GlossaryInfo.rect_global_position = get_global_mouse_position() - $GlossaryInfo.rect_size
 	if Engine.is_editor_hint() == false:
 		# Multiple choices
 		if waiting_for_answer:
@@ -211,9 +220,6 @@ func get_character(character_id):
 func event_handler(event: Dictionary):
 	# Handling an event and updating the available nodes accordingly. 
 	reset_dialog_extras()
-	print(' ')
-	print('[!] Event: ', event)
-	print('    dialog_index: ', dialog_index)
 	match event:
 		{'text', 'character'}, {'text', 'character', ..}:
 			show_dialog()
@@ -234,9 +240,6 @@ func event_handler(event: Dictionary):
 					add_choice_button(o)
 		{'choice', 'question_id'}:
 			var current_question = questions[event['question_id']]
-			print('####################')
-			print(questions)
-			print('####################')
 			if current_question['answered']:
 				# If the option is for an answered question, skip to the end of it.
 				dialog_index = current_question['end_id']
@@ -264,16 +267,19 @@ func event_handler(event: Dictionary):
 					
 				go_to_next_event()
 			elif event['action'] == 'join':
-				var character_data = get_character(event['character'])
-				var exists = grab_portrait_focus(character_data)
-				if exists == false:
-					var p = Portrait.instance()
-					p.character_data = character_data
-					# Todo: get current expression instead of 'Default'
-					p.init('Default', get_character_position(event['position']))
-					$Portraits.add_child(p)
-					p.fade_in()
+				if event['character'] == '':
 					go_to_next_event()
+				else:
+					var character_data = get_character(event['character'])
+					var exists = grab_portrait_focus(character_data)
+					if exists == false:
+						var p = Portrait.instance()
+						p.character_data = character_data
+						# Todo: get current expression instead of 'Default'
+						p.init('Default', get_character_position(event['position']))
+						$Portraits.add_child(p)
+						p.fade_in()
+						go_to_next_event()
 		#{'action'}:
 		#	if event['action'] == 'game_end':
 		#		get_tree().quit()
@@ -297,6 +303,11 @@ func event_handler(event: Dictionary):
 			go_to_next_event()
 		{'endchoice'}:
 			go_to_next_event()
+		{'change_scene'}:
+			get_tree().change_scene(event['change_scene'])
+		{'emit_signal'}:
+			print('[!] Emitting signal: ', event['emit_signal'])
+			emit_signal("dialogic_signal", event['emit_signal'])
 		{'close_dialog'}:
 			queue_free()
 		{'change_timeline'}:
@@ -391,6 +402,7 @@ func _on_option_selected(option, variable, value):
 
 
 func _on_Tween_tween_completed(object, key):
+	#$TextBubble/RichTextLabel.meta_underlined = true
 	finished = true
 
 
@@ -432,14 +444,14 @@ func get_character_position(positions):
 func load_theme() -> void:
 	# Loading theme properties and settings
 	settings = DialogicUtil.load_settings()
-	
-	print('-------------')
-	print('dialog_node.gd loading settings')
-	print(settings)
-	print('-------------')
 
 	$TextBubble/RichTextLabel.set('custom_fonts/normal_font', load(settings['theme_font']))
 	$TextBubble/NameLabel.set('custom_fonts/normal_font', load(settings['theme_font']))
+	
+	# Glossary
+	$GlossaryInfo/VBoxContainer/Title.set('custom_fonts/normal_font', load(settings['theme_font']))
+	$GlossaryInfo/VBoxContainer/Content.set('custom_fonts/normal_font', load(settings['theme_font']))
+	$GlossaryInfo/VBoxContainer/Extra.set('custom_fonts/normal_font', load(settings['theme_font']))
 	
 	# Text
 	if settings.has('theme_text_color'):
@@ -481,3 +493,21 @@ func load_theme() -> void:
 	# Next image
 	$TextBubble/NextIndicator.texture = load(settings['theme_next_image'])
 	input_next = settings['theme_action_key']
+
+
+func _on_RichTextLabel_meta_hover_started(meta):
+	glossary_visible = true
+	$GlossaryInfo.visible = glossary_visible
+	# Adding a timer to avoid a graphical glitch
+	$GlossaryInfo/Timer.stop()
+	
+
+func _on_RichTextLabel_meta_hover_ended(meta):
+	# Adding a timer to avoid a graphical glitch
+	$GlossaryInfo/Timer.start(0.1)
+
+
+func _on_Glossary_Timer_timeout():
+	# Adding a timer to avoid a graphical glitch
+	glossary_visible = false
+	$GlossaryInfo.visible = glossary_visible
