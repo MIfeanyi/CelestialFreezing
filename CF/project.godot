@@ -13,9 +13,33 @@ _global_script_classes=[ {
 "class": "DialogicUtil",
 "language": "GDScript",
 "path": "res://addons/dialogic/Other/DialogicUtil.gd"
+}, {
+"base": "RichTextEffect",
+"class": "HideTextFX",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/hide.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextGhost",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/ghost.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextMatrix",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/matrix.gd"
+}, {
+"base": "RichTextEffect",
+"class": "RichTextPulse",
+"language": "GDScript",
+"path": "res://addons/dialogic/richtexteffects/pulse.gd"
 } ]
 _global_script_class_icons={
-"DialogicUtil": ""
+"DialogicUtil": "",
+"HideTextFX": "",
+"RichTextGhost": "",
+"RichTextMatrix": "",
+"RichTextPulse": ""
 }
 
 [application]
