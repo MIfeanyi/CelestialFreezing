@@ -21,7 +21,8 @@ func init(expression='Default', position_offset = 'left'):
 	for p in portraits:
 		if p['name'] == expression:
 			$TextureRect.texture = load(p['path'])
-	rect_position -= Vector2($TextureRect.texture.get_width() * 0.5, $TextureRect.texture.get_height())
+	if $TextureRect.texture !=null:		
+		rect_position -= Vector2($TextureRect.texture.get_width() * 0.5, $TextureRect.texture.get_height())
 
 func _ready():
 	if debug:
