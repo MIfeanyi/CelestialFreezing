@@ -9,13 +9,25 @@
 config_version=4
 
 _global_script_classes=[ {
+"base": "Node",
+"class": "Dialogic",
+"language": "GDScript",
+"path": "res://addons/dialogic/Other/dialogic_class.gd"
+}, {
 "base": "Reference",
 "class": "DialogicUtil",
 "language": "GDScript",
 "path": "res://addons/dialogic/Other/DialogicUtil.gd"
+}, {
+"base": "Node2D",
+"class": "background",
+"language": "GDScript",
+"path": "res://src/Background.gd"
 } ]
 _global_script_class_icons={
-"DialogicUtil": ""
+"Dialogic": "",
+"DialogicUtil": "",
+"background": ""
 }
 
 [application]
