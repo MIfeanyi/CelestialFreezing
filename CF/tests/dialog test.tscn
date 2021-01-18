@@ -10,5 +10,6 @@ script = ExtResource( 3 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
+timeline = "Loop Test"
 
 [node name="Background" parent="." instance=ExtResource( 2 )]

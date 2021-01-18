@@ -1,8 +1,9 @@
 extends Control
 
+export var timeline = 'Intro'
 
 func _ready():
-	var new_dialog = Dialogic.start('Intro')
+	var new_dialog = Dialogic.start(timeline)
 	add_child(new_dialog)
 	new_dialog.connect("dialogic_signal", self, '_signal_from_dialogic')
 
