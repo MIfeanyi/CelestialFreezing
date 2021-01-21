@@ -1,9 +1,7 @@
 extends Button
 
 
-# Declare member variables here. Examples:
-# var a = 2
-# var b = "text"
+export var nextScene = "res://tests/test001.tscn"
 
 
 # Called when the node enters the scene tree for the first time.
@@ -17,4 +15,4 @@ func _ready():
 
 
 func _on_Play_pressed():
-	get_tree().change_scene("res://tests/test001.tscn")
+	get_tree().change_scene(nextScene)
