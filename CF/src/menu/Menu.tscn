@@ -1,10 +1,11 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://addons/dialogic/Theme.tres" type="Theme" id=1]
 [ext_resource path="res://src/menu/Quit.gd" type="Script" id=2]
 [ext_resource path="res://src/menu/Start.gd" type="Script" id=3]
 [ext_resource path="res://src/menu/Options.gd" type="Script" id=4]
 [ext_resource path="res://addons/dialogic/Images/Tools.svg" type="Texture" id=5]
+[ext_resource path="res://addons/dialogic/Dialog.tscn" type="PackedScene" id=6]
 
 [node name="Menu" type="Control"]
 anchor_right = 1.0
@@ -59,5 +60,8 @@ margin_right = 135.0
 margin_bottom = 269.0
 text = "Quit"
 script = ExtResource( 2 )
+
+[node name="DialogNode" parent="." instance=ExtResource( 6 )]
+timeline = "timeline-1611011528"
 [connection signal="pressed" from="VBoxContainer/Play" to="VBoxContainer/Play" method="_on_Play_pressed"]
 [connection signal="pressed" from="VBoxContainer/Quit" to="VBoxContainer/Quit" method="_on_Quit_pressed"]
