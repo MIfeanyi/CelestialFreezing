@@ -1,1 +1,1 @@
-{"events":[],"metadata":{"dialogic-version":"0.7","name":"1.5.1 Shop Alistair"}}
+{"events":[{"character":"character-1611499496.json","portrait":"","text":"Get what you need and leave."},{"options":[],"question":"Select an Option"},{"choice":"Buy"},{"choice":"Sell"},{"choice":"Talk"}],"metadata":{"dialogic-version":"0.7","name":"1.5.4 Shop Alistair"}}
