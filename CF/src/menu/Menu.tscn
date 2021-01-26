@@ -62,6 +62,6 @@ text = "Quit"
 script = ExtResource( 2 )
 
 [node name="DialogNode" parent="." instance=ExtResource( 6 )]
-timeline = "timeline-1610849715"
+timeline = "timeline-1611011528"
 [connection signal="pressed" from="VBoxContainer/Play" to="VBoxContainer/Play" method="_on_Play_pressed"]
 [connection signal="pressed" from="VBoxContainer/Quit" to="VBoxContainer/Quit" method="_on_Quit_pressed"]
