@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://src/game/Game.gd" type="Script" id=1]
+[ext_resource path="res://src/ui/inventory/Inventory.tscn" type="PackedScene" id=2]
 
 [node name="Game" type="Control"]
 anchor_right = 1.0
@@ -9,4 +10,6 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
-timeline = "0.0 Prologue"
+timeline = "Loop Test"
+
+[node name="Inventory" parent="." instance=ExtResource( 2 )]

@@ -1,10 +1,12 @@
+class_name signals
 extends Node
 
 
 ## AUDIO ##
-func audio_start():
+static func audio_start(d):
 	pass
-func audio_stop():
+static func audio_stop(d):
+	d.FX.AudioStreamPlayer.stop()
 	pass
 
 

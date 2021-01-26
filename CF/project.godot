@@ -43,6 +43,11 @@ _global_script_classes=[ {
 "class": "background",
 "language": "GDScript",
 "path": "res://src/Background.gd"
+}, {
+"base": "Node",
+"class": "signals",
+"language": "GDScript",
+"path": "res://src/signals/global.gd"
 } ]
 _global_script_class_icons={
 "Dialogic": "",
@@ -51,7 +56,8 @@ _global_script_class_icons={
 "RichTextGhost": "",
 "RichTextMatrix": "",
 "RichTextPulse": "",
-"background": ""
+"background": "",
+"signals": ""
 }
 
 [application]
