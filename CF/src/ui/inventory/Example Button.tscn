@@ -1,0 +1,50 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/ui/inventory/Example Button.gd" type="Script" id=1]
+
+[node name="Button" type="Control" groups=[
+"inventory_button",
+]]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+NAME = "Dog"
+SELL_PRICE = 5.0
+BUY_PRICE = 10.02
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="VBoxContainer"]
+margin_right = 48.0
+margin_bottom = 20.0
+text = "Dog"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+margin_top = 24.0
+margin_right = 48.0
+margin_bottom = 38.0
+
+[node name="SellPrice" type="Label" parent="VBoxContainer/HBoxContainer"]
+margin_right = 8.0
+margin_bottom = 14.0
+custom_colors/font_color = Color( 0.94902, 0.172549, 0.172549, 1 )
+text = "5"
+
+[node name="BuyPrice" type="Label" parent="VBoxContainer/HBoxContainer"]
+margin_left = 12.0
+margin_right = 48.0
+margin_bottom = 14.0
+custom_colors/font_color = Color( 0.188235, 0.796078, 0.188235, 1 )
+text = "10.02"
+[connection signal="pressed" from="VBoxContainer/Button" to="." method="_on_Button_pressed"]
