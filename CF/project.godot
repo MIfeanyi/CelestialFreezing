@@ -66,6 +66,10 @@ config/name="CF"
 run/main_scene="res://src/game/Game.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Global="*res://src/signals/global.gd"
+
 [editor_plugins]
 
 enabled=PoolStringArray( "dialogic" )

@@ -17,7 +17,8 @@ func _signal_from_dialogic(value):
 		pass
 	if value.find("audio_stop",0) != -1:
 		print("processing audio start")
-		signals.audio_stop(new_dialog)
+		#signals.audio_stop(new_dialog)
+		new_dialog.FX.AudioStreamPlayer.stop()
 		pass	
 	print("signal called for:", value)
 
