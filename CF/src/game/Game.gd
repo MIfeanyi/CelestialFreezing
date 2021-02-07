@@ -11,13 +11,21 @@ func _signal_from_dialogic(value):
 	if value=="change_background":
 		$Background._change_background()
 		return
-	if value.find("audio_start",0) != -1:
+		
+	## INVENTORY
+	if value =="hide_inventory":
+		$Inventory.hide()
+	if value=="show_inventory":
+		$Inventory.show()
+		
+	#AUDIO
+	if value.find("play_audio",0) != -1:
 		print("processing audio start")
-		signals.audio_start(new_dialog)
+		$Audio.PlayAudio(value.right(10))
 		pass
-	if value.find("audio_stop",0) != -1:
+	if value.find("stop_audio",0) != -1:
 		print("processing audio start")
-		#signals.audio_stop(new_dialog)
+		$Audio.StopAudio()
 		new_dialog.FX.AudioStreamPlayer.stop()
 		pass	
 	print("signal called for:", value)

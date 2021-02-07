@@ -63,7 +63,7 @@ _global_script_class_icons={
 [application]
 
 config/name="CF"
-run/main_scene="res://src/game/Game.tscn"
+run/main_scene="res://src/menu/Menu.tscn"
 config/icon="res://icon.png"
 
 [autoload]
