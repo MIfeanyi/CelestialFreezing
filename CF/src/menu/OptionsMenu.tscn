@@ -1,0 +1,62 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/menu/OptionsMenu.gd" type="Script" id=1]
+
+[node name="OptionsMenu" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Column" type="VBoxContainer" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Window Settings" type="HBoxContainer" parent="Column"]
+margin_right = 263.0
+margin_bottom = 20.0
+
+[node name="Label" type="Label" parent="Column/Window Settings"]
+margin_top = 3.0
+margin_right = 114.0
+margin_bottom = 17.0
+text = "Window Settings: "
+
+[node name="Fullscreen" type="Button" parent="Column/Window Settings"]
+margin_left = 118.0
+margin_right = 196.0
+margin_bottom = 20.0
+text = "Fullscreen"
+
+[node name="Windowed" type="Button" parent="Column/Window Settings"]
+margin_left = 200.0
+margin_right = 263.0
+margin_bottom = 20.0
+text = "Window"
+
+[node name="Volume " type="HBoxContainer" parent="Column"]
+margin_top = 24.0
+margin_right = 263.0
+margin_bottom = 40.0
+
+[node name="Label" type="Label" parent="Column/Volume "]
+margin_top = 1.0
+margin_right = 57.0
+margin_bottom = 15.0
+text = "Volume: "
+
+[node name="Volume" type="HSlider" parent="Column/Volume "]
+margin_left = 61.0
+margin_right = 161.0
+margin_bottom = 16.0
+rect_min_size = Vector2( 100, 0 )
+value = 80.0
+tick_count = 5
+[connection signal="pressed" from="Column/Window Settings/Fullscreen" to="." method="_on_Fullscreen_pressed"]
+[connection signal="pressed" from="Column/Window Settings/Windowed" to="." method="_on_Windowed_pressed"]
+[connection signal="value_changed" from="Column/Volume /Volume" to="." method="_on_Volume_value_changed"]
