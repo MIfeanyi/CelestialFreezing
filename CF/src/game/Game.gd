@@ -17,7 +17,10 @@ func _signal_from_dialogic(value):
 		$Inventory.hide()
 	if value=="show_inventory":
 		$Inventory.show()
-		
+	if value.find("use_item",0) != -1:
+		$Inventory.use_item(value.right(8))
+	if value.find("get_item",0) != -1:
+		$Inventory.get_item(value.right(8))
 	#AUDIO
 	if value.find("play_audio",0) != -1:
 		print("processing audio start")
@@ -26,10 +29,8 @@ func _signal_from_dialogic(value):
 	if value.find("stop_audio",0) != -1:
 		print("processing audio start")
 		$Audio.StopAudio()
-		new_dialog.FX.AudioStreamPlayer.stop()
 		pass	
 	print("signal called for:", value)
-
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
