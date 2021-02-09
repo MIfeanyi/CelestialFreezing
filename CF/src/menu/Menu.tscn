@@ -1,36 +1,37 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://addons/dialogic/Theme.tres" type="Theme" id=1]
 [ext_resource path="res://src/menu/Quit.gd" type="Script" id=2]
 [ext_resource path="res://src/menu/Start.gd" type="Script" id=3]
 [ext_resource path="res://src/menu/Options.gd" type="Script" id=4]
 [ext_resource path="res://addons/dialogic/Images/Tools.svg" type="Texture" id=5]
+[ext_resource path="res://addons/dialogic/Images/change-timeline.svg" type="Texture" id=6]
+[ext_resource path="res://addons/dialogic/Images/play.svg" type="Texture" id=7]
+[ext_resource path="res://src/menu/OptionsMenu.tscn" type="PackedScene" id=8]
+[ext_resource path="res://src/menu/Menu.gd" type="Script" id=9]
 
 [node name="Menu" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
+script = ExtResource( 9 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="VBoxContainer" type="VBoxContainer" parent="."]
-anchor_left = 0.4
-anchor_right = 0.5
-anchor_bottom = 0.5
-margin_left = 50.0
+[node name="Main" type="VBoxContainer" parent="."]
+margin_left = 459.6
 margin_top = 72.0
-margin_right = 50.0
-margin_bottom = 92.0
+margin_right = 594.6
+margin_bottom = 290.0
 theme = ExtResource( 1 )
 alignment = 1
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Title" type="Label" parent="VBoxContainer"]
-margin_top = 51.0
+[node name="Title" type="Label" parent="Main"]
 margin_right = 135.0
-margin_bottom = 128.0
+margin_bottom = 77.0
 text = "Celesital Freezing"
 align = 1
 autowrap = true
@@ -38,26 +39,46 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Play" type="Button" parent="VBoxContainer"]
-margin_top = 132.0
+[node name="Play" type="Button" parent="Main"]
+margin_top = 81.0
 margin_right = 135.0
-margin_bottom = 175.0
+margin_bottom = 124.0
 text = "Play"
+icon = ExtResource( 7 )
 script = ExtResource( 3 )
 
-[node name="Options" type="Button" parent="VBoxContainer"]
-margin_top = 179.0
+[node name="Options" type="Button" parent="Main"]
+margin_top = 128.0
 margin_right = 135.0
-margin_bottom = 222.0
+margin_bottom = 171.0
 text = "Options"
 icon = ExtResource( 5 )
 script = ExtResource( 4 )
 
-[node name="Quit" type="Button" parent="VBoxContainer"]
-margin_top = 226.0
+[node name="Quit" type="Button" parent="Main"]
+margin_top = 175.0
 margin_right = 135.0
-margin_bottom = 269.0
+margin_bottom = 218.0
 text = "Quit"
+icon = ExtResource( 6 )
 script = ExtResource( 2 )
-[connection signal="pressed" from="VBoxContainer/Play" to="VBoxContainer/Play" method="_on_Play_pressed"]
-[connection signal="pressed" from="VBoxContainer/Quit" to="VBoxContainer/Quit" method="_on_Quit_pressed"]
+
+[node name="Options" type="HBoxContainer" parent="."]
+visible = false
+margin_left = 459.6
+margin_top = 294.0
+margin_right = 594.6
+margin_bottom = 294.0
+alignment = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="OptionsMenu" parent="Options" instance=ExtResource( 8 )]
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 134.0
+margin_right = 134.0
+[connection signal="pressed" from="Main/Play" to="Main/Play" method="_on_Play_pressed"]
+[connection signal="pressed" from="Main/Options" to="." method="_on_Options_pressed"]
+[connection signal="pressed" from="Main/Quit" to="Main/Quit" method="_on_Quit_pressed"]
