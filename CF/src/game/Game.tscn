@@ -13,9 +13,8 @@ __meta__ = {
 }
 timeline = "0.0 Prologue"
 
-[node name="Inventory" parent="." instance=ExtResource( 2 )]
-visible = false
-
 [node name="Audio" parent="." instance=ExtResource( 3 )]
 
 [node name="Sfx" parent="." instance=ExtResource( 3 )]
+
+[node name="Inventory" parent="." instance=ExtResource( 2 )]
