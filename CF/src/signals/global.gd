@@ -4,7 +4,7 @@ extends Node
 
 ## AUDIO ##
 static func audio_start(d):
-	pass
+	return d
 static func audio_stop(d):
 	d.FX.AudioStreamPlayer.stop()
 	pass
