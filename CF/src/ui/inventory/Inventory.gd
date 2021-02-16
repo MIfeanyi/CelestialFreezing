@@ -16,6 +16,9 @@ func update_cash():
 	
 	
 func get_item(i):
+	for item in items:
+		if i == item[0]:
+			return true
 	pass
 	
 func use_item(i):
@@ -26,7 +29,12 @@ func buy_item(i):
 	
 func sell_item(i):
 	pass
-
+func add_cash(c):
+	CASH +=c
+	update_cash()
+func use_cash(c):
+	CASH -=c
+	update_cash()
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	update_cash()

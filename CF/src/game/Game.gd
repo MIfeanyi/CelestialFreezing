@@ -21,6 +21,8 @@ func _signal_from_dialogic(value):
 		$Inventory.use_item(value.right(8))
 	if value.find("get_item",0) != -1:
 		$Inventory.get_item(value.right(8))
+	if value.find("add_cash",0) != -1:
+		$Inventory.get_item(value.right(8))
 	#AUDIO
 	if value.find("play_audio",0) != -1:
 		print("processing audio start")
