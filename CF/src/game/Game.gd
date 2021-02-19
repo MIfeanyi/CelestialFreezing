@@ -8,10 +8,15 @@ func _ready():
 	new_dialog.connect("dialogic_signal", self, '_signal_from_dialogic')
 
 func _signal_from_dialogic(value):
+	## BACKGROUND
 	if value=="change_background":
 		$Background._change_background()
 		return
-		
+	
+	## PARTNER
+	if value.find("select_partner") != -1:
+		$Partner.select_partner(value.right(14))
+
 	## INVENTORY
 	if value =="hide_inventory":
 		$Inventory.hide()

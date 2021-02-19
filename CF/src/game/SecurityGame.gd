@@ -1,23 +1,25 @@
 extends Control
 
-export var timeline = 'Intro'
+export var timeline = 'Security Tutorial'
 export var MAX_CODE = 999999
 export var MIN_CODE = 100000
+export var TIMER = 5
 var code
 var digits
 var new_dialog
 var input = 0
 
 func _ready():
-	#new_dialog = Dialogic.start(timeline)
-	#add_child(new_dialog)
-	#new_dialog.connect("dialogic_signal", self, '_signal_from_dialogic')
+	new_dialog = Dialogic.start(timeline)
+	add_child(new_dialog)
+	new_dialog.connect("dialogic_signal", self, '_signal_from_dialogic')
 	code = generate_code()
 	digits = digit_count(code)
 	$HBox/VBox/Code.text = String(code)
 
 func _signal_from_dialogic(value):
 	if value =="show":
+		$Timer.start(TIMER)
 		pass
 	pass
 
@@ -40,12 +42,22 @@ func digit_count(n):
 		d +=1
 	print("total digits: ",d)
 	return d
+	
+func display_result():
+	if code == input:
+		$HBox/VBox/Result.text = "Door Unlocked"
+	else:
+		$HBox/VBox/Result.text = "Denied"
+	pass
 func update_input():
 	$HBox/VBox/InputText.text = "Input: " + String(input)
 
 
 func _process(delta):
-	$HBox/CNumber.text = String(Global.round_place($Timer.time_left,2))
+	if digits <= 0:
+		display_result()
+	else:
+		$HBox/VBox/CNumber.text = String(Global.round_place($Timer.time_left,2))
 	pass
 
 func _on_1_pressed():
@@ -89,4 +101,9 @@ func _on_8_pressed():
 
 func _on_9_pressed():
 	add(9)
+	pass # Replace with function body.
+
+
+func _on_0_pressed():
+	add(0)
 	pass # Replace with function body.
