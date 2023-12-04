@@ -48,7 +48,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I - Revival of Limerick": {
@@ -90,13 +90,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -138,7 +138,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -146,7 +146,161 @@
 
 					],
 					"folders": {
+						"Before Townsquare": {
+							"files": [
 
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Getting to Know the Team (Initial)": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Intro": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Level I Ending": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Mission Brief": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Outside of Nuclear Plant": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Town Square": {
+							"files": [
+								"timeline-1701713808.json",
+								"timeline-1701714406.json"
+							],
+							"folders": {
+								"Getting to Know the Team (Main)": {
+									"files": [
+										"timeline-1701714641.json"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Partner Specific Timeline": {
+									"files": [
+
+									],
+									"folders": {
+										"Alistair": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
+										"Camille": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
+										"Julian": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
+										"Leo": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										}
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								}
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
 					},
 					"metadata": {
 						"color": null,
