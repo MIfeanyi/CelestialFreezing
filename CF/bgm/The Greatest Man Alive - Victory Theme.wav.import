@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The Greatest Man Alive - Victory Theme.wav-f0dce292433dc11d4d786f68aadce317.sample"
+
+[deps]
+
+source_file="res://bgm/The Greatest Man Alive - Victory Theme.wav"
+dest_files=[ "res://.import/The Greatest Man Alive - Victory Theme.wav-f0dce292433dc11d4d786f68aadce317.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Silent Antiquity - Fail Theme.wav-e995899a93ef64367a98764b44b31f32.sample"
+
+[deps]
+
+source_file="res://bgm/Silent Antiquity - Fail Theme.wav"
+dest_files=[ "res://.import/Silent Antiquity - Fail Theme.wav-e995899a93ef64367a98764b44b31f32.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

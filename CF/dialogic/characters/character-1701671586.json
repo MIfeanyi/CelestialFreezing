@@ -1,0 +1,21 @@
+{
+	"color": "#ffe4aa43",
+	"description": "•\tAge: 23\n•\tGender: Male\n•\tEthnicity: Hispanic \n•\tAltered Status: Yes, split personality and heightened intelligence \n•\tDescription: A pensive young man in his mid-20s. Often caught alone speaking to some else named Silas, his quirky personality and fascination with electronics hide a darker aspect of his altered self. His long black hair covers most of his face.\n•\tColor: Orange\n",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1701671586.json",
+	"mirror_portraits": false,
+	"name": "Julian",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

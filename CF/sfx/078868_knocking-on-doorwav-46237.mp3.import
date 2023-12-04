@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/078868_knocking-on-doorwav-46237.mp3-0222e4e19db74d70de5a8f50639bc505.mp3str"
+
+[deps]
+
+source_file="res://sfx/078868_knocking-on-doorwav-46237.mp3"
+dest_files=[ "res://.import/078868_knocking-on-doorwav-46237.mp3-0222e4e19db74d70de5a8f50639bc505.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

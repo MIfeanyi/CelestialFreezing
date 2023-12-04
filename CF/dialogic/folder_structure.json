@@ -1,0 +1,204 @@
+{
+	"files": [
+
+	],
+	"folders": {
+		"Characters": {
+			"files": [
+
+			],
+			"folders": {
+				"Main Characters": {
+					"files": [
+						"character-1701671552.json",
+						"character-1701671580.json",
+						"character-1701671584.json",
+						"character-1701671586.json",
+						"character-1701671588.json",
+						"character-1701672387.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"NPCs": {
+					"files": [
+						"character-1701672712.json"
+					],
+					"folders": {
+						"Level 0 - Prologue": {
+							"files": [
+								"character-1701671103.json",
+								"character-1701671214.json",
+								"character-1701671218.json",
+								"character-1701671220.json"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
+						"Level I - Revival of Limerick": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Level II - Malice at McGuire": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Level III - Solace of St. Lucie": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Definitions": {
+			"files": [
+
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Themes": {
+			"files": [
+
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Timelines": {
+			"files": [
+
+			],
+			"folders": {
+				"Level 0 - Prologue": {
+					"files": [
+						"timeline-1701670708.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Level I - Revival of Limerick": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Level I.I - Campsite I": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Level II - Malice at McGuire": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Level II.I - Campsite II": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Level III - Solace of St. Lucie": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ff789078",
+	"description": "•\tAge: 27\n•\tGender: Male\n•\tEthnicity: Scottish \n•\tAltered Status: No enhanced abilities\n•\tDescription: A laid back and altruistic young man, with long brown hair and pale skin, who’s inviting personality attracts people from all over.\n•\tColor: Green\nReal Name: Caelan",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1701671588.json",
+	"mirror_portraits": false,
+	"name": "Leo",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

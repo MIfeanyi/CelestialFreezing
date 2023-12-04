@@ -1,0 +1,21 @@
+{
+	"color": "#ff5f7fe0",
+	"description": "•\tAge: 20 \n•\tGender: Female\n•\tEthnicity: Middle Eastern\n•\tAltered Status: Yes, heightened strength, reflexes, and sense of instinct\n•\tDescription: A young female, barely 20, with short hair black hair, brown skin, a stoic expression, and a strong commitment to their mission, plan PHOENIX. \n•\tColor: Blue\n",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1701671584.json",
+	"mirror_portraits": false,
+	"name": "Camille",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

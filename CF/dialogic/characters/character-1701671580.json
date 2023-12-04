@@ -1,0 +1,21 @@
+{
+	"color": "#ff8462aa",
+	"description": "•\tAge: Unknown \n•\tGender: Male\n•\tEthnicity: Unknown\n•\tAltered Status: Yes, heightened perception, sensory and healing abilities\n•\tDescription: A prideful young man radiating overconfidence and condescension against humanity. With fair skin, long straight blonde hair, and feminine features due to becoming altered, his constant disgust with humanity gives off the impression he isn’t human, but something greater.\n•\tColor: Purple\n",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1701671580.json",
+	"mirror_portraits": false,
+	"name": "Alistair",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
