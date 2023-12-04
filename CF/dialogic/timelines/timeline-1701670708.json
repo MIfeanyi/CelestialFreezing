@@ -381,55 +381,763 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "I..."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "I…thought I did what anyone would’ve done in my situation…"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Multiple nuclear missiles, from an unknown origin, were set to hit the nation completely destroying it within a matter of minutes."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My efforts to intercept the missiles before they hit, preventing anyone from getting hurt, was a success."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or so I thought…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My intervention caused the missiles to be redirected over other continents before exploding within the ozone layer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not only did this shower the land and sea in deadly radiation, but even worse…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as The Wings of Icarus incident "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Millions of people died, whether it be from the radiation or the bitter cold, and those deaths were mine to bear. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Humanity’s very existence was at risk because of my actions…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Arrested for my crime of global devastation, I was being transported to a high-security prison to be executed for the entire world and its leaders to see."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your hands and feet are shackled in the back of a large prison transport truck. "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With every bump in the road the loose chains loudly jingled. "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/metal-chain-7056.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "These shackled hands of mine…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "are responsible for poisoning the Earth and its inhabitants and it's time for me to pay for my sins."
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know what..."
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just to make your last moments on this God-forsaken Earth worse"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re not keeping the heat on for the rest of the ride. "
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Damn straight, I lost my brothers, because of what you did. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They weren’t even old enough to understand what was happening six months ago. "
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But what I do know is that they’ll be able to finally rest seeing you get your skin ripped off limb from limb."
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hope it takes days to kill you. "
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Jesus, man…"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t like ‘em either, but-"
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But what?!"
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You saying that my family deserved what happened to them?!"
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That the entire world deserved what happened to it?!"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nah, I-I’m not saying that! "
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t tell me you’re one of those ‘love the Earth one soul lost at a time’ hippie supporters, are you? "
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No!"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, I’m not! I’m not stupid, alright?"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Some things can’t be forgiven and this is one of them."
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Exactly!"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear that baby killer?!"
+		},
+		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one gives a single fu-"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/sniper-rifle-5989.mp3",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3",
+			"volume": 0
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 3
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The transport truck crashes off the road and you lose consciousness. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you wake up, you feel yourself being dragged outside of the snow. "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/fire-burning-loop-6135.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see the two prison transporters blood covered bodies inside of the flipped over truck burning."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dead?"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s right."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not that it should make any difference to you, anyway, scum…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-Huh?"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Put them on their knees."
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that really necessary?"
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're clearly concussed or something."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do it."
+		},
+		{
+			"character": "character-1701709634.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701709631.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are forced to knell before a feminine figure who has the sun behind them preventing you from seeing clearly."
+		},
+		{
+			"character": "character-1701709634.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Our mission is to extract the subject and ensure their absolute compliance for plan PHOENIX."
+		},
+		{
+			"character": "character-1701709631.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And collect any parts from the crash site!"
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How can we ensure that if they don’t even know what’s going on?"
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re bleeding from their head!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Plan PHOENIX? ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "What’s Happening? ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Who are you people? ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "I’m bleeding? ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm, seems like they’re pretty coherent to me."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who knew human trash could hold up so well…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s happening here is, on behalf of Gaia’s Advocates, we exist to restore the Earth."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To restore Gaia to it’s previous state by order of Plan PHENOIX and you will be part of that much-needed restoration. "
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether this be the beginning of your absolution, or its end, lies within your hands."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can either join our organization, Gaia’s Advocates, and right your wrong against the planet."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or…"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/berretta-9mm-cocking-slower-105410.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A pistol is pressed against your forehead."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Defy the will of Gaia, ignore it’s cry, and grant me the honor of bestowing you an eternal slumber."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Global retribution dispensed from the barrel of a gun…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that being said…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Make your choice, fool."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t waste my time…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll do it…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then get up."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia’s got work for you to do. "
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't think so."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The members of Gaia’s Advocates look at you in shock."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha!"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HA HA HA HA!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You glance up to see the unknown female? reeling backwards manically laughing with their hand covering their face. "
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, they’re obviously not thinking straight. "
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We should wait till later and-"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The unknown female? standing before you shoots the snow next to him."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To think someone as wretched"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " As subhuman as you"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Could still reek of such arrogance after what they’ve done…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your birth was humanity’s greatest failure…"
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, wait!"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were killed by Gaia’s Advocates"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Retry?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701711908.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "- GAME OVER -"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://bgm/Silent Antiquity - Fail Theme.wav",
+			"volume": 0
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
+			"choice": "Return to Main Menu",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
+			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
+			"choice": "Why me?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Has that hit really made you forget?"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite being the greatest disgrace imaginable to the planet, it’d be a waste to not use your…skills."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If that’s what they could be called…"
+		},
+		{
+			"character": "character-1701709634.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you have the ability to ruin the earth, you also have the responsibility to fix it."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After you do that, ridding the earth of your stain will be your only other use to anyone."
+		},
+		{
+			"change_timeline": "timeline-1701711908.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

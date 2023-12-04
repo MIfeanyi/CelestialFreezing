@@ -1,0 +1,264 @@
+{
+	"events": [
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that being said…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Make your choice, fool."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t waste my time…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll do it..."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then get up."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia’s got work for you to do."
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't think so."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The members of Gaia’s Advocates look at you in shock."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha!"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HA HA HA HA!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You glance up to see the unknown female? reeling backwards manically laughing with their hand covering their face. "
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, they’re obviously not thinking straight. "
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We should wait till later and-"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The unknown female? standing before you shoots the snow next to him."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To think someone as wretched..."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As subhuman as you"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Could still reek of such arrogance after what they’ve done…"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your birth was humanity’s greatest failure…"
+		},
+		{
+			"character": "character-1701709280.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, wait!"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were killed by Gaia’s Advocates"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Retry?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701711908.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- GAME OVER -"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Why me? ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Has that hit really made you forget?"
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite being the greatest disgrace imaginable to the planet, it’d be a waste to not use your…skills."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If that’s what they could be called…"
+		},
+		{
+			"character": "character-1701709634.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you have the ability to ruin the earth, you also have the responsibility to fix it."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After you do that, ridding the earth of your stain will be your only other use to anyone."
+		},
+		{
+			"change_timeline": "timeline-1701711908.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1701711908.json",
+		"name": "Level 0 - Prologue Loop"
+	}
+}

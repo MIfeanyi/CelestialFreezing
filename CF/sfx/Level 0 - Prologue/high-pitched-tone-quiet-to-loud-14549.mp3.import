@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/high-pitched-tone-quiet-to-loud-14549.mp3-c92dac492c490e39632feb23cb5f92da.mp3str"
+
+[deps]
+
+source_file="res://sfx/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3"
+dest_files=[ "res://.import/high-pitched-tone-quiet-to-loud-14549.mp3-c92dac492c490e39632feb23cb5f92da.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

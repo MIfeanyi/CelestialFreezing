@@ -22,7 +22,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"NPCs": {
@@ -35,14 +35,20 @@
 								"character-1701671103.json",
 								"character-1701671214.json",
 								"character-1701671218.json",
-								"character-1701671220.json"
+								"character-1701671220.json",
+								"character-1701707170.json",
+								"character-1701707287.json",
+								"character-1701709622.json",
+								"character-1701709634.json",
+								"character-1701709631.json",
+								"character-1701709280.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level I - Revival of Limerick": {
@@ -84,7 +90,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
@@ -124,7 +130,8 @@
 			"folders": {
 				"Level 0 - Prologue": {
 					"files": [
-						"timeline-1701670708.json"
+						"timeline-1701670708.json",
+						"timeline-1701711908.json"
 					],
 					"folders": {
 
