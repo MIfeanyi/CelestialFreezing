@@ -53,7 +53,9 @@
 						},
 						"Level I - Revival of Limerick": {
 							"files": [
-
+								"character-1702178286.json",
+								"character-1702178975.json",
+								"character-1702178992.json"
 							],
 							"folders": {
 
@@ -90,13 +92,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -160,7 +162,7 @@
 						},
 						"Getting to Know the Team (Initial)": {
 							"files": [
-
+								"timeline-1702184642.json"
 							],
 							"folders": {
 
@@ -172,14 +174,14 @@
 						},
 						"Intro": {
 							"files": [
-
+								"timeline-1702177196.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I Ending": {
@@ -196,7 +198,8 @@
 						},
 						"Mission Brief": {
 							"files": [
-
+								"timeline-1702179546.json",
+								"timeline-1702179583.json"
 							],
 							"folders": {
 

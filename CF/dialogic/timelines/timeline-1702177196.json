@@ -1,0 +1,924 @@
+{
+	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A few days pass and Gaia’s Advocates have entered a small town in northwest Philadelphia, Pennsylvania."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The squeal of a large cargo truck’s brakes engages before the loud release of pressurized air ring."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Gaia’s Advocates disembark from the truck."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Looks like we finally made it to Chester’s Peak."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m actually surprised to the see the town is a lot smaller than they made it sound."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And not as sophisticated either."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In a place like this, how can I expect to find any worthwhile parts?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Regardless, Gaia’s sent us here for a reason."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We do what we must with whatever Gaia provides us."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With that being said, let’s get to it, then."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, excuse me, ma’am!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re trying to-"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The young lady fearfully rushes away!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alrighty then…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You look around to see angry glares from the townspeople and from their windows."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Stay on your guard..."
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know where the hell you came from…"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But you need to leave..."
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What do you do?"
+		},
+		{
+			"choice": "Try and Be Friendly",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re not here for any conflict."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We actually want to help this town restart the nuclear power plant here and restore the power."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s right!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With gas getting scarce, you wouldn’t have to constantly rely on your generators anymore. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The enire town will have actual heat and lights!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So believe my friend and I when we say-"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "SMACK"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ARGH!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ungrateful humans!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo!"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia’s Advocates has chosen your town for aid and this is how you filthy ingrates repay us?!"
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET THE HELL OUT OF HERE!"
+		},
+		{
+			"character": "character-1702178992.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET OUT! "
+		},
+		{
+			"character": "character-1702178992.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET OUT! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The townspeople begin throwing trash and stones at you and Gaia’s Advocates!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dammit, we haven’t done anything!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bastards!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell is wrong with these people?!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille begins to unsheathed a knife!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, Camille, control yourself!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We still have a mission here!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I won't have you ruining things!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille deflects stones being thrown at her and reluctantly sheathes her knife."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone, fall back and regroup!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, this way!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Understood."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Roger that!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Revival of Limerick – Chester’s Peak"
+		},
+		{
+			"change_timeline": "timeline-1702179546.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Do Nothing",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What are you, deaf or dumb, kid?"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You got drool coming out of mouth just standing there looking stupid!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He's not wrong."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You quickly rub your mouth, but your hand is dry."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can't wipe off stupidity, fool."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not that I'm surprised to see you try."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe these people aren’t so bad after all."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A large rock was thrown at you, but you manage to dodge it in time!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "SMACK"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ARGH!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ungrateful humans!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo!"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To think a saw a glimmer of decency from these dregs for recognizing the fool that you are…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess it’s true then."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It takes trash to know trash."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET THE HELL OUT OF HERE!"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WE DON’T NEED YOUR HELP!"
+		},
+		{
+			"character": "character-1702178992.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET OUT!"
+		},
+		{
+			"character": "character-1702178992.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET OUT!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The townspeople begin throwing trash and stones at you and Gaia’s Advocates!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dammit, we haven’t done anything!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bastards!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell is wrong with these people?!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille begins to unsheathed a knife!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, Camille, control yourself!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We still have a mission here!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I won't have you ruining things!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone, fall back and regroup!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, this way!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Understood."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Roger that!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Revival of Limerick – Chester’s Peak"
+		},
+		{
+			"change_timeline": "timeline-1702179546.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Be Rude and Aggressive",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph, sitting around doing nothing to help yourselves…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Humans continue to embrace how pathetic they can be…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Could people so useless really be worth helping? "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With all this barking, I would’ve thought we were feeding mere dogs. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No wonder we’re not getting through to them."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, not all of Gaia’s creatures have the…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Capacity..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "to understand the world around them. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even if greatness stood right before them."
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Greatness?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell are you guys doing?!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Putting these people in their place. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Exactly, and rightfully so at that."
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hell did you say, little girl?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Little..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Little girl?!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am one of Gaia’s chosen!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not some feeble woman!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You might want a better choice of words..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sure he wasn’t talking about you when he said that, Camille."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The only thing Gigi’s chosen you for is having the flattest chest I’ve ever seen, lady!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Scoff*"
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think you let that ego of yours get to your pretty little head of yours!"
+		},
+		{
+			"character": "character-1702178992.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, get off your high horse, bitch, and come back to reality!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "B-"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "B-Bitch?!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, no..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "WHO THE HELL ARE YOU CALLING A BITCH, BITCH?!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair and the Female Townswoman begin fighting and pulling each other’s hair!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He may not be one, but he definitely fights like one..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell am I looking at here?"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GET THE HELL OUT OF HERE!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, Alistair, let go of the lady!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're making things-"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The townspeople begin throwing trash and stones at you and Gaia’s Advocates!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dammit, see what happens when you encourage Alistair?!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How was I supposed to know this would happen?!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bastards!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-There’s no point in arguing!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We need to get out of here!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille begins to unsheathed a knife!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, Camille, you can’t! "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll only make things worse if we fight against them!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Grab Alistair and everyone fall back!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Understood!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "NO!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "i'M NOT DONE YET!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'M NOT DONE BEATING GAIA'S KNOWLEDGE INTO THIS BITCH'S HEAD!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, the hell you are!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let’s go already!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Roger that!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Right!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Revival of Limerick – Chester’s Peak"
+		},
+		{
+			"change_timeline": "timeline-1702179546.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1702177196.json",
+		"name": "Level I - Introduction"
+	}
+}
