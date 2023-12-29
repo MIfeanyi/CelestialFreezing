@@ -11,5 +11,5 @@ dest_files=[ "res://.import/metal-chain-7056.mp3-bf0b668c0e0c529c7fe7e25dc4b11bd
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

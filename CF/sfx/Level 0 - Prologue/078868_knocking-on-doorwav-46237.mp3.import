@@ -11,5 +11,5 @@ dest_files=[ "res://.import/078868_knocking-on-doorwav-46237.mp3-a00e85fb23b6679
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/carcrash_heartbeat-slomo-32752.mp3-f9b2dba5842c00427
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

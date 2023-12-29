@@ -11,5 +11,5 @@ dest_files=[ "res://.import/9mm-pistol-shot-6349.mp3-555e2e4f2c326f2552d9a9aee7f
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

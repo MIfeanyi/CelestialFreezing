@@ -11,5 +11,5 @@ dest_files=[ "res://.import/angry-mob-loop-6847.mp3-dc2bad0dd6963ba6f493bbcf0685
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/tires-on-gravel-road-2-32740.mp3-5232e494f300745dcfa
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

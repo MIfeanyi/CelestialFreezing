@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sniper-rifle-5989.mp3-0759a4ecec63ba4968b62ebc853178
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/berretta-9mm-cocking-slower-105410.mp3-7d427360e2b58
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

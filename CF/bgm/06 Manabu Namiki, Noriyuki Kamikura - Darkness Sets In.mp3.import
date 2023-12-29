@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3-456dc36d34cc80f25909915015e7a853.mp3str"
+
+[deps]
+
+source_file="res://bgm/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3"
+dest_files=[ "res://.import/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3-456dc36d34cc80f25909915015e7a853.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

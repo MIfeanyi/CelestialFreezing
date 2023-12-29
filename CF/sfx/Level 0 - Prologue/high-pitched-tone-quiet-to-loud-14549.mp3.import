@@ -11,5 +11,5 @@ dest_files=[ "res://.import/high-pitched-tone-quiet-to-loud-14549.mp3-c92dac492c
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0
