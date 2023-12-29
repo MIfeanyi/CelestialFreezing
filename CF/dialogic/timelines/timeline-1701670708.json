@@ -444,18 +444,19 @@
 			"text": "Arrested for my crime of global devastation, I was being transported to a high-security prison to be executed for the entire world and its leaders to see."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sfx/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Your hands and feet are shackled in the back of a large prison transport truck. "
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
-			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -614,7 +615,44 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
 			"file": "res://sfx/Level 0 - Prologue/sniper-rifle-5989.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "W-What was that?!"
+		},
+		{
+			"character": "character-1701707170.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Was that a gunshot?!"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
 			"volume": 0
 		},
 		{
@@ -626,11 +664,17 @@
 			"volume": 0
 		},
 		{
+			"character": "character-1701707287.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "SHIT!"
+		},
+		{
 			"audio": "play",
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3",
+			"file": "",
 			"volume": 0
 		},
 		{
@@ -655,6 +699,23 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
 			"file": "res://sfx/Level 0 - Prologue/fire-burning-loop-6135.mp3",
 			"volume": 0
 		},
@@ -857,6 +918,14 @@
 			"volume": 0
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -927,7 +996,7 @@
 			"text": "Gaia’s got work for you to do. "
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1702177196.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -994,6 +1063,14 @@
 			"volume": 0
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1035,6 +1112,14 @@
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
 			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": -5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
 			"volume": 0
 		},
 		{
@@ -1138,6 +1223,23 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		}
 	],
 	"metadata": {
