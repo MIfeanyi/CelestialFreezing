@@ -338,64 +338,119 @@
 			"text": "Fool... "
 		},
 		{
-			"character": "",
+			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Really shouldn’t have said that..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Like I care."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "I’m outta here."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "You…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "CLEARLY DON’T KNOW WHO YOU’RE DEALING WITH HERE!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Alistair, don’t! Don’t! Don’t! "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were killed by Gaia’s Advocates "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Try Again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1702179583.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- GAME OVER -"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
