@@ -132,8 +132,7 @@
 			"folders": {
 				"Level 0 - Prologue": {
 					"files": [
-						"timeline-1701670708.json",
-						"timeline-1701711908.json"
+						"timeline-1701670708.json"
 					],
 					"folders": {
 
@@ -162,7 +161,11 @@
 						},
 						"Getting to Know the Team (Initial)": {
 							"files": [
-								"timeline-1702184642.json"
+								"timeline-1702184642.json",
+								"timeline-1704599442.json",
+								"timeline-1704599448.json",
+								"timeline-1704599451.json",
+								"timeline-1704599454.json"
 							],
 							"folders": {
 
@@ -198,8 +201,7 @@
 						},
 						"Mission Brief": {
 							"files": [
-								"timeline-1702179546.json",
-								"timeline-1702179583.json"
+								"timeline-1702179546.json"
 							],
 							"folders": {
 
@@ -229,7 +231,11 @@
 							"folders": {
 								"Getting to Know the Team (Main)": {
 									"files": [
-										"timeline-1701714641.json"
+										"timeline-1701714641.json",
+										"timeline-1704600589.json",
+										"timeline-1704600593.json",
+										"timeline-1704600595.json",
+										"timeline-1704600597.json"
 									],
 									"folders": {
 
@@ -295,7 +301,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},
