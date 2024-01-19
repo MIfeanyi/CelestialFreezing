@@ -211,7 +211,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 2
 		},
 		{
@@ -401,7 +401,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
+			"text": ": It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -431,7 +431,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Anyway..."
+			"text": ": Anyway..."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -456,12 +456,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It's conscious?"
-		},
-		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
-			"index": 0,
-			"name": "Death Loop"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -536,7 +530,7 @@
 
 			],
 			"portrait": "",
-			"question": "Select an Option"
+			"question": ""
 		},
 		{
 			"choice": "Cooperate",
@@ -652,67 +646,61 @@
 			"value": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yeah, I don’t think so, Alistair."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m not doing this."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At what point in time did I say you had that as a choice in the matter?"
+			"text": ""
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "H-hey, how about we all just calm down, alright?"
+			"text": ""
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We just got here and have had enough drama already."
+			"text": ""
 		},
 		{
-			"character": "character-1701671586.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "T-That’s right!"
+			"text": ""
 		},
 		{
-			"character": "character-1701671586.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here!"
+			"text": ""
 		},
 		{
-			"character": "character-1701671584.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The mission comes first."
+			"text": ""
 		},
 		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Until we’re all on the same page we can’t move forward."
-		},
-		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "Select an Option"
+			"question": ""
 		},
 		{
 			"choice": "I Understand",
@@ -722,52 +710,40 @@
 			"value": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fine..."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I understand..."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I hope you finally do…"
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "For your sake."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Anyways,you’ll need to pick one of us to accompany you."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Speak with the other members to learn more about them before making your choice. "
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "That’s as far as your choices go in this matter."
+			"text": ""
 		},
 		{
 			"change_timeline": "timeline-1702184642.json",
@@ -781,139 +757,112 @@
 			"value": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You know what that sounds like?"
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Please..."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Engligthen me, fool."
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Just what is it exactly?"
+			"text": ""
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A  smirk accompanied with a condescending scoff came from Alistair as he gazed at you unimpressed."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A personal problem."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fool..."
+			"text": ""
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alistair smirk faded to scowl restraining growing rage."
+			"text": ""
 		},
 		{
-			"character": "character-1701671584.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "..."
+			"text": ""
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo tosses his hands up before sighing in defeat and turning away from the group."
+			"text": ""
 		},
 		{
-			"character": "character-1701671586.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Really shouldn’t have said that..."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Like I care."
+			"text": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m outta here."
+			"text": ""
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/berretta-9mm-cocking-slower-105410.mp3",
-			"volume": 0
-		},
-		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You…"
+			"text": ""
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "CLEARLY DON’T KNOW WHO YOU’RE DEALING WITH HERE!"
+			"text": ""
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alistair, don’t! Don’t! Don’t!"
+			"text": ""
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo rushes over trying to get between you and Alistair!"
+			"text": ""
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
-			"volume": 0
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 1
-		},
-		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo didn't make it in time and Alistair shoots you."
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates."
+			"text": ""
 		},
 		{
 			"character": "character-1701672712.json",
@@ -932,8 +881,8 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
+			"change_timeline": "timeline-1702179583.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "No",
@@ -943,19 +892,10 @@
 			"value": ""
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "- GAME OVER -"
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://bgm/Beholder of None - Game Over THeme.wav",
-			"volume": 0
 		},
 		{
 			"event_id": "dialogic_013"

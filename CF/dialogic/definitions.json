@@ -7,9 +7,112 @@
 			"text": "",
 			"title": "",
 			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641182-648",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641185-787",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641187-934",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641929-483",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641931-970",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641933-713",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1705641935-339",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
 		}
 	],
 	"variables": [
-
+		{
+			"id": "1705641188-935",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1705641713-648",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1705641775-366",
+			"name": "Negative Respect",
+			"type": 0,
+			"value": "-1"
+		},
+		{
+			"id": "1705641746-787",
+			"name": "Toal Respect Check",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1705641807-146",
+			"name": "Positive Respect",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1705643321-947",
+			"name": "Camille",
+			"type": 0,
+			"value": "4"
+		},
+		{
+			"id": "1705643357-487",
+			"name": "Leo",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1705643361-423",
+			"name": "Julian",
+			"type": 0,
+			"value": "2"
+		}
 	]
 }
