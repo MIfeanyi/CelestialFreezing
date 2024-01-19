@@ -1,0 +1,65 @@
+{
+	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Who would you like to speak to?"
+		},
+		{
+			"choice": "Alistair",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1704599442.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Camille",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1704599448.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Julian",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1704599451.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Leo",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1704599454.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1705645103.json",
+		"name": "GKT(I) Go Back option"
+	}
+}

@@ -37,6 +37,12 @@
 			"text": "The level of respect you have with your team members can influences the story and it’s ending."
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "GKT(I) Loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [

@@ -13,6 +13,12 @@
 			"text": "Yes?"
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -20,12 +26,6 @@
 			],
 			"portrait": "",
 			"question": "Select an Option"
-		},
-		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
-			"index": 0,
-			"name": "Loop"
 		},
 		{
 			"choice": "Tell me about yourself",
@@ -182,13 +182,13 @@
 			"text": "For them to live on, means that the mission for Gaia lives on."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": ""
+			"question": "Select an Option"
 		},
 		{
 			"choice": "I guess so",
@@ -245,15 +245,15 @@
 			"text": "Whatever makes you happy?"
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 1
 		},
 		{
 			"character": "character-1701671584.json",
@@ -596,7 +596,7 @@
 			"value": ""
 		},
 		{
-			"change_timeline": "timeline-1702184642.json",
+			"change_timeline": "timeline-1705645103.json",
 			"event_id": "dialogic_020"
 		},
 		{
