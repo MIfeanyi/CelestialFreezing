@@ -113,4 +113,5 @@ anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 50.0
 margin_bottom = 50.0
+
 [connection signal="pressed" from="Menu/Inventory" to="." method="_on_Close_pressed"]

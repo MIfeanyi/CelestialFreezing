@@ -140,6 +140,7 @@ custom_colors/font_color = Color( 0.968627, 0.12549, 0.0588235, 1 )
 [node name="Timer" type="Timer" parent="."]
 wait_time = 10.0
 one_shot = true
+
 [connection signal="pressed" from="HBox/VBox/Pad/1" to="." method="_on_1_pressed"]
 [connection signal="pressed" from="HBox/VBox/Pad/2" to="." method="_on_2_pressed"]
 [connection signal="pressed" from="HBox/VBox/Pad/3" to="." method="_on_3_pressed"]

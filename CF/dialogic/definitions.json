@@ -79,24 +79,6 @@
 			"value": ""
 		},
 		{
-			"id": "1705641775-366",
-			"name": "Negative Respect",
-			"type": 0,
-			"value": "-1"
-		},
-		{
-			"id": "1705641746-787",
-			"name": "Toal Respect Check",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1705641807-146",
-			"name": "Positive Respect",
-			"type": 0,
-			"value": "1"
-		},
-		{
 			"id": "1705643321-947",
 			"name": "Camille",
 			"type": 0,
@@ -113,6 +95,24 @@
 			"name": "Julian",
 			"type": 0,
 			"value": "2"
+		},
+		{
+			"id": "1705641807-146",
+			"name": "Positive Respect",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1705641775-366",
+			"name": "Negative Respect",
+			"type": 0,
+			"value": "-1"
+		},
+		{
+			"id": "1705641746-787",
+			"name": "Toal Respect Check",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

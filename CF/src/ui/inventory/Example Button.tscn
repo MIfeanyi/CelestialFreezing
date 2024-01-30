@@ -2,9 +2,7 @@
 
 [ext_resource path="res://src/ui/inventory/Example Button.gd" type="Script" id=1]
 
-[node name="Button" type="Control" groups=[
-"inventory_button",
-]]
+[node name="Button" type="Control" groups=["inventory_button"]]
 anchor_right = 1.0
 anchor_bottom = 1.0
 script = ExtResource( 1 )
@@ -47,4 +45,5 @@ margin_right = 48.0
 margin_bottom = 14.0
 custom_colors/font_color = Color( 0.188235, 0.796078, 0.188235, 1 )
 text = "10.02"
+
 [connection signal="pressed" from="VBoxContainer/Button" to="." method="_on_Button_pressed"]
