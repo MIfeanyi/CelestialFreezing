@@ -691,6 +691,112 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s your skill then?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sure you’ve already picked up on this, but I can be a bit of a chatter box."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair may not think it’s a good thing, but being a conversationalist goes a long way when trying to get information."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I bring more to interactions than you might get with our other teammates when talking to people."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Taking a not so aggressive stance normally makes you seem as nice as me and just might get people to open up more."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What kind of information we get will depend on what you bring to the table and that I can’t control."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether that be a specific partner or certain items that people may need."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s the little things that go a long way."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In combat, I use a rifle, so I typically cover our other members when they’re on the offensive."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep in mind, my shots are limited to how much ammo we have."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If no one is on the offensive, it can leave me vulnerable."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And if I am attacked, I’m not altered like everyone else, so I’m not the strongest of the bunch or left with a lot of options, unfortunately."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s not good..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Think of it this way."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You scratch my back and I’ll scratch yours."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As long as its in a timely fashion if things get hairy."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If that makes any sense. "
+		},
+		{
+			"anchor_id": "anchor-1706633223",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Select as Partner ",
 			"condition": "",
 			"definition": "",
@@ -698,11 +804,51 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, I’m counting on you."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let’s make the world a better place!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo fist bumps you."
+		},
+		{
+			"change_timeline": "timeline-1705644060.json",
+			"event_id": "dialogic_020"
+		},
+		{
 			"choice": "Go Back",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be here if you need me."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Till next time, friend!"
 		},
 		{
 			"change_timeline": "timeline-1705645103.json",
