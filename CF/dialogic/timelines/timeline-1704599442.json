@@ -764,6 +764,20 @@
 			"text": "I have better things to do."
 		},
 		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair is now your partner!"
+		},
+		{
+			"definition": "1707076243-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"change_timeline": "timeline-1705644060.json",
 			"event_id": "dialogic_020"
 		},

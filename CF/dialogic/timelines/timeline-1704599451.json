@@ -324,10 +324,26 @@
 			"text": "Julian’s respect for you has fallen. (-1 RESPECT)"
 		},
 		{
+			"definition": "1705641746-787",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Silas rumbles within Julian."
+		},
+		{
+			"definition": "1707079059-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -613,10 +629,26 @@
 			"text": "Julian’s respect for you has risen. (+1 RESPECT) "
 		},
 		{
+			"definition": "1705641746-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Silas slumbers within Julian."
+		},
+		{
+			"definition": "1707079059-787",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -649,12 +681,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Yep! "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
 		},
 		{
 			"character": "character-1701671586.json",
@@ -723,12 +749,6 @@
 			"text": "You look inquisitively at Julian."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -791,6 +811,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Silas slumbers within Julian."
+		},
+		{
+			"definition": "1707079059-787",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -943,6 +971,20 @@
 			"text": "As long as we find some extra parts I guess it won’t be a complete waste of time."
 		},
 		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian is now your partner!"
+		},
+		{
+			"definition": "1707076243-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "2"
+		},
+		{
 			"change_timeline": "timeline-1705644060.json",
 			"event_id": "dialogic_020"
 		},
@@ -975,7 +1017,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "If ou find anything useful, bring 'em my way!"
+			"text": "If you find anything useful, bring 'em my way!"
 		},
 		{
 			"character": "character-1701671586.json",

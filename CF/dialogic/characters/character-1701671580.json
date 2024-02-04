@@ -6,8 +6,8 @@
 	"id": "character-1701671580.json",
 	"mirror_portraits": false,
 	"name": "Alistair",
-	"nickname": "",
-	"nickname_bool": false,
+	"nickname": "Mysterious Person?",
+	"nickname_bool": true,
 	"offset_x": 0,
 	"offset_y": 0,
 	"portraits": [

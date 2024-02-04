@@ -357,13 +357,13 @@
 			"text": "Even if people never believed in me."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": ""
+			"question": "Select an Option"
 		},
 		{
 			"choice": "I Understand",
@@ -583,6 +583,20 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "They need us."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille is now your partner!"
+		},
+		{
+			"definition": "1707076243-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "4"
 		},
 		{
 			"change_timeline": "timeline-1705644060.json",

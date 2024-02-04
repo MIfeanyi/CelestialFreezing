@@ -1,6 +1,83 @@
 {
 	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Explore",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Where would you like to go?"
+		},
+		{
+			"choice": "Shop",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1707079500.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Residential Area",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Abandoned Facility",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Outside of Nuclear Power Plant",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Gaia's Advocates",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701714641.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

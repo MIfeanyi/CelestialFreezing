@@ -57,11 +57,11 @@
 			"type": 1
 		},
 		{
-			"extra": "",
+			"extra": "$15",
 			"id": "1705641935-339",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
+			"name": "Bread",
+			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time it was enjoyed with other sandwich-like items.",
+			"title": "Slice White Bread",
 			"type": 1
 		}
 	],
@@ -97,22 +97,172 @@
 			"value": "2"
 		},
 		{
-			"id": "1705641807-146",
-			"name": "Positive Respect",
+			"id": "1707074351-366",
+			"name": "Alistair Selected",
 			"type": 0,
 			"value": "1"
 		},
 		{
-			"id": "1705641775-366",
-			"name": "Negative Respect",
+			"id": "1707074353-146",
+			"name": "Camille Selected",
 			"type": 0,
-			"value": "-1"
+			"value": "4"
+		},
+		{
+			"id": "1707074355-918",
+			"name": "Julian Selected",
+			"type": 0,
+			"value": "2"
+		},
+		{
+			"id": "1707074939-648",
+			"name": "Alistair Selected",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707074941-787",
+			"name": "Camille Selected",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707076146-787",
+			"name": "Alistair Selected",
+			"type": 0,
+			"value": "1"
 		},
 		{
 			"id": "1705641746-787",
-			"name": "Toal Respect Check",
+			"name": "Respect Meter Dependent Value",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1707076243-648",
+			"name": "Partner Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707079059-787",
+			"name": "Silas Transformation Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707080807-648",
+			"name": "Caden's Quest",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082098-787",
+			"name": "Respect Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082078-648",
+			"name": "Partner Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707080809-787",
+			"name": "Hooded Figure Side Quest - Leo Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083632-146",
+			"name": "Caden's Side Quest",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707083790-918",
+			"name": "Bread",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707084498-970",
+			"name": "Unfinished Tool",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1707084500-713",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1707083956-483",
+			"name": "Ham Sandwiches",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707084674-648",
+			"name": "Candy",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707084758-787",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1707084762-366",
+			"name": "Unfinished Tool",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1707084502-339",
+			"name": "Rifle Ammo",
+			"type": 0,
+			"value": "5"
+		},
+		{
+			"id": "1707078692-648",
+			"name": "Money",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707085110-648",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1707086461-366",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707086463-146",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1707086460-787",
+			"name": "Shop Intro (Leo)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707086477-918",
+			"name": "New value",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

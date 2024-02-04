@@ -1,6 +1,245 @@
 {
 	"events": [
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "So, you’ve finally made your choice?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, that’s right. "
+		},
+		{
+			"condition": "",
+			"definition": "1707076243-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And unfortunately, you chose me to babysit you."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fantastic…"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707076243-648",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be watching over our progress for Gaia. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707076243-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m mainly here for the parts, but I’ll try and make sure nothing bad happens, too."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707076243-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yep, I’ll be here to look out for our new buddy!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo rustles your hair. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair gave you $100!"
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "100"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite the devastation, money is still a currency used by people. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Use it wisely to buy supplies we might need from that shop over there for our mission. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Remember, speaking to the townspeople will give us more insight on how we can complete our mission. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I got it."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- Town Square -"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In every level there will be a hub area commonly referred to as the Town Square."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here you will have the option to ‘Explore’ or ‘Gaia’s Advocates’."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Selecting Explore will allow you to explore a town’s various areas."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here in Limerick, you can go to the Shop, the Residential Area, the Abandoned Facility, and the Nuclear Plant."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Each town will have unique side quest(s) that can be completed and might require you to have certain partners or specific items to complete them."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depending on the specific partner you have when you complete a side quest, you can potentially gain respect from that partner."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When confronted with a situation that might require you to change your partner, select Gaia’s Advocates to change your partner."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You will also be able to speak to your team members or give parts to Julian."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not yet."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me to talk to everyone again."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch, then why are you here?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hurry up already."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t waste my time, fool."
+		},
+		{
+			"change_timeline": "timeline-1705645103.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

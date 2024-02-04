@@ -55,7 +55,11 @@
 							"files": [
 								"character-1702178975.json",
 								"character-1702178992.json",
-								"character-1702178286.json"
+								"character-1702178286.json",
+								"character-1707081789.json",
+								"character-1707081793.json",
+								"character-1707081795.json",
+								"character-1707081796.json"
 							],
 							"folders": {
 
@@ -103,17 +107,46 @@
 		},
 		"Definitions": {
 			"files": [
-
+				"1707082098-787",
+				"1707082078-648",
+				"1707079059-787"
 			],
 			"folders": {
-				"Level I - Shop Items": {
+				"Level I - Revival of Limerick": {
 					"files": [
 
 					],
 					"folders": {
-						"Buy": {
+						"Inventory": {
 							"files": [
-								"1705641935-339"
+								"1707078692-648",
+								"1707084502-339",
+								"1707084762-366",
+								"1707085110-648"
+							],
+							"folders": {
+								"Key Items": {
+									"files": [
+										"1707083956-483",
+										"1707084674-648"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								}
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
+						"Key Events": {
+							"files": [
+								"1707086477-918"
 							],
 							"folders": {
 
@@ -123,16 +156,52 @@
 								"folded": false
 							}
 						},
-						"Sell": {
+						"Level I - Shop Items": {
 							"files": [
 
+							],
+							"folders": {
+								"Buy": {
+									"files": [
+										"1707083790-918"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": false
+									}
+								},
+								"Sell": {
+									"files": [
+
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": false
+									}
+								}
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
+						"Side Quests": {
+							"files": [
+								"1707080809-787",
+								"1707083632-146"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},
@@ -154,25 +223,11 @@
 						"color": null,
 						"folded": true
 					}
-				},
-				"Respect Meter": {
-					"files": [
-						"1705641746-787",
-						"1705641775-366",
-						"1705641807-146"
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -235,7 +290,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Intro": {
@@ -274,46 +329,17 @@
 								"folded": true
 							}
 						},
-						"Outside of Nuclear Plant": {
-							"files": [
-
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": false
-							}
-						},
 						"Town Square": {
 							"files": [
-								"timeline-1701713808.json",
 								"timeline-1701714406.json"
 							],
 							"folders": {
-								"Getting to Know the Team (Main)": {
+								"Explore": {
 									"files": [
-										"timeline-1701714641.json",
-										"timeline-1704600589.json",
-										"timeline-1704600593.json",
-										"timeline-1704600595.json",
-										"timeline-1704600597.json"
+										"timeline-1707079511.json"
 									],
 									"folders": {
-
-									},
-									"metadata": {
-										"color": null,
-										"folded": false
-									}
-								},
-								"Partner Specific Timeline": {
-									"files": [
-
-									],
-									"folders": {
-										"Alistair": {
+										"Abandoned Facility": {
 											"files": [
 
 											],
@@ -325,7 +351,23 @@
 												"folded": false
 											}
 										},
-										"Camille": {
+										"Outside of Shop": {
+											"files": [
+												"timeline-1707087355.json",
+												"timeline-1707087591.json",
+												"timeline-1707087593.json",
+												"timeline-1707087596.json",
+												"timeline-1707087598.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": true
+											}
+										},
+										"Residential Area": {
 											"files": [
 
 											],
@@ -337,19 +379,7 @@
 												"folded": false
 											}
 										},
-										"Julian": {
-											"files": [
-
-											],
-											"folders": {
-
-											},
-											"metadata": {
-												"color": null,
-												"folded": false
-											}
-										},
-										"Leo": {
+										"Shop": {
 											"files": [
 
 											],
@@ -365,6 +395,33 @@
 									"metadata": {
 										"color": null,
 										"folded": false
+									}
+								},
+								"Gaia's Advocates": {
+									"files": [
+
+									],
+									"folders": {
+										"Getting to Know the Team (Main)": {
+											"files": [
+												"timeline-1701714641.json",
+												"timeline-1704600589.json",
+												"timeline-1704600593.json",
+												"timeline-1704600595.json",
+												"timeline-1704600597.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										}
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
 									}
 								}
 							},
