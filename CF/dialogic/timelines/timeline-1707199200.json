@@ -176,7 +176,7 @@
 			"text": "Maybe they could tell us more about what’s happened here in this town. "
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s definitely worth a shot. "
@@ -644,7 +644,7 @@
 			"text": "We just have bigger things to worry about right now I'd imagine."
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Sorry about this, I promise I’ll help you somehow."
