@@ -63,6 +63,14 @@
 			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time it was enjoyed with other sandwich-like items.",
 			"title": "Slice White Bread",
 			"type": 1
+		},
+		{
+			"extra": "True craftsmanship!",
+			"id": "1707206305-366",
+			"name": "Ham Sandwiches",
+			"text": "Multiple ham sandwiches crafted with the finest of white breads, succulent honey hams, and all American sliced cheese made by Julian!",
+			"title": "Ham Sandwiches",
+			"type": 1
 		}
 	],
 	"variables": [
@@ -145,46 +153,10 @@
 			"value": "0"
 		},
 		{
-			"id": "1707079059-787",
-			"name": "Silas Transformation Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707080807-648",
 			"name": "Caden's Quest",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1707082098-787",
-			"name": "Respect Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707082078-648",
-			"name": "Partner Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707080809-787",
-			"name": "Hooded Figure Side Quest - Leo Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707083632-146",
-			"name": "Caden's Side Quest",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1707083790-918",
-			"name": "Bread",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1707084498-970",
@@ -199,46 +171,16 @@
 			"value": "3"
 		},
 		{
-			"id": "1707083956-483",
-			"name": "Ham Sandwiches",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707084674-648",
-			"name": "Candy",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707084758-787",
 			"name": "First Aid Kit",
 			"type": 0,
 			"value": "3"
 		},
 		{
-			"id": "1707084762-366",
-			"name": "Unfinished Tool",
-			"type": 0,
-			"value": "1"
-		},
-		{
-			"id": "1707084502-339",
-			"name": "Rifle Ammo",
-			"type": 0,
-			"value": "5"
-		},
-		{
 			"id": "1707078692-648",
 			"name": "Money",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1707085110-648",
-			"name": "First Aid Kit",
-			"type": 0,
-			"value": "3"
 		},
 		{
 			"id": "1707086461-366",
@@ -259,10 +201,88 @@
 			"value": "0"
 		},
 		{
-			"id": "1707086477-918",
-			"name": "New value",
+			"id": "1707205434-648",
+			"name": "Hooded Figure Name Tag - Alistair Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083632-146",
+			"name": "Caden's Side Quest",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707080809-787",
+			"name": "Hooded Figure Side Quest - Leo Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083790-918",
+			"name": "Bread",
 			"type": 0,
 			"value": ""
+		},
+		{
+			"id": "1707086477-918",
+			"name": "Ham Sandwiches",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082098-787",
+			"name": "Respect Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082078-648",
+			"name": "Partner Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707079059-787",
+			"name": "Silas Transformation Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707084674-648",
+			"name": "Candy",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707084502-339",
+			"name": "Rifle Ammo",
+			"type": 0,
+			"value": "5"
+		},
+		{
+			"id": "1707084762-366",
+			"name": "Unfinished Tool",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1707085110-648",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1707083956-483",
+			"name": "Ham Sandwiches",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707207257-648",
+			"name": "Ham Sandwiches",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

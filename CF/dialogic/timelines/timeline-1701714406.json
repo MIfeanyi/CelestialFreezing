@@ -33,7 +33,7 @@
 			"value": ""
 		},
 		{
-			"change_timeline": "timeline-1707079500.json",
+			"change_timeline": "timeline-1707087355.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -55,11 +55,19 @@
 			"value": ""
 		},
 		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		},
+		{
 			"choice": "Outside of Nuclear Power Plant",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1707079511.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"

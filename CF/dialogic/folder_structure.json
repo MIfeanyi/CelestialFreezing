@@ -22,7 +22,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"NPCs": {
@@ -107,11 +107,23 @@
 		},
 		"Definitions": {
 			"files": [
-				"1707082098-787",
-				"1707082078-648",
-				"1707079059-787"
+
 			],
 			"folders": {
+				"Dependent Variables": {
+					"files": [
+						"1707079059-787",
+						"1707082078-648",
+						"1707082098-787"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				},
 				"Level I - Revival of Limerick": {
 					"files": [
 
@@ -127,7 +139,7 @@
 							"folders": {
 								"Key Items": {
 									"files": [
-										"1707083956-483",
+										"1707207257-648",
 										"1707084674-648"
 									],
 									"folders": {
@@ -135,21 +147,9 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
-							},
-							"metadata": {
-								"color": null,
-								"folded": true
-							}
-						},
-						"Key Events": {
-							"files": [
-								"1707086477-918"
-							],
-							"folders": {
-
 							},
 							"metadata": {
 								"color": null,
@@ -170,19 +170,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
-									}
-								},
-								"Sell": {
-									"files": [
-
-									],
-									"folders": {
-
-									},
-									"metadata": {
-										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},
@@ -194,6 +182,7 @@
 						"Side Quests": {
 							"files": [
 								"1707080809-787",
+								"1707205434-648",
 								"1707083632-146"
 							],
 							"folders": {
@@ -227,7 +216,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -357,14 +346,15 @@
 												"timeline-1707087591.json",
 												"timeline-1707087593.json",
 												"timeline-1707087596.json",
-												"timeline-1707087598.json"
+												"timeline-1707087598.json",
+												"timeline-1707199200.json"
 											],
 											"folders": {
 
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
@@ -389,6 +379,21 @@
 											"metadata": {
 												"color": null,
 												"folded": false
+											}
+										},
+										"Shop (Intros)": {
+											"files": [
+												"timeline-1707198329.json",
+												"timeline-1707198379.json",
+												"timeline-1707198381.json",
+												"timeline-1707198382.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": true
 											}
 										}
 									},
