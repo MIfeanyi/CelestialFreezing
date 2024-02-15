@@ -196,7 +196,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level II - Arm Wrestling Mini Game": {
@@ -279,7 +279,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Intro": {
@@ -354,7 +354,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
@@ -432,7 +432,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
