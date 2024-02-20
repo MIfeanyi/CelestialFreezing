@@ -211,7 +211,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
+			"hide_dialogbox": false,
 			"wait_seconds": 2
 		},
 		{
@@ -278,7 +278,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with.\n"
+			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -290,7 +290,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We, the true protectors of the planet  Gaia’s Advocates, have slaved away since that day knowing the necessity of our purpose. "
+			"text": "We, the true protectors of the planet,  Gaia’s Advocates, have slaved away since that day knowing the necessity of our purpose. "
 		},
 		{
 			"character": "character-1701671580.json",
