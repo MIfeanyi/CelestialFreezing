@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get what you need and leave this town is you know what’s good for you…"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1708657327.json",
+		"name": "Shop (Leo)"
+	}
+}

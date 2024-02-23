@@ -283,6 +283,24 @@
 			"name": "Ham Sandwiches",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1708658196-366",
+			"name": "Initial ",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708658192-787",
+			"name": "Initial Abandoned Facility Variable",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658189-648",
+			"name": "Initial Shop Variable",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

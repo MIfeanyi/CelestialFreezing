@@ -129,6 +129,20 @@
 
 					],
 					"folders": {
+						"Inital Event Variable": {
+							"files": [
+								"1708658189-648",
+								"1708658192-787",
+								"1708658196-366"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
 						"Inventory": {
 							"files": [
 								"1707078692-648",
@@ -147,13 +161,13 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I - Shop Items": {
@@ -196,7 +210,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"Level II - Arm Wrestling Mini Game": {
@@ -320,12 +334,13 @@
 						},
 						"Town Square": {
 							"files": [
-								"timeline-1701714406.json"
+								"timeline-1701714406.json",
+								"timeline-1707079511.json"
 							],
 							"folders": {
 								"Explore": {
 									"files": [
-										"timeline-1707079511.json"
+
 									],
 									"folders": {
 										"Abandoned Facility": {
@@ -371,7 +386,11 @@
 										},
 										"Shop": {
 											"files": [
-
+												"timeline-1708657314.json",
+												"timeline-1708657319.json",
+												"timeline-1708657323.json",
+												"timeline-1708657327.json",
+												"timeline-1708657331.json"
 											],
 											"folders": {
 
@@ -379,21 +398,6 @@
 											"metadata": {
 												"color": null,
 												"folded": false
-											}
-										},
-										"Shop (Intros)": {
-											"files": [
-												"timeline-1707198329.json",
-												"timeline-1707198379.json",
-												"timeline-1707198381.json",
-												"timeline-1707198382.json"
-											],
-											"folders": {
-
-											},
-											"metadata": {
-												"color": null,
-												"folded": true
 											}
 										}
 									},
