@@ -71,6 +71,86 @@
 			"text": "Multiple ham sandwiches crafted with the finest of white breads, succulent honey hams, and all American sliced cheese made by Julian!",
 			"title": "Ham Sandwiches",
 			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792115-970",
+			"name": "Bread",
+			"text": "A single loaf of white bread. Commonly eaten by itself, but can be enjoyed with other sandwich-like items. ",
+			"title": "Sliced White Bread",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792125-713",
+			"name": "Battery",
+			"text": "Typically used to power a variety of devices and contraptions due to its large size. Comes with two in a package.",
+			"title": "Large Capacity Battery",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792132-339",
+			"name": "Circular Saw Blade",
+			"text": "A part used to cut through thin metals when attached to a specific tool or contraption.",
+			"title": "Large circular saw blade",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792135-785",
+			"name": "Copper Wires",
+			"text": "A part used to circulate electricity for a variety of devices and contraptions.",
+			"title": "Standard Copper Wires",
+			"type": 1
+		},
+		{
+			"extra": "Can not be combined",
+			"id": "1708792137-842",
+			"name": "Candy",
+			"text": "A single, sweet, treat enjoyed by adults and children alike. Quite expensive due to its scarcity. ",
+			"title": "Delicious Candy",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792139-905",
+			"name": "Cheese",
+			"text": "Processed, sliced, and almost freezer burned to ice cheese. Can be enjoyed with other ingredients or on its own. ",
+			"title": "Sliced American Cheese",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792142-192",
+			"name": "Ham",
+			"text": "It’s clearly been repackaged and partially eaten, but it’s labeled ‘HAM’… Can be enjoyed with other ingredients or on its own?",
+			"title": "Chewed on Honey Ham?",
+			"type": 1
+		},
+		{
+			"extra": "Value: $15",
+			"id": "1708793107-953",
+			"name": "Rifle Ammo",
+			"text": "Ammunition used for rifles designed for long range combat.",
+			"title": "Standard Rifle Ammunition",
+			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1708793111-265",
+			"name": "Unfinished Contraption",
+			"text": "",
+			"title": "Unfinished Tool",
+			"type": 1
+		},
+		{
+			"extra": "Value: $30",
+			"id": "1708793114-701",
+			"name": "First Aid Kit",
+			"text": "A medical combat kit used to heal injuries. Recovers great health.",
+			"title": "Combat Medic First Aid Kit",
+			"type": 1
 		}
 	],
 	"variables": [
@@ -159,12 +239,6 @@
 			"value": "3"
 		},
 		{
-			"id": "1707078692-648",
-			"name": "Money",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707086461-366",
 			"name": "New value",
 			"type": 0,
@@ -199,12 +273,6 @@
 			"name": "Hooded Figure Side Quest - Leo Only",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1707083790-918",
-			"name": "Bread",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1707086477-918",
@@ -243,25 +311,7 @@
 			"value": "5"
 		},
 		{
-			"id": "1707084762-366",
-			"name": "Unfinished Tool",
-			"type": 0,
-			"value": "1"
-		},
-		{
-			"id": "1707085110-648",
-			"name": "First Aid Kit",
-			"type": 0,
-			"value": "3"
-		},
-		{
 			"id": "1707083956-483",
-			"name": "Ham Sandwiches",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707207257-648",
 			"name": "Ham Sandwiches",
 			"type": 0,
 			"value": "0"
@@ -295,6 +345,96 @@
 			"name": "Alistair Pisses of Shopkeeper",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1708791662-483",
+			"name": "Ham",
+			"type": 0,
+			"value": "25"
+		},
+		{
+			"id": "1708791661-918",
+			"name": "Cheese",
+			"type": 0,
+			"value": "20"
+		},
+		{
+			"id": "1708791658-146",
+			"name": "Candy",
+			"type": 0,
+			"value": "10"
+		},
+		{
+			"id": "1708791643-366",
+			"name": "Copper Wires",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1708791642-787",
+			"name": "Circular Saw Blade",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1707207257-648",
+			"name": "Ham Sandwiches",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708793105-416",
+			"name": "Rifle Ammo (Price)",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1708793109-600",
+			"name": "Unfinished Tool (Price)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708793112-501",
+			"name": "First Aid Kit (Price)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708791639-648",
+			"name": "Battery",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1707083790-918",
+			"name": "Bread",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1707078692-648",
+			"name": "Money",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707085110-648",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1707084762-366",
+			"name": "Unfinished Tool",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1708794547-233",
+			"name": "New value",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

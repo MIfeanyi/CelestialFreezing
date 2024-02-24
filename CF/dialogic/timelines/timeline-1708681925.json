@@ -1,6 +1,964 @@
 {
 	"events": [
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "What would you like to buy?"
+		},
+		{
+			"choice": "Bread",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "15"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "15"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Bread!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Battery",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "30"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "30"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Battery!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Circular Saw Blade",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "30"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "30"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Circular Saw Blade!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Copper Wires",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "15"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "15"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Copper Wires!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Candy",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "10"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "10"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Candy!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707083632-146",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Cheese",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "20"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "20"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Cheese!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Ham",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Is this what you want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "<",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "25"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Count your coins again, kid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't have enough."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're broke."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't come in here without enough cash, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're just wasting everyone's time right now."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_012",
+			"value": "25"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, here you go then."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You purchased Ham!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Find something to buy or get the hell out already. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

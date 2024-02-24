@@ -130,7 +130,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Inventory": {
@@ -144,10 +144,46 @@
 								"Key Items": {
 									"files": [
 										"1707207257-648",
-										"1707084674-648"
+										"1707084674-648",
+										"1708794547-233"
 									],
 									"folders": {
+										"New Folder 1708794526": {
+											"files": [
 
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
+										"New Folder 1708794529": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
+										"New Folder 1708794541": {
+											"files": [
+
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										}
 									},
 									"metadata": {
 										"color": null,
@@ -157,7 +193,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level I - Shop Items": {
@@ -167,7 +203,30 @@
 							"folders": {
 								"Buy": {
 									"files": [
-										"1707083790-918"
+										"1708792115-970",
+										"1708792125-713",
+										"1708792132-339",
+										"1708792135-785",
+										"1708792137-842",
+										"1708792139-905",
+										"1708792142-192"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Sell": {
+									"files": [
+										"1708793105-416",
+										"1708793107-953",
+										"1708793109-600",
+										"1708793111-265",
+										"1708793112-501",
+										"1708793114-701"
 									],
 									"folders": {
 
@@ -180,7 +239,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Side Quests": {
@@ -235,7 +294,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -305,7 +364,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Town Square": {
@@ -414,13 +473,13 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},

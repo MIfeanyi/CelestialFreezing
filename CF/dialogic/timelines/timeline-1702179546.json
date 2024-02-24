@@ -19,40 +19,16 @@
 			"text": "Yeah, things were getting pretty crazy out there for a second."
 		},
 		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Stole the words right out of my mouth, man!"
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Everyone alright?"
-		},
-		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m fine, nothing I’m not already-"
+			"text": "I’m fine, nothing I’m not used to already."
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You all done holding hands and kissing raspberries?!!"
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "We've done nothing, but waste away the day!"
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "With the mission at hand, we can't continue idling about!"
+			"text": "You all done holding hands and kissing boo boos?"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -64,79 +40,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You all know that!"
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "..."
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Julian shamefully shudders away from Alistairs rage."
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "O-Of course, of course, Alistair!"
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "We know and understand the importance of the mission at hand."
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I just wnated to make sure that everyone was in tip-top condition in order to adequately perform is all."
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And the best part is..."
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Everyone's good!"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Julian gives a reluctant nod, in contrast to Camille's unwavering expression, as Leo roughly pats their backs and hooks his arms around them."
-		},
-		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Can't do our best for Gaia if someone's hurt, right?"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Alistair lets out a disgruntled, yet self-soothing, sigh seeing Leo's cartoonish grin."
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
 			"text": "More importantly..."
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Alistair turns towards you with a stern glare."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -224,7 +128,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "If not for that, I don’t know who else would have done what I did or if any of us would even be here right now to complain about it."
+			"text": "If not for that, I don’t know who else would have done what I did and if any of us would be here right now. "
 		},
 		{
 			"character": "character-1701671584.json",
@@ -307,7 +211,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 2
 		},
 		{
@@ -374,7 +278,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with."
+			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with.\n"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -398,7 +302,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Make a mockery of it, if it makes you feel better."
+			"text": "Make a mockery of it if it makes you feel better."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -416,13 +320,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We do what Gaia has always asked of its disciples:"
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "To cherish the bountiful land it has bestowed upon us and care for it as it has cared for us."
+			"text": "We do what Gaia has always asked of its disciples."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -440,25 +338,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Don't bother thinking too hard about it."
+			"text": "Don't bother thinking to hard about it."
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We'd be wasting our time waiting for you to spew more arrogance."
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Feigning ignorance is a much better look for you anyway."
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Trust me."
+			"text": "We'd be wasting our time expecting you to come up with an answer."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -515,7 +401,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
+			"text": ": It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -545,13 +431,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Anyway..."
+			"text": ": Anyway..."
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As a by-product of the RAFs, a heightened form of breathable oxygen particles are released which contain necessary elements needed to repair the tarnished atmosphere."
+			"text": "As a by-product of the RAFs, a heightened form of breathable oxygen are released and contains necessary elements needed to repair the tarnished atmosphere."
 		},
 		{
 			"character": "character-1701671580.json",
