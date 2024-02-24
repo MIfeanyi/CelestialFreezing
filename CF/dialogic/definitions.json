@@ -87,24 +87,6 @@
 			"value": ""
 		},
 		{
-			"id": "1705643321-947",
-			"name": "Camille",
-			"type": 0,
-			"value": "4"
-		},
-		{
-			"id": "1705643357-487",
-			"name": "Leo",
-			"type": 0,
-			"value": "3"
-		},
-		{
-			"id": "1705643361-423",
-			"name": "Julian",
-			"type": 0,
-			"value": "2"
-		},
-		{
 			"id": "1707074351-366",
 			"name": "Alistair Selected",
 			"type": 0,
@@ -285,10 +267,10 @@
 			"value": "0"
 		},
 		{
-			"id": "1708658196-366",
-			"name": "Initial ",
+			"id": "1708658189-648",
+			"name": "Initial Shop Variable",
 			"type": 0,
-			"value": ""
+			"value": "0"
 		},
 		{
 			"id": "1708658192-787",
@@ -297,8 +279,20 @@
 			"value": "0"
 		},
 		{
-			"id": "1708658189-648",
-			"name": "Initial Shop Variable",
+			"id": "1708658196-366",
+			"name": "Initial Chester's Peak Convo (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708766177-787",
+			"name": "Leo Pisses off Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708768034-366",
+			"name": "Alistair Pisses of Shopkeeper",
 			"type": 0,
 			"value": "0"
 		}

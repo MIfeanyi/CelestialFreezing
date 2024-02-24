@@ -53,7 +53,7 @@
 			"text": "Y-yes?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If you buy those, I’ll be able to make a power saw to cut metal fences! "
@@ -65,207 +65,8 @@
 			"text": "I’ll keep that in mind…"
 		},
 		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1708660345",
-			"index": 0,
-			"name": "Buy Loop"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "What would you like to buy?"
-		},
-		{
-			"choice": "Bread",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_025",
-			"extra": "",
-			"glossary_id": "",
-			"text": "",
-			"title": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "Is this what you want?"
-		},
-		{
-			"choice": "Yes",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"condition": "<",
-			"definition": "1707078692-648",
-			"event_id": "dialogic_012",
-			"value": "15"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Count your coins again, kid."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You don't have enough."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It's one thing to be broke, but it's another thing to be stiupid."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Get your shit together or get out."
-		},
-		{
-			"anchor_id": "anchor-1708660345",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": ">=",
-			"definition": "1707078692-648",
-			"event_id": "dialogic_012",
-			"value": "15"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Fine, here you go."
-		},
-		{
-			"definition": "1707083790-918",
-			"event_id": "dialogic_014",
-			"operation": "=",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
-			"anchor_id": "anchor-1708660345",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "No",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Find something to buy or get the hell out already. "
-		},
-		{
-			"anchor_id": "anchor-1708660345",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "Battery",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Circular Saw Blade",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Copper Wires",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Candy",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Cheese",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Ham",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Return",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "If you’re only here for window shopping, do me a favor and do it from outside, alright?"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Find something to buy or get the hell out already. "
-		},
-		{
-			"anchor_id": "anchor-1708660877",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
+			"change_timeline": "timeline-1708681925.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Sell",
@@ -275,224 +76,8 @@
 			"value": ""
 		},
 		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
-			"index": 0,
-			"name": "Sell Loop"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "What would you like to sell?"
-		},
-		{
-			"choice": "Rifle Ammo",
-			"condition": ">=",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "1"
-		},
-		{
-			"event_id": "dialogic_025",
-			"extra": "",
-			"glossary_id": "",
-			"text": "",
-			"title": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "This what you're tryna sell, huh?"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I'll you $15 for one."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "How many are you trying to sell?"
-		},
-		{
-			"choice": "1",
-			"condition": "==",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "1"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Looks like that'll total out to $15."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "Does that work for you?"
-		},
-		{
-			"choice": "Yes",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Here you go then."
-		},
-		{
-			"definition": "1707078692-648",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "15"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You received $15!"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Your current amount of money is..."
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "No",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Didn't look like you had anything worthwhile anyways..."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you actually have some money to buy something at least."
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "2",
-			"condition": "",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "2"
-		},
-		{
-			"choice": "3",
-			"condition": "",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "3"
-		},
-		{
-			"choice": "4",
-			"condition": "",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "4"
-		},
-		{
-			"choice": "5",
-			"condition": "",
-			"definition": "1707084502-339",
-			"event_id": "dialogic_011",
-			"value": "5"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "Unfinished Tool",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_025",
-			"extra": "",
-			"glossary_id": "",
-			"text": "",
-			"title": ""
-		},
-		{
-			"choice": "First Aid Kit",
-			"condition": ">=",
-			"definition": "1707085110-648",
-			"event_id": "dialogic_011",
-			"value": "1"
-		},
-		{
-			"event_id": "dialogic_025",
-			"extra": "",
-			"glossary_id": "",
-			"text": "",
-			"title": ""
-		},
-		{
-			"choice": "Return",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Didn't look like you had anything worthwhile anyways..."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you actually have some money to buy something at least."
-		},
-		{
-			"anchor_id": "anchor-1708660877",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
+			"change_timeline": "timeline-1708681929.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Talk",
@@ -530,145 +115,145 @@
 			"text": "What’s with the hooded guy out there?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That bastard?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The same waste of life responsible for what’s happened to this town?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Uh...Yeah?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Those wearing black cloaks are altered researchers responsible for the exposure in this town and are hiding their disgusting forms. "
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We don’t help them."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That’s the rule. "
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Whether it be out of fear of being exposed to their seeping radiation or being exiled from what little town remains into the frosting like the other researchers."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s something everyone has come to understand."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The altered try and come into town to get food, but they know if they enter my shop, I’ve got buck shot waiting for them behind this counter."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "They don’t deserve help after what they allowed to happen."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I see…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Yeah, yeah, yeah."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Cool story, Mr. Shopkeeper guy."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Don’t forget about the parts, dude. "
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "need~"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "'em!"
+			"text": "them!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A-alright..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That beggar out there is probably one of the altered staying at the abandoned research facility up the road."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "There are rumors of an altered female who is still mostly human that defends those bastards from outsiders."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "While you're making your visit short, I’d stay away from there if you like having your sight and not choking on your own blood."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Do you think she might have any cool parts I could use?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I mean, I’m sure after we talk to her and come to an understanding, she’d have some really neat tools too!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Forget about wanna be Santa Clause here, we should go talk to her!"
@@ -691,94 +276,108 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Can you tell me a little bit about Chester’s Peak?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "All you need to know is that a militia group claiming to be part of the United States military set up a ‘protective detail’ near the nuclear plant. "
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "In order to ‘protect’ the townspeople and offer aid."
+			"text": "In order to ‘protect’ the townspeople and offer 'aid'."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "From terrorist or a nuclear meltdown if the plant is restarted."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Believe half of what you see and none of what you hear…"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Although they shared some of their generators and food at first, once their commander showed up, they began to sell their aid to us. "
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If we didn’t have the money we would have to pay with other ‘goods and services’..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The smallest inkling of one person not cooperating?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s why we don’t want you here."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Outsiders only cause problems for our families."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Something I’m a little too used to hearing…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We should get out of here as soon as we can."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Wait a sec, isn’t the whole reason why we’re here to help the people out?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Let’s just go already..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas rumbles within Julian."
+		},
+		{
+			"definition": "1707079059-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"character": "",

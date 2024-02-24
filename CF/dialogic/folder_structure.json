@@ -22,7 +22,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"NPCs": {
@@ -68,30 +68,6 @@
 								"color": null,
 								"folded": true
 							}
-						},
-						"Level II - Malice at McGuire": {
-							"files": [
-
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": false
-							}
-						},
-						"Level III - Solace of St. Lucie": {
-							"files": [
-
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": false
-							}
 						}
 					},
 					"metadata": {
@@ -129,18 +105,32 @@
 
 					],
 					"folders": {
-						"Inital Event Variable": {
+						"Alistair Forcast Information": {
 							"files": [
-								"1708658189-648",
-								"1708658192-787",
-								"1708658196-366"
+
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
+							}
+						},
+						"Inital Event Variable": {
+							"files": [
+								"1708658189-648",
+								"1708658192-787",
+								"1708658196-366",
+								"1708766177-787",
+								"1708768034-366"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
 							}
 						},
 						"Inventory": {
@@ -212,20 +202,6 @@
 						"color": null,
 						"folded": false
 					}
-				},
-				"Level II - Arm Wrestling Mini Game": {
-					"files": [
-						"1705643321-947",
-						"1705643357-487",
-						"1705643361-423"
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": true
-					}
 				}
 			},
 			"metadata": {
@@ -276,7 +252,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Getting to Know the Team (Initial)": {
@@ -369,7 +345,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Residential Area": {
@@ -390,7 +366,9 @@
 												"timeline-1708657319.json",
 												"timeline-1708657323.json",
 												"timeline-1708657327.json",
-												"timeline-1708657331.json"
+												"timeline-1708657331.json",
+												"timeline-1708681925.json",
+												"timeline-1708681929.json"
 											],
 											"folders": {
 
@@ -439,54 +417,6 @@
 								"folded": false
 							}
 						}
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Level I.I - Campsite I": {
-					"files": [
-
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Level II - Malice at McGuire": {
-					"files": [
-
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Level II.I - Campsite II": {
-					"files": [
-
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Level III - Solace of St. Lucie": {
-					"files": [
-
-					],
-					"folders": {
-
 					},
 					"metadata": {
 						"color": null,

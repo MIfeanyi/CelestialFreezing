@@ -1,31 +1,80 @@
 {
 	"events": [
 		{
-			"character": "",
+			"condition": "",
+			"definition": "1708768034-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shopkeeper aims his shotgun at you the second you enter the shop!"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Either you're dumb or stupid coming back in here with whatever the hell that is again."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get the hell out of here."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shopkeeper primes his shotgun!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're leaving..."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You’re not from around here, are you?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Get what you need and leave."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "From this dilapidated, dare I give it the respect to call it..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "an 'establishment'?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What did you say?"
@@ -47,37 +96,37 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Are you serious right now, Alistair?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What about our mission here?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No wonder Gaia assigned this worthless town as our first assignment."
+			"text": "No wonder Gaia assigned this worthless town as our new assignment."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Our purchases here would be seen as a donation more than anything."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What the hell are you saying right now?!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You’re going to get us-"
@@ -90,37 +139,43 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Tell me about it."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I can see mold between the floorboards and on the ceiling, disgusting."
+			"text": "I can see mold between the floorboards than on the ceiling."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No wonder Gaia assigned this worthless town as our first assignment."
+			"text": "Disgusting."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No wonder Gaia assigned this worthless town as our new assignment."
+		},
+		{
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Our purchases here would be seen as a donation more than anything."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Heh, he ought to be thanking us then."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Gaia really knows how to pick its poorest people to help well. "
@@ -129,37 +184,37 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Get out of my shop and don’t come in here again."
+			"text": "Get the hell out of my shop and don’t come in here again."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A Remington 870 Express Tactical Shotgun"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair confidently scoffs"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You think something like that could hurt one of Gaia’s chosen?"
@@ -171,97 +226,97 @@
 			"text": "Huh?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Gaia’s chosen…"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I’ve heard about a few altered somehow..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "\"Evolving\""
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "To something other than human..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If it won’t work against you, pretty boy…"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The Shopkeeper aims his shotgun at you!"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Then I wonder what you have to say about it, kid."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Are you one of them?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You look pretty under-ordinary to me."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HA HA HA HA HA!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You're right!"
+			"text": "Under-ordinary indeed!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There's nothing extra ordinary about this wretch."
+			"text": "There's nothing 'extra' about this wretch outside of the amount of wasted potential they never had."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "So, kill it if you want."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’d be doing the world a favor if you did…"
+			"text": "You would be doing the world a favor if you did."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You'd definitely be doing me a favor."
+			"text": "You would be doing wonders for me, really."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I don't know what the hell your angle is, but..."
@@ -273,7 +328,7 @@
 			"name": "Death Loop"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I’m warning you..."
@@ -295,85 +350,93 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Message received."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We’re leaving."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Tch, fine."
 		},
 		{
-			"character": "",
+			"definition": "1708768034-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You and Alistair leave the shop."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What the hell was all of that?!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You almost got us killed!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "No, no."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You almost got killed."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I would’ve been fine. "
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s not like he was aiming at me at the end there anyway."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You’re missing the point here…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Am I?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The only point that matters is that I’m the one Gaia actually needs here out of the two of us."
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
@@ -390,13 +453,13 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If you think it’s that easy to kill me… "
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I’d like to see you try!"
@@ -408,13 +471,13 @@
 			"text": "BANG"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You were killed by the Shopkeeper"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "- GAME OVER -"

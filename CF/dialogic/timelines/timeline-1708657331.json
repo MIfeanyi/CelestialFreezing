@@ -5,6 +5,375 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Get what you need and leave this town is you know what’s good for you…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What would you like to do?"
+		},
+		{
+			"choice": "Buy",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1708681925.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Sell",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1708681929.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Talk",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708764355",
+			"index": 0,
+			"name": "Talk Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Hooded Figure Outside",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hooded guy outside that coughs a lot. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s up with him?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That bastard?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The scum of the earth that’s responsible for what’s happened to this town?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Those wearing black cloaks are altered researchers responsible for the exposure in this town and are hiding their disgusting forms."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We don’t help them. "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s the rule. "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether it be out of fear of being exposed to their seeping radiation or being exiled from what little town remains into the frosting like the other researchers. "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s something everyone has come to understand."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The altered try and come into town to get food, but they know if they enter my shop, I’ve got buck shot waiting for them behind this counter."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They don’t deserve help after what they allowed to happen."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That beggar out there is probably one of the altered staying at the abandoned research facility up the road. "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There are rumors of an altered female who is still mostly human that defends those bastards from outsiders. "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While you're making your visit short, I’d stay away from there if you like having your sight and not choking on your own blood. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Another altered woman with combat abilities..."
+		},
+		{
+			"anchor_id": "anchor-1708764355",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Chester's Peak",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can you tell me a little about Chester’s Peak?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All you need to know is that a militia group claiming to be part of the United States military set up a ‘protective detail’ near the nuclear plant."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In order to ‘protect’ the townspeople and offer aid."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From terrorist or a nuclear meltdown if the plant is restarted."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Believe half of what you see and none of what you hear…"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although they shared some of their generators and food at first, once their commander showed up, they began to sell their aid to us."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If we didn’t have the money, then we would have to pay with other ‘goods and services’..."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The smallest inkling of one person not cooperating?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "… "
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s why we don’t want you here."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outsiders only cause problems for our families."
+		},
+		{
+			"definition": "1708658196-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"anchor_id": "anchor-1708764355",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Commander",
+			"condition": "==",
+			"definition": "1708658196-366",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who is the commander  you mentioned earlier?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shopkeeper seems reluctant to answer as he glances outside the shop's windows before returning his focus back to you."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alvin."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alvin Stockfielt."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s the one ordering the soldiers to take advantage of us."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it’s not like they don’t enjoy it either..."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From what I see, if you get rid of that bastard, then his spineless goons will give up easily."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're just playing follow the leader since doing so gets them what they want."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "More like the dumb leading the blind..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s good to know."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair should hear this."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You didn’t hear that from me though…"
+		},
+		{
+			"anchor_id": "anchor-1708764355",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

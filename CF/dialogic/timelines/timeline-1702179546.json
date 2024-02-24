@@ -34,19 +34,19 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m fine, nothing I’m not already used-"
+			"text": "I’m fine, nothing I’m not already-"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Are you all done holding hands and kissing raspberries goodbye?!"
+			"text": "You all done holding hands and kissing raspberries?!!"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We've done nothing at all, but waste away the day!"
+			"text": "We've done nothing, but waste away the day!"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -55,10 +55,10 @@
 			"text": "With the mission at hand, we can't continue idling about!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Intolerable waste in our way or not, we have work to do."
+			"text": "We have work to do."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -67,52 +67,58 @@
 			"text": "You all know that!"
 		},
 		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "More importantly..."
-		},
-		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "..."
-		},
-		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "O-Of course, of course Alistair!"
+			"text": "Julian shamefully shudders away from Alistairs rage."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I just wanted to make sure everyone was healthy enough to adequately perform is all."
+			"text": "O-Of course, of course, Alistair!"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Can't do our best for Gaia if someone's hurt, right?"
+			"text": "We know and understand the importance of the mission at hand."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "And the best part is everyone's good!"
+			"text": "I just wnated to make sure that everyone was in tip-top condition in order to adequately perform is all."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And the best part is..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone's good!"
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Julian gives a reluctant nod, in contrast to Camille's unwavering expression, as Leo roughly pats their backs and hooks his arms around them."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can't do our best for Gaia if someone's hurt, right?"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -130,7 +136,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alistait runs towards you with a stern glare."
+			"text": "Alistair turns towards you with a stern glare."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -301,7 +307,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
+			"hide_dialogbox": false,
 			"wait_seconds": 2
 		},
 		{
@@ -368,7 +374,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with.\n"
+			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -473,19 +479,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Right, right, of course, Leo. "
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The importance of plan PHENOIX is easy for someone like you to understand when spoken of plainly."
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "So let me do just that."
+			"text": "Right, of course, Leo. "
 		},
 		{
 			"character": "character-1701671580.json",
