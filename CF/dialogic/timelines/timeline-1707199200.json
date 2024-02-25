@@ -200,7 +200,7 @@
 			"text": "You follow the hooded figure towards the abandoned facility."
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1708831525.json",
 			"event_id": "dialogic_020"
 		},
 		{

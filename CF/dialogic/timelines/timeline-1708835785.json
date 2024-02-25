@@ -1,23 +1,16 @@
 {
 	"events": [
 		{
-			"condition": "",
-			"definition": "1708766177-787",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"change_timeline": "timeline-1708835785.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your dumbass actually came back, huh?"
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1708832527",
+			"id": "anchor-1634488067",
 			"index": 0,
-			"name": "Normal Loop"
+			"name": "Expensive Loop"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -55,7 +48,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "15"
+			"value": "25"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -94,7 +87,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -104,7 +97,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "15"
+			"value": "25"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -133,7 +126,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -159,7 +152,7 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -192,7 +185,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "30"
+			"value": "40"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -231,7 +224,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -241,7 +234,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "30"
+			"value": "40"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -270,7 +263,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -296,8 +289,11 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Circular Saw Blade",
@@ -326,7 +322,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "30"
+			"value": "40"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -365,7 +361,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -375,7 +371,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "30"
+			"value": "40"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -404,7 +400,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -430,7 +426,7 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -463,7 +459,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "15"
+			"value": "25"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -502,7 +498,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -512,7 +508,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "15"
+			"value": "25"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -541,7 +537,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -567,7 +563,7 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -600,7 +596,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "10"
+			"value": "20"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -639,7 +635,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -649,7 +645,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "10"
+			"value": "20"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -678,8 +674,11 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "No",
@@ -701,11 +700,8 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -737,7 +733,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "20"
+			"value": "30"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -776,7 +772,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -786,7 +782,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "20"
+			"value": "30"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -815,7 +811,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -841,7 +837,7 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -874,7 +870,7 @@
 			"condition": "<",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "25"
+			"value": "35"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -913,7 +909,7 @@
 			"text": "You're just wasting everyone's time right now."
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -923,7 +919,7 @@
 			"condition": ">=",
 			"definition": "1707078692-648",
 			"event_id": "dialogic_012",
-			"value": "25"
+			"value": "35"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -952,11 +948,8 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "No",
@@ -978,7 +971,7 @@
 			"text": "Find something to buy or get the hell out already. "
 		},
 		{
-			"anchor_id": "anchor-1708832527",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -1007,7 +1000,7 @@
 			"text": "Let's hope you got more money to spend than your stuff is worth."
 		},
 		{
-			"change_timeline": "timeline-1708657314.json",
+			"change_timeline": "timeline-1708833878.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -1016,7 +1009,7 @@
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
-		"file": "timeline-1708681925.json",
-		"name": "Buy "
+		"file": "timeline-1708835785.json",
+		"name": "Buy (Expensive)"
 	}
 }

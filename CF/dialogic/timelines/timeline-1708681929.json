@@ -1,6 +1,235 @@
 {
 	"events": [
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708833401",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "What would you like to sell?"
+		},
+		{
+			"choice": "Rifle Ammo",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "How many are you trying to sell?"
+		},
+		{
+			"choice": "1",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "2",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "2"
+		},
+		{
+			"choice": "3",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"choice": "4",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "4"
+		},
+		{
+			"choice": "5",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "5"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Unfinished Contraption",
+			"condition": "==",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "How many are you trying to sell?"
+		},
+		{
+			"choice": "1",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "First Aid Kit",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "How many are you trying to sell?"
+		},
+		{
+			"choice": "1",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "2",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "2"
+		},
+		{
+			"choice": "3",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"change_timeline": "timeline-1708833878.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

@@ -107,14 +107,19 @@
 					"folders": {
 						"Alistair Forcast Information": {
 							"files": [
-
+								"1708830053-894",
+								"1708830133-171",
+								"1708830134-991",
+								"1708830150-732",
+								"1708830175-573",
+								"1708830177-768"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Inital Event Variable": {
@@ -135,55 +140,49 @@
 						},
 						"Inventory": {
 							"files": [
-								"1707078692-648",
-								"1707084502-339",
-								"1707084762-366",
-								"1707085110-648"
+
 							],
 							"folders": {
-								"Key Items": {
+								"Main Items": {
 									"files": [
-										"1707207257-648",
-										"1707084674-648",
-										"1708794547-233"
+										"1708829674-934",
+										"1707078692-648",
+										"1708829676-935",
+										"1708829678-833"
 									],
 									"folders": {
-										"New Folder 1708794526": {
-											"files": [
 
-											],
-											"folders": {
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Purchased Items": {
+									"files": [
+										"1708829840-323",
+										"1708829841-113",
+										"1708829843-258",
+										"1708829844-849",
+										"1708829845-728",
+										"1708829847-918",
+										"1708829848-403"
+									],
+									"folders": {
 
-											},
-											"metadata": {
-												"color": null,
-												"folded": false
-											}
-										},
-										"New Folder 1708794529": {
-											"files": [
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Side Quest Items": {
+									"files": [
+										"1707207257-648",
+										"1707084674-648"
+									],
+									"folders": {
 
-											],
-											"folders": {
-
-											},
-											"metadata": {
-												"color": null,
-												"folded": false
-											}
-										},
-										"New Folder 1708794541": {
-											"files": [
-
-											],
-											"folders": {
-
-											},
-											"metadata": {
-												"color": null,
-												"folded": false
-											}
-										}
 									},
 									"metadata": {
 										"color": null,
@@ -193,7 +192,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I - Shop Items": {
@@ -239,7 +238,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Side Quests": {
@@ -259,13 +258,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -294,7 +293,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -378,18 +377,6 @@
 
 									],
 									"folders": {
-										"Abandoned Facility": {
-											"files": [
-
-											],
-											"folders": {
-
-											},
-											"metadata": {
-												"color": null,
-												"folded": false
-											}
-										},
 										"Outside of Shop": {
 											"files": [
 												"timeline-1707087355.json",
@@ -407,16 +394,49 @@
 												"folded": true
 											}
 										},
-										"Residential Area": {
+										"Path to the Abandoned Facility": {
 											"files": [
-
+												"timeline-1708831530.json",
+												"timeline-1708831531.json",
+												"timeline-1708831533.json",
+												"timeline-1708831536.json",
+												"timeline-1708831540.json"
 											],
 											"folders": {
 
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
+											}
+										},
+										"Research Facility (Leo Only - Side Quest COMPLETE)": {
+											"files": [
+												"timeline-1708831525.json",
+												"timeline-1708831526.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": true
+											}
+										},
+										"Residential Area": {
+											"files": [
+												"timeline-1708830915.json",
+												"timeline-1708830917.json",
+												"timeline-1708830918.json",
+												"timeline-1708830919.json",
+												"timeline-1708830921.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": true
 											}
 										},
 										"Shop": {
@@ -427,7 +447,9 @@
 												"timeline-1708657327.json",
 												"timeline-1708657331.json",
 												"timeline-1708681925.json",
-												"timeline-1708681929.json"
+												"timeline-1708681929.json",
+												"timeline-1708833878.json",
+												"timeline-1708835785.json"
 											],
 											"folders": {
 
@@ -473,13 +495,13 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},

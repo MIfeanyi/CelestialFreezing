@@ -1,0 +1,48 @@
+{
+	"events": [
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"change_timeline": "timeline-1708657323.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"change_timeline": "timeline-1708657327.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"change_timeline": "timeline-1708657331.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1708833878.json",
+		"name": "Shop (Main)"
+	}
+}

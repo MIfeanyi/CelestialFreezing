@@ -257,24 +257,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1707205434-648",
-			"name": "Hooded Figure Name Tag - Alistair Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707083632-146",
-			"name": "Caden's Side Quest",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707080809-787",
-			"name": "Hooded Figure Side Quest - Leo Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707086477-918",
 			"name": "Ham Sandwiches",
 			"type": 0,
@@ -297,18 +279,6 @@
 			"name": "Silas Transformation Dependent Value",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1707084674-648",
-			"name": "Candy",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707084502-339",
-			"name": "Rifle Ammo",
-			"type": 0,
-			"value": "5"
 		},
 		{
 			"id": "1707083956-483",
@@ -347,6 +317,54 @@
 			"value": "0"
 		},
 		{
+			"id": "1708793105-416",
+			"name": "Rifle Ammo (Price)",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1708793109-600",
+			"name": "Unfinished Contraption (Price)",
+			"type": 0,
+			"value": "10"
+		},
+		{
+			"id": "1708793112-501",
+			"name": "First Aid Kit (Price)",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1707083790-918",
+			"name": "Bread",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1708791639-648",
+			"name": "Battery",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1708791642-787",
+			"name": "Circular Saw Blade",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1708791643-366",
+			"name": "Copper Wires",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1708791658-146",
+			"name": "Candy",
+			"type": 0,
+			"value": "10"
+		},
+		{
 			"id": "1708791662-483",
 			"name": "Ham",
 			"type": 0,
@@ -359,58 +377,52 @@
 			"value": "20"
 		},
 		{
-			"id": "1708791658-146",
-			"name": "Candy",
-			"type": 0,
-			"value": "10"
-		},
-		{
-			"id": "1708791643-366",
-			"name": "Copper Wires",
-			"type": 0,
-			"value": "15"
-		},
-		{
-			"id": "1708791642-787",
-			"name": "Circular Saw Blade",
-			"type": 0,
-			"value": "30"
-		},
-		{
-			"id": "1707207257-648",
-			"name": "Ham Sandwiches",
+			"id": "1708829840-323",
+			"name": "Bread",
 			"type": 0,
 			"value": "0"
 		},
 		{
-			"id": "1708793105-416",
-			"name": "Rifle Ammo (Price)",
-			"type": 0,
-			"value": "15"
-		},
-		{
-			"id": "1708793109-600",
-			"name": "Unfinished Tool (Price)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708793112-501",
-			"name": "First Aid Kit (Price)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708791639-648",
+			"id": "1708829841-113",
 			"name": "Battery",
 			"type": 0,
-			"value": "30"
+			"value": "0"
 		},
 		{
-			"id": "1707083790-918",
-			"name": "Bread",
+			"id": "1708829843-258",
+			"name": "Circular Saw Blade",
 			"type": 0,
-			"value": "15"
+			"value": "0"
+		},
+		{
+			"id": "1708829844-849",
+			"name": "Copper Wires",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829845-728",
+			"name": "Candy",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829847-918",
+			"name": "Cheese",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829848-403",
+			"name": "Ham",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829674-934",
+			"name": "Unfinished Contraption",
+			"type": 0,
+			"value": "1"
 		},
 		{
 			"id": "1707078692-648",
@@ -419,20 +431,80 @@
 			"value": "0"
 		},
 		{
-			"id": "1707085110-648",
+			"id": "1708829676-935",
+			"name": "Rifle Ammo",
+			"type": 0,
+			"value": "5"
+		},
+		{
+			"id": "1708829678-833",
 			"name": "First Aid Kit",
 			"type": 0,
 			"value": "3"
 		},
 		{
-			"id": "1707084762-366",
-			"name": "Unfinished Tool",
+			"id": "1707207257-648",
+			"name": "Ham Sandwiches",
 			"type": 0,
-			"value": "1"
+			"value": "0"
 		},
 		{
-			"id": "1708794547-233",
-			"name": "New value",
+			"id": "1707084674-648",
+			"name": "Candy",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707205434-648",
+			"name": "Hooded Figure Name Tag - Alistair Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707080809-787",
+			"name": "Hooded Figure Side Quest - Leo Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083632-146",
+			"name": "Caden's Side Quest",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708830053-894",
+			"name": "Commander Alvin Information",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830133-171",
+			"name": "Research Facility Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830134-991",
+			"name": "Document A Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830150-732",
+			"name": "Document B Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830175-573",
+			"name": "Document C Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830177-768",
+			"name": "Chester's Peak Info",
 			"type": 0,
 			"value": ""
 		}
