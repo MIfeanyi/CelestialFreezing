@@ -97,20 +97,6 @@
 			"question": ""
 		},
 		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -134,6 +120,6 @@
 	"metadata": {
 		"dialogic-version": "1.5",
 		"file": "timeline-1708830915.json",
-		"name": "Residential Area (Initial)"
+		"name": "Residential Area (Main)"
 	}
 }
