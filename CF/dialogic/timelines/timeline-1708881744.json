@@ -1,6 +1,339 @@
 {
 	"events": [
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Um..."
+		},
+		{
+			"choice": "Ask Partner",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What should I say here?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm, good question, considering the town doesn’t seem all that warm to outsiders."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hold on, let me give it a shot. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, sir, my name’s Leo and me and my friend are here to help this town."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You included!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re part of an environmentalist organization called Gaia’s Advocates with the goal of restoring the world to its original state before the incident."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And right now, we think that by-"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen here you long haired ashy-ass hipster!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ashy?!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not buying whatever the hell you’re selling, alright?!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, you and your cult friend can take your miracle water, your life-changing hair conditioner, or whatever the hell it is away from here!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This bald old man doesn’t need you reminding him of what he’s lost with how cold it is. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just let me rest in peace. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can’t I have that at least?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ".."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the Old Man is not at the door any longer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn’t seem like he’s up for talking…"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, I beg to differ. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He had a lot to say."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "'long haired ashy-ass hipster'."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The hair and hipster part aren’t anything new, but ashy?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For an old man, he’s got to have a keen eye with how pale I am if he’s right. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was expecting a ghost joke or saying he couldn’t see me in all this snow! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo loudly laughs, but trails off into a somewhat uncomfortable silence as he look at his hands."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Am I actually ashy though?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I thought I cleaned myself off  of all the ash from the fire when we picked you up a while ago now."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't think-"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "D-Don't worry about it."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Gaia's Advocates",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are part of an environmentalist organization called Gaia’s Advocates with the mission of restoring the planet to its original state before the incident."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was hoping that I could talk with you about what’s going on in your town so we can help everyone. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you give us a chance, I promise it’ll be worth it."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With your help, we can restore your town and stop the freezing that’s taking over."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sure do talk a lot for a door-to-door hippie salesman. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t you save all that oxygen you use runnin’ ya yap for someone else since we ain’t got no more trees and do something better with your time!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep wasting your time talking about ‘restoring the planet’ and your life’ll mean nothin’ to nobody!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wasn’t born yesterday, kid. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone left in this town knows what comes with people like you: pain, suffering, and problems no one asked for."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, go on n’ get! "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take that planet saving shit somewhere else. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the Old Man is not at the door any longer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Save all that oxygen I’m using for someone else…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sheesh, talk about brutal…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This definitely doesn’t seem like that’s the way to go."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "People in this town seriously aren't trusting."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or nice."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean, I kind of get it, but there's got to be something we can do to change that."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, hopefully."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

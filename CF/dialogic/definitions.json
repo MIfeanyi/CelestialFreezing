@@ -507,6 +507,18 @@
 			"name": "Chester's Peak Info",
 			"type": 0,
 			"value": ""
+		},
+		{
+			"id": "1708888932-648",
+			"name": "Alistair Sense Ability",
+			"type": 0,
+			"value": "3"
+		},
+		{
+			"id": "1708901604-787",
+			"name": "Initial Talk to Kid",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

@@ -54,12 +54,14 @@
 						"Level I - Revival of Limerick": {
 							"files": [
 								"character-1702178975.json",
+								"character-1708896834.json",
 								"character-1702178992.json",
 								"character-1702178286.json",
 								"character-1707081789.json",
 								"character-1707081793.json",
 								"character-1707081795.json",
-								"character-1707081796.json"
+								"character-1707081796.json",
+								"character-1708901944.json"
 							],
 							"folders": {
 
@@ -72,13 +74,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -90,7 +92,8 @@
 					"files": [
 						"1707079059-787",
 						"1707082078-648",
-						"1707082098-787"
+						"1707082098-787",
+						"1708888932-648"
 					],
 					"folders": {
 
@@ -128,14 +131,15 @@
 								"1708658192-787",
 								"1708658196-366",
 								"1708766177-787",
-								"1708768034-366"
+								"1708768034-366",
+								"1708901604-787"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Inventory": {
@@ -264,7 +268,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -403,20 +407,19 @@
 												"timeline-1708831540.json"
 											],
 											"folders": {
+												"Research Facility (Leo Only - Side Quest COMPLETE)": {
+													"files": [
+														"timeline-1708831525.json",
+														"timeline-1708831526.json"
+													],
+													"folders": {
 
-											},
-											"metadata": {
-												"color": null,
-												"folded": true
-											}
-										},
-										"Research Facility (Leo Only - Side Quest COMPLETE)": {
-											"files": [
-												"timeline-1708831525.json",
-												"timeline-1708831526.json"
-											],
-											"folders": {
-
+													},
+													"metadata": {
+														"color": null,
+														"folded": true
+													}
+												}
 											},
 											"metadata": {
 												"color": null,
@@ -431,10 +434,10 @@
 												"Icy House": {
 													"files": [
 														"timeline-1708881739.json",
-														"timeline-1708881925.json",
 														"timeline-1708881742.json",
 														"timeline-1708881744.json",
-														"timeline-1708881746.json"
+														"timeline-1708881746.json",
+														"timeline-1708881925.json"
 													],
 													"folders": {
 
@@ -446,25 +449,26 @@
 												},
 												"Talk to Caden": {
 													"files": [
-														"timeline-1708881890.json",
 														"timeline-1708881892.json",
+														"timeline-1708881890.json",
 														"timeline-1708881893.json",
 														"timeline-1708881894.json",
 														"timeline-1708881895.json",
-														"timeline-1708881898.json"
+														"timeline-1708881898.json",
+														"timeline-1708897271.json"
 													],
 													"folders": {
 
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Shop": {

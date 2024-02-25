@@ -1,6 +1,207 @@
 {
 	"events": [
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Um..."
+		},
+		{
+			"choice": "Ask Partner",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What should I say here?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What else is there to say?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are agents of Gaia’s Advocates, remember?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know that, I just..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wanted to try something a little different. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Different?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Different from the truth?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille seems to be genuinely confused."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "N-Never mind, don’t worry about it. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Gaia's Advocates",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Continue Path"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are part of an environmentalist organization called Gaia’s Advocates with the mission of restoring the planet to its original state before the incident."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was hoping that I could talk with you about what’s going on in your town so we can help everyone. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you give us a chance, I promise it’ll be worth it."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With your help, we can restore your town and stop the freezing that’s taking over."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sure do talk a lot for a door-to-door hippie salesman. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t you save all that oxygen you use runnin’ ya yap for someone else since we ain’t got no more trees and do something better with your time!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep wasting your time talking about ‘restoring the planet’ and your life’ll mean nothin’ to nobody!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wasn’t born yesterday, kid. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone left in this town knows what comes with people like you: pain, suffering, and problems no one asked for."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, go on n’ get! "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take that planet saving shit somewhere else. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the Old Man is not at the door any longer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Save all that oxygen I’m using for someone else…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sheesh, talk about brutal…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This definitely doesn’t seem like that’s the way to go."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Apparently not."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

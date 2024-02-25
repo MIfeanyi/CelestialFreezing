@@ -1,6 +1,405 @@
 {
 	"events": [
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Um..."
+		},
+		{
+			"choice": "Ask Partner",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What should I go with here?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian is distracted by the child playing not too far away."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian shrugs his shoulders."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seriously?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know, man!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t do this talking stuff like everyone else, alright?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ask him if he has anything that needs to be fixed!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now that is something I do!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, sir, we are here to..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Help service any broken appliances you might have in your home?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You glace over at Julian who enthusiatically nods while giving you two thumbs up."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t call for no repair man, but…"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Our generator that helps with the heat’s been broken for a couple days now and it’s bothering my grandson. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We can’t sleep when it gets so cold your blanket damn near freezes."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, I definitely can help with that, sir! "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good for you, kid, but it doesn’t change the fact I ain’t call for no repair man. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wasn’t there, but words got around of some new outsiders coming into town and I take it that’s you. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m surprised your still around breathing, but since you haven’t gotten the message yet: we don’t want you here. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t be trusted. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean, I am an electrical engineer who has a knack for fixing machines."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can completely fix your heat issue if you want, but I understand you not trusting us. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…we won’t be in town for long, but if there’s any way we can change that and help you out, then let us know."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you can, play with my grandson for a bit. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s the only child in town and I'm sure a very lonely one at that. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do that and I’ll consider changing my mind. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But don't get any funny ideas...."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alright, we’ll do what we can. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll be watching..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the Old Man is not at the door any longer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seems like we gotta go talk to the grandson now."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess so."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He's got a sword and a cape, so he's probably really cool to hang out with!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope so."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Gaia's Advocates",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are part of an environmentalist organization called Gaia’s Advocates with the mission of restoring the planet to its original state before the incident."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was hoping that I could talk with you about what’s going on in your town so we can help everyone. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you give us a chance, I promise it’ll be worth it."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With your help, we can restore your town and stop the freezing that’s taking over."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sure do talk a lot for a door-to-door hippie salesman. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t you save all that oxygen you use runnin’ ya yap for someone else since we ain’t got no more trees and do something better with your time!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep wasting your time talking about ‘restoring the planet’ and your life’ll mean nothin’ to nobody!"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wasn’t born yesterday, kid. "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone left in this town knows what comes with people like you: pain, suffering, and problems no one asked for."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, go on n’ get! "
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take that planet saving shit somewhere else. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems like the Old Man is not at the door any longer. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Save all that oxygen I’m using for someone else…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sheesh, talk about brutal…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This definitely doesn’t seem like that’s the way to go."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talking to people never really works for me either."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So don't feel so bad!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right..."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
