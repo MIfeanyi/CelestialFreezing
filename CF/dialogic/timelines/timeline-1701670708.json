@@ -919,7 +919,7 @@
 			"volume": 0
 		},
 		{
-			"character": "character-1701709622.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A pistol is pressed against your forehead."
@@ -999,6 +999,10 @@
 			"event_id": "dialogic_020"
 		},
 		{
+			"change_scene": "",
+			"event_id": "dialogic_041"
+		},
+		{
 			"choice": "No",
 			"condition": "",
 			"definition": "",
@@ -1071,13 +1075,13 @@
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "To think someone as wretched"
+			"text": "To think someone as wretched..."
 		},
 		{
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": " As subhuman as you"
+			"text": " As worthless as you..."
 		},
 		{
 			"character": "character-1701709622.json",
@@ -1161,6 +1165,10 @@
 			"value": ""
 		},
 		{
+			"change_scene": "res://src/menu/Menu.tscn",
+			"event_id": "dialogic_041"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -1201,8 +1209,8 @@
 			"text": "After you do that, ridding the earth of your stain will be your only other use to anyone."
 		},
 		{
-			"change_timeline": "timeline-1701711908.json",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
