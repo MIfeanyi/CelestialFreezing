@@ -143,6 +143,12 @@
 			"text": "Indeed!"
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Alistair Loop"
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -165,6 +171,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The sweet taste of victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The sweet taste of victory?"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -268,44 +280,8 @@
 			"text": "Then maybe you can help me as a knight of justice and jolly cooperation! "
 		},
 		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Without my powers I can’t protect those who need to be saved!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Especially without the one secret weapon that only you can give me!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I need..."
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory!"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory?"
-		},
-		{
-			"change_timeline": "",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -414,6 +390,12 @@
 			"text": "Indeed!"
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708920128",
+			"index": 0,
+			"name": "Julian Loop"
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -442,6 +424,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The sweet taste of victory, you say?"
+		},
+		{
+			"change_timeline": "timeline-1708881894.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "A Knight of Justice",
@@ -523,38 +509,8 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Without my powers I can’t protect those who need to be saved!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Especially without the one secret weapon that only you can give me!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I need..."
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory!"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory?"
-		},
-		{
-			"change_timeline": "",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1708920128",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -661,6 +617,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Indeed!"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708920206",
+			"index": 0,
+			"name": "Leo Loop"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -794,38 +756,8 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Without my powers I can’t protect those who need to be saved!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Especially without the one secret weapon that only you can give me!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I need..."
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory!"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory?"
-		},
-		{
-			"change_timeline": "",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1708920206",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -932,6 +864,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Indeed!"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708920223",
+			"index": 0,
+			"name": "Camille Loop"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1059,38 +997,8 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Without my powers I can’t protect those who need to be saved!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Especially without the one secret weapon that only you can give me!"
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I need..."
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory!"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The sweet taste of victory?"
-		},
-		{
-			"change_timeline": "",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1708920223",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
