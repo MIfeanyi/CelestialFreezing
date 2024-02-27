@@ -127,20 +127,58 @@
 						},
 						"Inital Event Variable": {
 							"files": [
-								"1708658189-648",
-								"1708658192-787",
-								"1708658196-366",
-								"1708766177-787",
-								"1708768034-366",
-								"1708901604-787",
-								"1708998217-648"
+
 							],
 							"folders": {
+								"Caden": {
+									"files": [
+										"1709006152-192",
+										"1709006154-574",
+										"1709006155-250",
+										"1709006156-416"
+									],
+									"folders": {
 
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Path to Abandoned Facility": {
+									"files": [
+										"1709006262-600",
+										"1709006263-265",
+										"1709006264-501",
+										"1709006265-701"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Shop": {
+									"files": [
+										"1708658189-648",
+										"1708766177-787",
+										"1708768034-366",
+										"1708658196-366"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Inventory": {
@@ -268,6 +306,7 @@
 						"Side Quests": {
 							"files": [
 								"1707080809-787",
+								"1708998217-648",
 								"1707205434-648",
 								"1707083632-146"
 							],
@@ -282,7 +321,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
@@ -368,14 +407,14 @@
 						},
 						"Level I Ending": {
 							"files": [
-
+								"timeline-1709008589.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Mission Brief": {
@@ -420,12 +459,13 @@
 										},
 										"Path to the Abandoned Facility": {
 											"files": [
+												"timeline-1709007230.json",
 												"timeline-1709004725.json",
-												"timeline-1709004641.json",
 												"timeline-1709004583.json",
 												"timeline-1709004586.json",
 												"timeline-1709004637.json",
-												"timeline-1709004639.json"
+												"timeline-1709004639.json",
+												"timeline-1709004641.json"
 											],
 											"folders": {
 												"Research Facility (Leo Only - Side Quest COMPLETE)": {
@@ -445,7 +485,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Residential Area": {
@@ -549,7 +589,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},

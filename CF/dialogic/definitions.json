@@ -461,40 +461,10 @@
 			"value": ""
 		},
 		{
-			"id": "1708830177-768",
-			"name": "Chester's Peak Info",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1708888932-648",
 			"name": "Alistair Sense Ability",
 			"type": 0,
 			"value": "3"
-		},
-		{
-			"id": "1708766177-787",
-			"name": "Leo Pisses off Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708768034-366",
-			"name": "Alistair Pisses of Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708901604-787",
-			"name": "Initial Talk to Kid",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708998217-648",
-			"name": "Talk to Camille About Caden",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1709002528-787",
@@ -511,24 +481,6 @@
 		{
 			"id": "1707205434-648",
 			"name": "Hooded Figure Name Tag - Alistair Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658189-648",
-			"name": "Initial Shop Variable",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658192-787",
-			"name": "Initial Abandoned Facility Variable",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658196-366",
-			"name": "Initial Chester's Peak Convo (Camille)",
 			"type": 0,
 			"value": "0"
 		},
@@ -573,6 +525,90 @@
 			"name": "Buy Ham",
 			"type": 0,
 			"value": "25"
+		},
+		{
+			"id": "1709006154-574",
+			"name": "Initial Talk to Kid (Julian)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006155-250",
+			"name": "Initial Talk to Kid (Leo)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006152-192",
+			"name": "Initial Talk to Kid (Alistair)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708658196-366",
+			"name": "Initial Chester's Peak Convo (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708768034-366",
+			"name": "Alistair Pisses of Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708766177-787",
+			"name": "Leo Pisses off Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658189-648",
+			"name": "Initial Shop Variable",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006262-600",
+			"name": "Meet Sayoko (Alistair)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006263-265",
+			"name": "Meet Sayoko (Julian)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006264-501",
+			"name": "Meet Sayako (Leo)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006265-701",
+			"name": "Meet Sayoko (Camille)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830177-768",
+			"name": "Chester's Peak Lore Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709006156-416",
+			"name": "Initial Talk to Kid (Camille)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708998217-648",
+			"name": "Talk to Camille About Caden",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

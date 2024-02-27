@@ -88,7 +88,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You look around to see angry glares from the townspeople and from their windows."
+			"text": "You look around to see angry glares from the townspeople and their windows."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -140,7 +140,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We actually want to help this town restart the nuclear power plant here and restore the power."
+			"text": "We actually want to help this town restart the nuclear power plant and restore the power."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -203,6 +203,14 @@
 			"text": "Gaia’s Advocates has chosen your town for aid and this is how you filthy ingrates repay us?!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1702178975.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -219,14 +227,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "GET OUT! "
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
-			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",

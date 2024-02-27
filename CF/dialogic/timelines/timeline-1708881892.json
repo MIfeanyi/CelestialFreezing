@@ -197,7 +197,7 @@
 			"text": "It's not like we have much more pressing matters to attend to."
 		},
 		{
-			"definition": "1708901604-787",
+			"definition": "1709006152-192",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
@@ -434,12 +434,12 @@
 			"text": "The sweet taste of victory, you say?"
 		},
 		{
-			"definition": "1708901604-787",
+			"definition": "1709006154-574",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "2"
+			"set_value": "1"
 		},
 		{
 			"change_timeline": "timeline-1708881894.json",
@@ -671,12 +671,12 @@
 			"text": "The sweet taste of victory, huh?"
 		},
 		{
-			"definition": "1708901604-787",
+			"definition": "1709006155-250",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "3"
+			"set_value": "1"
 		},
 		{
 			"change_timeline": "timeline-1708881895.json",
@@ -926,12 +926,12 @@
 			"text": "The sweet taste of victory?"
 		},
 		{
-			"definition": "1708901604-787",
+			"definition": "1709006156-416",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "4"
+			"set_value": "1"
 		},
 		{
 			"change_timeline": "timeline-1708881898.json",

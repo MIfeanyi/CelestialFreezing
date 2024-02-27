@@ -315,7 +315,7 @@
 		},
 		{
 			"condition": "",
-			"definition": "",
+			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
 			"value": "2"
 		},
@@ -328,7 +328,7 @@
 		},
 		{
 			"condition": "",
-			"definition": "",
+			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
 			"value": "3"
 		},
@@ -341,7 +341,7 @@
 		},
 		{
 			"condition": "",
-			"definition": "",
+			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
 			"value": "4"
 		},
@@ -1101,25 +1101,17 @@
 		},
 		{
 			"choice": "Talk to the Kid",
-			"condition": "==",
-			"definition": "1708901604-787",
+			"condition": "",
+			"definition": "",
 			"event_id": "dialogic_011",
-			"value": "0"
-		},
-		{
-			"change_timeline": "timeline-1708881892.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"choice": "Talk to Caden",
-			"condition": ">",
-			"definition": "1708901604-787",
-			"event_id": "dialogic_011",
-			"value": "0"
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1708881890.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -1128,6 +1120,6 @@
 	"metadata": {
 		"dialogic-version": "1.5",
 		"file": "timeline-1708830915.json",
-		"name": "Residential Area (Main)"
+		"name": "Residential Area"
 	}
 }

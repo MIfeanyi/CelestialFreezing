@@ -2,12 +2,64 @@
 	"events": [
 		{
 			"condition": "",
-			"definition": "1709006152-192",
+			"definition": "1709006262-600",
 			"event_id": "dialogic_012",
 			"value": "1"
 		},
 		{
-			"change_timeline": "timeline-1708881893.json",
+			"change_timeline": "timeline-1709004641.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1709006263-265",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"change_timeline": "timeline-1709004641.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1709006264-501",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"change_timeline": "timeline-1709004641.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1709006265-701",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"change_timeline": "timeline-1709004641.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1709006262-600",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"change_timeline": "timeline-1709004725.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -17,10 +69,10 @@
 			"condition": "",
 			"definition": "1709006154-574",
 			"event_id": "dialogic_012",
-			"value": "1"
+			"value": "0"
 		},
 		{
-			"change_timeline": "timeline-1708881894.json",
+			"change_timeline": "timeline-1709004725.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -28,64 +80,12 @@
 		},
 		{
 			"condition": "",
-			"definition": "1709006155-250",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"change_timeline": "timeline-1708881895.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "",
-			"definition": "1709006156-416",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"change_timeline": "timeline-1708881898.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "",
-			"definition": "1709006152-192",
+			"definition": "1709006264-501",
 			"event_id": "dialogic_012",
 			"value": "0"
 		},
 		{
-			"change_timeline": "timeline-1708881892.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "",
-			"definition": "1709006154-574",
-			"event_id": "dialogic_012",
-			"value": "0"
-		},
-		{
-			"change_timeline": "timeline-1708881892.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"condition": "",
-			"definition": "1709006155-250",
-			"event_id": "dialogic_012",
-			"value": "0"
-		},
-		{
-			"change_timeline": "timeline-1708881892.json",
+			"change_timeline": "timeline-1709004725.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -98,7 +98,7 @@
 			"value": "0"
 		},
 		{
-			"change_timeline": "timeline-1708881892.json",
+			"change_timeline": "timeline-1709004725.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -107,7 +107,7 @@
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
-		"file": "timeline-1708881890.json",
-		"name": "Talk to Caden (Checkpoint)"
+		"file": "timeline-1709007230.json",
+		"name": "PTTAF (Checkpoint)"
 	}
 }

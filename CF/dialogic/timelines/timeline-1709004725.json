@@ -1,6 +1,183 @@
 {
 	"events": [
-
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hear some distant footsteps in the snow other than your own and your partner’s."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Am I imagining things or…"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Be quit, fool."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know you're hiding behind that pile of snow to the left of us."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Reveal yourself."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An ominous woman wearing a tattered lab coat with knives in her pockets reveals herself and blocks the path!"
+		},
+		{
+			"change_timeline": "timeline-1709004583.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh, my head… "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not now, Silas…. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, you’re not, be careful..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A twig snaps and a white blur pounces from behind a snow bank swiftly throwing something right at you!"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Out of my way!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian? throws you into the snow and four knives pierce the snow narrowly missing you!"
+		},
+		{
+			"change_timeline": "timeline-1709004586.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Watch out!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Leo smash into the snow with four knives pierce the snow narrowly missing you both!"
+		},
+		{
+			"change_timeline": "timeline-1709004637.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get back!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille stands before you deflecting multiple knives!"
+		},
+		{
+			"change_timeline": "timeline-1709004639.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
