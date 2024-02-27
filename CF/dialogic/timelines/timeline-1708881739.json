@@ -293,6 +293,47 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"choice": "Ask to Come Inside",
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's Gaia's Advocates."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The people from before."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can we come in?"
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081796.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure, come in."
+		},
+		{
+			"change_timeline": "timeline-1709004210.json",
+			"event_id": "dialogic_020"
+		},
+		{
 			"choice": "Gaia's Advocates",
 			"condition": "",
 			"definition": "",

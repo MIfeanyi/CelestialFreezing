@@ -531,6 +531,48 @@
 			"name": "Initial Chester's Peak Convo (Camille)",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1709003633-366",
+			"name": "Buy Bread",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1709003635-146",
+			"name": "Buy Battery",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1709003637-918",
+			"name": "Buy Circular Saw Blade",
+			"type": 0,
+			"value": "30"
+		},
+		{
+			"id": "1709003638-483",
+			"name": "Buy Copper Wires",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1709003639-970",
+			"name": "Buy Candy",
+			"type": 0,
+			"value": "10"
+		},
+		{
+			"id": "1709003641-713",
+			"name": "Buy Cheese",
+			"type": 0,
+			"value": "20"
+		},
+		{
+			"id": "1709003642-339",
+			"name": "Buy Ham",
+			"type": 0,
+			"value": "25"
 		}
 	]
 }

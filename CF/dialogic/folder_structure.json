@@ -197,7 +197,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I - Shop Items": {
@@ -213,7 +213,14 @@
 										"1708792135-785",
 										"1708792137-842",
 										"1708792139-905",
-										"1708792142-192"
+										"1708792142-192",
+										"1709003633-366",
+										"1709003635-146",
+										"1709003637-918",
+										"1709003638-483",
+										"1709003639-970",
+										"1709003641-713",
+										"1709003642-339"
 									],
 									"folders": {
 
@@ -275,7 +282,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
@@ -413,17 +420,19 @@
 										},
 										"Path to the Abandoned Facility": {
 											"files": [
-												"timeline-1708831530.json",
-												"timeline-1708831531.json",
-												"timeline-1708831533.json",
-												"timeline-1708831536.json",
-												"timeline-1708831540.json"
+												"timeline-1709004725.json",
+												"timeline-1709004641.json",
+												"timeline-1709004583.json",
+												"timeline-1709004586.json",
+												"timeline-1709004637.json",
+												"timeline-1709004639.json"
 											],
 											"folders": {
 												"Research Facility (Leo Only - Side Quest COMPLETE)": {
 													"files": [
 														"timeline-1708831525.json",
-														"timeline-1708831526.json"
+														"timeline-1708831536.json",
+														"timeline-1708831530.json"
 													],
 													"folders": {
 
@@ -436,7 +445,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
@@ -450,7 +459,8 @@
 														"timeline-1708881742.json",
 														"timeline-1708881744.json",
 														"timeline-1708881746.json",
-														"timeline-1708881925.json"
+														"timeline-1708881925.json",
+														"timeline-1709004210.json"
 													],
 													"folders": {
 
@@ -474,13 +484,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Shop": {
