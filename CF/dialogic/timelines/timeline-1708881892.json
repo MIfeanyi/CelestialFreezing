@@ -199,7 +199,7 @@
 		{
 			"definition": "1708901604-787",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
@@ -282,7 +282,7 @@
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Then maybe you can help me as a knight of justice and jolly cooperation! "
@@ -436,10 +436,10 @@
 		{
 			"definition": "1708901604-787",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "1"
+			"set_value": "2"
 		},
 		{
 			"change_timeline": "timeline-1708881894.json",
@@ -673,10 +673,10 @@
 		{
 			"definition": "1708901604-787",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "1"
+			"set_value": "3"
 		},
 		{
 			"change_timeline": "timeline-1708881895.json",
@@ -928,10 +928,10 @@
 		{
 			"definition": "1708901604-787",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "2"
+			"set_value": "4"
 		},
 		{
 			"change_timeline": "timeline-1708881898.json",

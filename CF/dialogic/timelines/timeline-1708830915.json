@@ -38,7 +38,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ".."
+			"text": "..."
 		},
 		{
 			"character": "",
@@ -274,10 +274,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Investigate Icy House",
@@ -787,7 +783,7 @@
 			"text": "You could sense that?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I just...put some things together..."
@@ -1105,10 +1101,10 @@
 		},
 		{
 			"choice": "Talk to the Kid",
-			"condition": "<=",
+			"condition": "==",
 			"definition": "1708901604-787",
 			"event_id": "dialogic_011",
-			"value": "4"
+			"value": "0"
 		},
 		{
 			"change_timeline": "timeline-1708881892.json",
@@ -1116,10 +1112,10 @@
 		},
 		{
 			"choice": "Talk to Caden",
-			"condition": "",
+			"condition": ">",
 			"definition": "1708901604-787",
 			"event_id": "dialogic_011",
-			"value": "5"
+			"value": "0"
 		},
 		{
 			"change_timeline": "timeline-1708881890.json",

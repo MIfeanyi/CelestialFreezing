@@ -287,36 +287,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1708658189-648",
-			"name": "Initial Shop Variable",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658192-787",
-			"name": "Initial Abandoned Facility Variable",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658196-366",
-			"name": "Initial Chester's Peak Convo (Camille)",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708766177-787",
-			"name": "Leo Pisses off Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708768034-366",
-			"name": "Alistair Pisses of Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1708793105-416",
 			"name": "Rifle Ammo (Price)",
 			"type": 0,
@@ -455,20 +425,8 @@
 			"value": "0"
 		},
 		{
-			"id": "1707205434-648",
-			"name": "Hooded Figure Name Tag - Alistair Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707080809-787",
 			"name": "Hooded Figure Side Quest - Leo Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707083632-146",
-			"name": "Caden's Side Quest",
 			"type": 0,
 			"value": "0"
 		},
@@ -515,8 +473,62 @@
 			"value": "3"
 		},
 		{
+			"id": "1708766177-787",
+			"name": "Leo Pisses off Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708768034-366",
+			"name": "Alistair Pisses of Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
 			"id": "1708901604-787",
 			"name": "Initial Talk to Kid",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708998217-648",
+			"name": "Talk to Camille About Caden",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1709002528-787",
+			"name": "Play with Caden (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083632-146",
+			"name": "Caden's Side Quest",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707205434-648",
+			"name": "Hooded Figure Name Tag - Alistair Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658189-648",
+			"name": "Initial Shop Variable",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658192-787",
+			"name": "Initial Abandoned Facility Variable",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658196-366",
+			"name": "Initial Chester's Peak Convo (Camille)",
 			"type": 0,
 			"value": "0"
 		}

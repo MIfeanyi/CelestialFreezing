@@ -132,14 +132,15 @@
 								"1708658196-366",
 								"1708766177-787",
 								"1708768034-366",
-								"1708901604-787"
+								"1708901604-787",
+								"1708998217-648"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Inventory": {
@@ -196,7 +197,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level I - Shop Items": {
@@ -242,6 +243,18 @@
 							},
 							"metadata": {
 								"color": null,
+								"folded": false
+							}
+						},
+						"Respect Opportunities": {
+							"files": [
+								"1709002528-787"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
 								"folded": true
 							}
 						},
@@ -256,7 +269,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
@@ -268,7 +281,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -297,7 +310,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -454,21 +467,20 @@
 														"timeline-1708881893.json",
 														"timeline-1708881894.json",
 														"timeline-1708881895.json",
-														"timeline-1708881898.json",
-														"timeline-1708897271.json"
+														"timeline-1708881898.json"
 													],
 													"folders": {
 
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Shop": {

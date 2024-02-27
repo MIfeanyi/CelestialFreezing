@@ -1,6 +1,12 @@
 {
 	"events": [
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -17,6 +23,913 @@
 			"value": ""
 		},
 		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're back!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Indeed, I am, Caden the Great!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes we are!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Did you bring me the sweet taste of victory?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I got just the thing, I think!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes~!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Finally!"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1708988592",
+			"index": 0,
+			"name": "Give Item Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Item"
+		},
+		{
+			"choice": "Unfinished Contraption",
+			"condition": ">=",
+			"definition": "1708829674-934",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian snatches the unfinished contraption from your hands."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't give this to him!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I could use it!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What's a kid gonna do with my project anyways?"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Money",
+			"condition": ">=",
+			"definition": "1707078692-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Rifle Ammo",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "First Aid Kit",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Bread",
+			"condition": ">=",
+			"definition": "1708829840-323",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair squints at you with confused anger before letting out a guttural sigh."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Battery",
+			"condition": ">=",
+			"definition": "1708829841-113",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair squints at you with confused anger before letting out a guttural sigh."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Circular Saw Blade",
+			"condition": ">=",
+			"definition": "1708829843-258",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian snatches the circular saw blade from your hands."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't give this to him!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I could use it!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What's a kid gonna do with a circular saw blade anyways?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's too dangerous to eat!"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Copper Wires",
+			"condition": ">=",
+			"definition": "1708829844-849",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian snatches the copper wires from your hands."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't give this to him!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I could use it!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What's a kid gonna do with a copper wires anyways?"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Candy",
+			"condition": ">=",
+			"definition": "1708829845-728",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HAZAH!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The taste of victory in a wrapper! "
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just one lick and it could have a knight feel ever so dapper!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sweet, sweet, candy~!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nom~"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nom~"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nom~"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden does a celebratory jig!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mmmmmm~!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With this my strength has been completely restored!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I feel invincible~!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, random citizen!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden aburptly stands up straight and salutes you!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Julian do the same and return his salute in a comically exaggerated fashion."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was an honour, your majesty!"
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My grandpa says I can’t have candy all~ the time…"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But thanks to you, the hero lives once again!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Come on, I want you to meet him!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Grand Master Pop Pop of the Caden style!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is it alright if I bring my friends along?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’d hate to miss out on meeting a Grand Master, you know."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure~!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lead the way then, little man. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden quickly runs ahead towards the icy house."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That was actually pretty fun!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's get the others and head in there."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Looks like that house hasn't had heat for a while, so maybe there's some work I could do in the meantime while you guys talk."
+		},
+		{
+			"definition": "1707083632-146",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1708881925.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Cheese",
+			"condition": ">=",
+			"definition": "1708829847-918",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Ham",
+			"condition": ">=",
+			"definition": "1708829848-403",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No! No! No!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t use that to restore my powers!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It lacks the sugary goodness to coarse through my veins!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me something sweet so I can fight for victory!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me look again, alright?"
+		},
+		{
+			"anchor_id": "anchor-1708988592",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, your majesty, but it looks like I don't have exactly what you're looking for."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Noooooooo~!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t stop by and hang out with you? "
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, you bum!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t just 'hang out' with a Knight of Justice and become one!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll need to have the sweet taste of victory for the both of us! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With his eyes swelling with tears, Caden sulks letting his chipped sword fall to the snow."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But don't worry!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My friend and I are on the case and I swear we'll be back with the sweetest of sweet tasting victories!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden quickly wips away the tears forming in his eyes."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sniffle* You better! *sniffle*"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Talk to Partner",
 			"condition": "",
 			"definition": "",
@@ -24,11 +937,159 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you think? "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you have anything that might help our friend Caden here?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think metal parts are the kind of sweet he’s talking about."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re pretty sweet to me though!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speaking of parts, you should buy some from the shop! "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shop..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not for me! "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the plan! "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia’s Advocates and all that!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh huh…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m just sayin’ …"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Return to Residential Area",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, your majesty, but it looks like I still have some more searching to do for that sweet taste of victory."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Noooooooo~!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t stop by and hang out with you? "
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, you bum!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can’t just 'hang out' with a Knight of Justice and become one!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll need to have the sweet taste of victory for the both of us! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With his eyes swelling with tears, Caden sulks letting his chipped sword fall to the snow."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But don't worry!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My friend and I are on the case and I swear we'll be back with the sweetest of sweet tasting victories!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden quickly wips away the tears forming in his eyes."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sniffle* You better! *sniffle*"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
 		},
 		{
 			"change_timeline": "timeline-1708830915.json",
