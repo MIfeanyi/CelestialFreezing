@@ -61,14 +61,16 @@
 								"character-1707081793.json",
 								"character-1707081795.json",
 								"character-1707081796.json",
-								"character-1708901944.json"
+								"character-1708901944.json",
+								"character-1714421175.json",
+								"character-1714421179.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
@@ -80,7 +82,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -100,7 +102,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -327,7 +329,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -373,7 +375,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Getting to Know the Team (Initial)": {
@@ -454,7 +456,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Path to the Abandoned Facility": {
@@ -485,12 +487,13 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
 											"files": [
-												"timeline-1708830915.json"
+												"timeline-1708830915.json",
+												"timeline-1714422983.json"
 											],
 											"folders": {
 												"Icy House": {
@@ -530,7 +533,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Shop": {
