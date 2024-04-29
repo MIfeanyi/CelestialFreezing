@@ -269,18 +269,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1707082078-648",
-			"name": "Partner Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707079059-787",
-			"name": "Silas Transformation Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707083956-483",
 			"name": "Ham Sandwiches",
 			"type": 0,
@@ -609,6 +597,18 @@
 			"name": "Talk to Camille About Caden",
 			"type": 0,
 			"value": ""
+		},
+		{
+			"id": "1707079059-787",
+			"name": "Silas Transformation Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082078-648",
+			"name": "Partner Dependent Value",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
