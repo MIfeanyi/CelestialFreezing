@@ -211,7 +211,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
+			"hide_dialogbox": false,
 			"wait_seconds": 2
 		},
 		{
@@ -278,7 +278,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with.\n"
+			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -401,7 +401,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ": It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
+			"text": "It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -431,7 +431,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ": Anyway..."
+			"text": "Anyway..."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -459,7 +459,7 @@
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
+			"id": "anchor-1715469326",
 			"index": 0,
 			"name": "Loop"
 		},
@@ -655,7 +655,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yeah, I don’t think so, Alistair. "
+			"text": "Yeah, I don’t think so, Alistair."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -673,13 +673,13 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "H-hey, how about we all just calm down, alright?"
+			"text": "H-Hey, how about we all just calm down, alright?"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We just got here and have had enough drama already. "
+			"text": "We just got here and have had enough drama already."
 		},
 		{
 			"character": "character-1701671586.json",
@@ -691,19 +691,19 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here. "
+			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here."
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The mission comes first. "
+			"text": "The mission comes first."
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Until we’re all on the same page we can’t move forward. "
+			"text": "Until we’re all on the same page we can’t move forward."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -737,7 +737,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’ll need to pick one of us to accompany you. "
+			"text": "You’ll need to pick one of us to accompany you."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -749,7 +749,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Speak with the other members to learn more about them before making your choice. "
+			"text": "Speak with the other members to learn more about them before making your choice."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -778,7 +778,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Enlighten me, fool..."
+			"text": "What’s that, fool?"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -790,7 +790,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fool..."
+			"text": "Fool... "
 		},
 		{
 			"character": "character-1701671584.json",
@@ -832,7 +832,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m outta here. "
+			"text": "I’m outta here."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -862,7 +862,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates "
+			"text": "You were killed by Gaia’s Advocates"
 		},
 		{
 			"character": "",
@@ -887,7 +887,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1715469326",
 			"event_id": "dialogic_016"
 		},
 		{

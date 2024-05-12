@@ -1,10 +1,740 @@
 {
 	"events": [
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re both..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Human..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But you're not like the other townspeople."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Woman in the Lab Coat gazes at Lowen who happily waves."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen's enthusiastic wave slowly stopped seeing her curious gaze shift to an uninterested scowl."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What are you doing here?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re trying to help this town, but everyone seems to be..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On edge to outsiders."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I always thought killing them with kindness was the best play, but it seems as if people are taking it a bit too literally recently."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I promise we aren’t the enemy here. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re part of an organization named Gaia’s Advocates."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re trying to stop the freezing of the planet by reactivating the nuclear plant here."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even if that was possible..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh huh?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Which I highly doubt."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The military group set up outside of the plant won’t let you or your advocates in."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re saying it’s too dangerous to restart the plant."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you think?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see you're wearing a lab coat and I’m sure that’s not just for decoration. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One plant wouldn’t be enough to defrost the entire planet..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You would need an entire system syncronized together, but even then..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now you're speaking out language!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen nudges your shoulder and tilts head towards the Woman in the Lab Coat."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Right",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right, one wouldn’t be enough. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It might help those here locally, which is the goal, but in the grand scheme of things it'll only make a small dent overvall. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, it wouldn’t be!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It couldn’t be enough, but with your help we can start making a difference!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo nudges you with a large grin. "
+		},
+		{
+			"choice": "No Way",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No way."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "N-No?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be honest, I think the whole idea is ridiculous."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fixing fire with fire is one of the dumbest things you can do."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The misuse of nuclear energy is what’s gotten the world in this situation."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And here we are, again, believing that people will make the right choice with a power that’s already ruined the world once?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anyone with a-"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ACK!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo punches you in your side!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have a point…"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Restarting multiple plants and being able to circulate that energy could potentially work, but…"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The amount of time it would take, the lack of maintenance resources available, and the personnel needed…"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s something we’ve been trying to figure out ourselves, but as of right now it’s nothing, but a dream."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A mere fantasy…"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You would need a tremendous energy convertor that would be capable of handling nuclear and possibly whatever this new ether like energy is…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, for now, that’s our plan and were sticking to it. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And we're confident in our technology to complete it."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Technology?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yep, we’re travelling across the nation with it in hopes of making an impact starting here. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From the sounds of things, you might have more insight on how we can be more effective on figuring all of this out, really."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now you’re suddenly trying to recruit me as one of your advocates?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean~"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't think of it as recruiting, but making new friends!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're hard to come by these days, no?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I'm sure there's ways we can help you, too!"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, but I can’t. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aw~, come on~!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why can't we be friends?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why can't we be friends?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Woman in the Lab Coat chuckles. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I want to help you both, truly, but I have people here I must protect here."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sorry, but I wish you the best of luck on your mission."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "W-Wait a sec!"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Hey, you've been quiet the whole time!)"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Huh?)"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Yeah, you!)"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(I mean, it seemed like you had the situation under control if you ask me.)"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Well, I'm about to lose it and I can tell there's something here, I know it.)"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Help me out will ya?)"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Okay...)"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Talk Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Who are you?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who are you?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My name..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My name is Sayoko."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I...was a researcher and nuclear energy physicist monitoring the nuclear plant from the remote site here. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After the incident, the townspeople blamed us for what happened and cast many of the others out. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Those who stayed slaved away doing what we do best: searching for an answer."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anything to prove our innocence about having caused the Wings of Icarus and how we could reverse its effects."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great minds think alike."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia's Advocates has discovered a possible solution to doing just that."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With the limited amount of parts, resources, and studies on the overall effects of the Wings of Icarus..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How is that possible so soon?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen smiles while smuggly shrugging his shoulders."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cute."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You almost had me there."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now I have no choice but to think you're bluffing."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or, or, hear me out, you can take a chance and find out by giving us a chance."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Who are you protecting?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You mentioned earlier that you were protecting others?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The other researchers."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Too many of them have suffered more than anyone in that ungrateful town."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’ve become altered to the point they no longer can control their physical forms anymore."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yet they’re still dedicating their lives to their research. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guard the research facility from the townspeople, military, or anyone else trying to harm them."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We understand."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like I said earlier, we aren’t those kinds of people."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe if we can see your research, it could help us in restarting the nuclear plant."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sorry, but I can’t risk that. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If something were to happen to the other researchers, I would never forgive myself. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I already can’t find Donovan and it’s got me very worried."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really do wish you luck on your mission. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'll return and I swear I'll make you our friend!"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Heh, we'll see about that."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
 		"file": "timeline-1709004637.json",
-		"name": "PTTAF (Leo)"
+		"name": "PTTAF (Lowen)"
 	}
 }

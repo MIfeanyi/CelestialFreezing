@@ -38,13 +38,19 @@
 			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "But I assure you she is not."
+			"text": "But I assure you..."
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The woman in the lab coat steadily aims her knife at Camille."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She is not."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -81,16 +87,16 @@
 			"text": "And I’m sure you’re altered arm helped you throw them so fast."
 		},
 		{
-			"character": "character-1714421175.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "..."
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The woman in the lab coat reluctantly hides her right arm. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -242,7 +248,7 @@
 			"text": "Well..."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1714422456",
 			"event_id": "dialogic_016"
 		},
 		{
