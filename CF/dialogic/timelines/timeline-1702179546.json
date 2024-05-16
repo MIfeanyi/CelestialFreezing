@@ -212,7 +212,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": false,
-			"wait_seconds": 2
+			"wait_seconds": 1
 		},
 		{
 			"character": "character-1701671552.json",
@@ -459,9 +459,9 @@
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1715469326",
+			"id": "anchor-1634488067",
 			"index": 0,
-			"name": "Loop"
+			"name": "Death Loop"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -652,7 +652,7 @@
 			"value": ""
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Yeah, I don’t think so, Alistair."
@@ -670,40 +670,58 @@
 			"text": "At what point in time did I say you had that as a choice in the matter?"
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "H-Hey, how about we all just calm down, alright?"
+			"text": "At what point in time did I say I cared?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Planry of times, actually."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair keeps in you a stalemate with a menacing glare."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We just got here and have had enough drama already."
+			"text": "H-hey, how about we all just calm down, alright?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We just got here and we've had enough drama already. "
 		},
 		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "T-That’s right!"
+			"text": "T-That’s right. "
 		},
 		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here."
+			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here. "
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The mission comes first."
+			"text": "The mission comes first. "
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Until we’re all on the same page we can’t move forward."
+			"text": "Until we’re all on the same page, we can’t move forward. "
 		},
 		{
 			"character": "character-1701672712.json",
@@ -725,7 +743,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fine, I understand."
+			"text": "Fine..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I understand."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -752,7 +776,7 @@
 			"text": "Speak with the other members to learn more about them before making your choice."
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That’s as far as your choices go in this matter."
@@ -832,7 +856,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m outta here."
+			"text": "I’m outta here. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -847,7 +871,7 @@
 			"text": "CLEARLY DON’T KNOW WHO YOU’RE DEALING WITH HERE!"
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair, don’t! Don’t! Don’t! "
@@ -862,7 +886,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates"
+			"text": "You were killed by Gaia’s Advocates."
 		},
 		{
 			"character": "",
@@ -887,7 +911,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1715469326",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -898,10 +922,8 @@
 			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "- GAME OVER -"
+			"change_scene": "res://src/menu/Menu.tscn",
+			"event_id": "dialogic_041"
 		},
 		{
 			"event_id": "dialogic_013"

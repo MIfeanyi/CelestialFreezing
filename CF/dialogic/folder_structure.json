@@ -147,6 +147,18 @@
 										"folded": true
 									}
 								},
+								"Moss Covered Cabin": {
+									"files": [
+										"1715841993-648"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
 								"Path to Abandoned Facility": {
 									"files": [
 										"1709006262-600",
@@ -323,7 +335,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
@@ -428,13 +440,12 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Town Square": {
 							"files": [
-								"timeline-1701714406.json",
-								"timeline-1707079511.json"
+								"timeline-1701714406.json"
 							],
 							"folders": {
 								"Explore": {
@@ -442,6 +453,19 @@
 
 									],
 									"folders": {
+										"Nuclear Power Plant": {
+											"files": [
+												"timeline-1715845171.json",
+												"timeline-1715845173.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										},
 										"Outside of Shop": {
 											"files": [
 												"timeline-1707087355.json",
@@ -487,7 +511,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Residential Area": {
@@ -592,9 +616,21 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Transitionary Period - Campsite I": {
+					"files": [
+
+					],
+					"folders": {
+
 					},
 					"metadata": {
 						"color": null,

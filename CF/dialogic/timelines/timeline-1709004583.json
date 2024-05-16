@@ -1,6 +1,773 @@
 {
 	"events": [
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715844379",
+			"index": 0,
+			"name": "Death Loop"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But she isn’t."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can sense something ethereal about her."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've seen this before actually..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Recently in fact."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wouldn't really call it 'ethereal', but what exactly do you mean?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, I guess one could call it her 'essence' to put it more plainly."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But that doesn't quite capture whatever this is..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What you fail to seem to capture is that we are not the same."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nothing remotely close..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Am no woman..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You worthless degenerate..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-You’re not?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But your hair..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your skin..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're so..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just drop it, Alistair..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was an acci-"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair swipes his hand in front of your face, almost slapping you, to stop you from talking."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Excuse this..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Failure and its lack of manners."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Please, continue."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enlighten me."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "By all means, tell me,  what does one of Gaia’s chosen looks like to you?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is this really nece-"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "NECESSARY?!!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Absolutely."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let it speak, fool. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m interested in hearing what the remaining dregs of humanity has to say about their savior. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Savior?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "You’re Altered ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your arm…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can see you’re altered too"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The woman hides her right arm."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Repulsively at that…"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You are the last 'thing' that should be passing judgement on appearances here."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, really?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you, of all 'things', should?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Watch your mouth, woman..."
+		},
+		{
+			"condition": "",
+			"definition": "1715841993-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We know about your fellow scientist in the \"moss covered\" house."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Were they the one that reminded you of me?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My 'ethereal energy'..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And what did you use their's for to keep them caged in that house with their flowers?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Encourage Alistair",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s right. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can smell how awful your mutation reeks from here. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you're, what? "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Another one of those researchers? the townspeople seem to loathe?"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch, you fools are playing with powers you can't even begin to fathom."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*scoff*"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And its clearly taken its toll on you, sheesh."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair’s respect for you has risen. (+1 RESPECT)"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The world is left to ruin thanks to trash like you trying to exploit it."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The woman swiftly throws multiple knives with one cutting Alistair’s face!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-You worthless piece of shit! "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The next one won’t miss you, pretty boy. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get the hell outta my sight!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Scathing Gaia’s perfection like this..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a sin against the planet itself!"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I forget the part where I told you I was interested in your cult."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Especially with it being down a cultist..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair looks back to see that you have a knife lodged in your throat!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*cough cough*"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You fall to the snow as blood seeps from your mouth and your vision gets hazy. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Know that your friend here forfeited your life to Sayoko."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Truly a waste."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you’re next if you don’t leave."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were killed by the mysterious woman, Sayoko."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- GAME OVER -"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Try Again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1715844379",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_scene": "res://src/menu/Menu.tscn",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Stay Silent",
+			"condition": "",
+			"definition": "1715841993-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Shun Alistair ",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, let it go. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re letting a mistake get in the way of why we’re here in the first place. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't it get boring getting mad about the same old thing over and over again anyway?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trash sticks together till the end, I see. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch, I swear the world is wasted on you savages..."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Savages?!"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen, tell your girlfriend to watch her mouth before I cut that bitch’s jaw clean off! "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I AM NOT A GIRL NOR THIS ANIMAL'S GIRLFRIEND!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do not degrade me to your level of depravity! "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia has ascended me to something far greater than your fragile mind could possibly comprehend!"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What pathetic words to make your last…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Jesus Christ, Alistair…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're leaving, alright?!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re leaving!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch, know your place, trash!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A real woman of science is much more sensible and doesn't play dress up!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You haul Alistair away back towards the town square as he yells obscenities at the woman."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Who are you?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Talk Loop"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who are you? "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quite the conversationalist I see. "
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wonder if it’s ignorance or arrogance that prevents you from understanding the obvious. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let’s go for the former and not the latter."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The woman in the lab coat lowly scoffs in response."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about this then."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll give you my name when your blood soaks the snow."
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s the only parting gift worth offering."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It seems arrogance ins't in short supply with these heathens..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well..."
+		},
+		{
+			"anchor_id": "anchor-1715841468",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1715841468",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Talk",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Better play it safe than sorry."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

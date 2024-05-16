@@ -1,6 +1,41 @@
 {
 	"events": [
-
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At this point in time, this segment of the game is still currently under development. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We apologize for the inconvenience and disruption of gameplay. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The default scenario is that the player completed the mission with average success and no casualties. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MISSION COMPLETE"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although you’ve completed your work in Limerick, Gaia still has more in store for it’s Advocates elsewhere."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Its members travel to their next location, Huntersville, North Carolina, but in between their journey they set up camp to rest."
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
