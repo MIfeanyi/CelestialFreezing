@@ -440,7 +440,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Town Square": {
@@ -463,7 +463,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Outside of Shop": {
@@ -505,13 +505,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
@@ -616,7 +616,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
