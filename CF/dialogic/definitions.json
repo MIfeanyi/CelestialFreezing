@@ -615,6 +615,18 @@
 			"name": "Alistair Investigation Value",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1716041193-557",
+			"name": "Talk to Sayoko",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1716043934-828",
+			"name": "Nuclear Power Plant Tutorial",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

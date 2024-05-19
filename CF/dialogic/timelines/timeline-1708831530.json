@@ -7,19 +7,19 @@
 			"text": "You and Leo enter the abandoned research facility."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A relentless cold draft streams through the broken windows lightly blowing clutter from the tops of worn office desk."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Researchers in lab coats and dark cloth hoods surround barrells crackling from the flames within while others work on salvaged computers and equipment in other rooms."
 		},
 		{
-			"character": "character-1701671552.json",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The townspeople did all of this? "
@@ -31,55 +31,55 @@
 			"text": "Everything's completely destroyed…"
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "When the Wings of Icarus appeared that night…"
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "No one could anticipate what we could expect to come."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And they wanted answers we didn't have."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "No matter how hard we tried to understand what was happening, people started dying in droves."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "There wasn't anything we could possibly do to stop it, but they blamed us for it anyway."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "They didn't care that we lost people, too."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Hell, they believed we deserved it and wanted to punish us even more."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And what sense does that make?"
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "How could we have blown up a nuke in the atmosphere?"
@@ -91,16 +91,16 @@
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen puts his hand on your shoulder and softly smiles."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Those bastards don't even realized how lucky we're all to be alive right now. "
+			"text": "Those idiots don't even realized how lucky we're all to be alive right now. "
 		},
 		{
 			"character": "character-1714421179.json",
@@ -133,19 +133,19 @@
 			"text": "Other disfigured altered emerge wearing tattered lab coats and cloaks slowly make their way towards you all."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "These two helped Donovan get our food for today! "
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "They’re here on behalf of an organization called Gaia's Advocates in hopes  to try and restore power to the power plant and the town."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Let’s help them with their mission as much as we can! "
@@ -157,19 +157,19 @@
 			"text": "Squish Squish Squish"
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "R-right… thank you."
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "H-here are s-some of my papers…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Thank you."
@@ -181,7 +181,7 @@
 			"text": "Crunch crunch"
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
@@ -199,7 +199,7 @@
 			"text": "Rustle Rustle"
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I hope you can read it…"
@@ -235,43 +235,43 @@
 			"text": "To all of you…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Gaia’s Advocates will not let your sacrifice be in vain!"
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Ha ha!"
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Thank you! "
 		},
 		{
-			"character": "",
+			"character": "character-1716037104.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*cough cough* "
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We really appreciate it."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We’ll give you some time to look over their findings."
 		},
 		{
-			"character": "",
+			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If you have any questions feel free to ask."
@@ -295,97 +295,8 @@
 			"text": "Thank you!"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "Select an Option"
-		},
-		{
-			"choice": "Talk to Sayoko",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Talk to Researchers",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Talk to Lowen",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Read Documents",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Leave",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Thank you, guys, for everything."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "You’re both welcomed back at anytime"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let us know if there’s anything we can help with."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The same to you."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "On behalf of Gaia’s Advocates, we are here to help any and everyone in need."
-		},
-		{
-			"character": "character-1714421179.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "We appreciate you both more than you know."
-		},
-		{
-			"character": "character-1714421179.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Be safe."
-		},
-		{
-			"change_timeline": "timeline-1701714406.json",
+			"change_timeline": "timeline-1708831536.json",
 			"event_id": "dialogic_020"
-		},
-		{
-			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

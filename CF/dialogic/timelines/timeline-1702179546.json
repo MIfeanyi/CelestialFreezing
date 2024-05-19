@@ -211,7 +211,7 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 1
 		},
 		{
@@ -365,7 +365,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Right, of course, Leo. "
+			"text": "Right, of course, Lowen. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -459,7 +459,7 @@
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
+			"id": "anchor-1716042668",
 			"index": 0,
 			"name": "Death Loop"
 		},
@@ -573,7 +573,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
+			"text": "Camille, Lowen, Julian, and I have skills that can aid you in a multitude of situations."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -626,7 +626,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
+			"text": "Camille, Lowen, Julian, and I have skills that can aid you in a multitude of situations."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -652,7 +652,7 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Yeah, I don’t think so, Alistair."
@@ -673,13 +673,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At what point in time did I say I cared?"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Planry of times, actually."
+			"text": "Plenty of times, actually."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -709,13 +703,13 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here. "
+			"text": "I don’t want to get kicked out before I can see what kind of parts they have around here."
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The mission comes first. "
+			"text": "The mission comes first."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -767,7 +761,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
+			"text": "Camille, Lowen, Julian, and I have skills that can aid you in a multitude of situations."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -776,7 +770,7 @@
 			"text": "Speak with the other members to learn more about them before making your choice."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That’s as far as your choices go in this matter."
@@ -823,13 +817,13 @@
 			"text": "..."
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "character-1701671586.json",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
@@ -844,7 +838,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Really shouldn’t have said that..."
+			"text": "R-Really shouldn’t have said that..."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -856,7 +850,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m outta here. "
+			"text": "I’m outta here."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -871,7 +865,7 @@
 			"text": "CLEARLY DON’T KNOW WHO YOU’RE DEALING WITH HERE!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair, don’t! Don’t! Don’t! "
@@ -886,7 +880,19 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates."
+			"text": "You were killed by Gaia’s Advocates "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- GAME OVER -"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
 		},
 		{
 			"character": "",
@@ -911,7 +917,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1716042668",
 			"event_id": "dialogic_016"
 		},
 		{

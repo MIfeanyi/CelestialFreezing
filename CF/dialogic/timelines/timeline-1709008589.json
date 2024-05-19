@@ -35,6 +35,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Its members travel to their next location, Huntersville, North Carolina, but in between their journey they set up camp to rest."
+		},
+		{
+			"change_timeline": "timeline-1716047687.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

@@ -1,6 +1,676 @@
 {
 	"events": [
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1716040423",
+			"index": 0,
+			"name": "Main Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Talk to Sayoko",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "How can I help?"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Sayoko Loop"
+		},
+		{
+			"choice": "Wings of Icarus",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You mentioned the Wings of Icarus before. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you guys think they were?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Scientifically speaking, of course."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although we're not completely sure, our best guess is that they were the inital burning fragments of the ozone layers mixed in with the radiation shower. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It took a while for the shower to fall in certain areas and how it presented itself was geographically dependent. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here it presented itself similar to the northern lights one could run their hands through."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Others saw it has bright rays of sunlight of various hues that blinded people."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But our guess is that  it was the ashes of the ozone. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite how pretty it was, it’s why it became warmer that night than the rest."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The ozone layer?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like, the thing we need to breath as human beings?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How are we still alive?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's the thing."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's because of the ashes, actually."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Those ashes are actually what are allowing many of us to continue breathing right now, ironically. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’ve fused into our lungs in varying quantities, altered our DNA, and, for some, gave them abilities."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While others...."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Had negative reactions. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's actually were a misconception about the term 'Altered' comes into play.  "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " It's become commonplace that those with physical alterations or abilities that enhance the human condition are referred to as the altered."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Technically, anyone you see that’s alive is actually altered. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They wouldn’t be otherwise."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s what the townspeople don’t understand nor do they care to."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've all physically adapted to the situation."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For better or worse."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait a minute."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess that explains why you called us 'human' when we first met, but..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t feel any different than I was before the explosion though."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Its still early to say as to why that might be right now."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe, with more time, you might experience changes, but we doubt that at this point."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your body's probably already adapted enough to the radiation that still lingers."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As of right now, we suspect those without physical or mental alterations didn’t breathe in enough of the Wings of Icarus during the initial incident. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aw man~..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No super powers..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depending on your perspective, you could consider yourself lucky."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sayoko places her mutated arm into the pocket of her lab coat."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Sorry..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There are special cases though."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Humans that have absorbed a significant amount of the ozone’s ashes, but were able to control their physical forms. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The first 'super humans' to walk to the earth…"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Other researchers who've encountered these people have started to refer to them  as Sovereigners."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ascended humans with extraordinary power."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of our researchers experienced this at one point of time early on."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However they..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1716037104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*cough cough*"
+		},
+		{
+			"character": "character-1716037104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*cough cough*"
+		},
+		{
+			"character": "character-1716037104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*cough cough*"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I see..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, in a bright flash, they were gone..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leaving remnants of the Wings of Icarus when they left that were different from that night. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s when my arm got like this."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sayoko pulled up her sleeve revealing her mutated arm dimly flowing with an ethereal light."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Many of the other researchers here were exposed as well causing their 'Shifted' states."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So now there's the Altered and the Shifted?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talk about a ton to keep track of."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What surprised me was that it seemed to have an enhancing property."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I got stronger…"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But with our equipment destroyed that connected us to other researchers and having no idea where to begin on understanding this, our knowledge of things have come to an end."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've hit a wall."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Damn."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, we do have a partner who has a knack for fixing things."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe he could take a look at your equipment and probably fix it. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He's pretty good at his thing."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I appreciate the offer, truly, but I have to keep the safety of the others in mind."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right, right."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't know much about physical mutations and becoming shifted, but maybe there's more to learn there."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even more about these 'Sovereigners'."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Geez, all these new terms all of a sudden. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you get to be Shakespeare when you discover new stuff."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Research Progress",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*pending"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "The Shifted and Sovereigners",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*pending"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries, hopefully the others can help."
+		},
+		{
+			"anchor_id": "anchor-1716040423",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Talk to Researchers",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Pending"
+		},
+		{
+			"anchor_id": "anchor-1716040423",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Talk to Lowen",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With what we’ve found here we can definitely use this for our mission. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We should tell the others as soon as possible. "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I trust you, but not the others. "
+		},
+		{
+			"character": "character-1716037104.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*cough cough* "
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s true!"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t want to risk endangering the others or you!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We understand."
+		},
+		{
+			"anchor_id": "anchor-1716040423",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Read Documents",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*pending"
+		},
+		{
+			"anchor_id": "anchor-1716040423",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you, guys, for everything."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re both welcomed back at anytime"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let us know if there’s anything we can help with."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The same to you."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On behalf of Gaia’s Advocates, we are here to help any and everyone in need."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We appreciate you both more than you know."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Be safe."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
