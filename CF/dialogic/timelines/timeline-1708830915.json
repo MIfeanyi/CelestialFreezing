@@ -4,13 +4,13 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "There are 3 houses and a child playing outside by himself with a wooden sword wearing a tattered cap."
+			"text": "There are 3 houses and a child playing outside by himself with a wooden sword wearing a tattered cape."
 		},
 		{
 			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
+			"id": "anchor-1716088663",
 			"index": 0,
-			"name": "Loop"
+			"name": "Main Loop"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -145,7 +145,7 @@
 			"text": "Alistair walks away wiping his nose."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1716088663",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -238,7 +238,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1716088663",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -252,7 +252,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1716088663",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -266,11 +266,15 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1716088663",
 			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"anchor_id": "anchor-1716088663",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -295,7 +299,7 @@
 			"text": "..."
 		},
 		{
-			"character": "",
+			"character": "character-1707081796.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "W-Who's there?!"

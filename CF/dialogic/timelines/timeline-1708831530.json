@@ -40,7 +40,7 @@
 			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No one could anticipate what we could expect to come."
+			"text": "No one could anticipate what was yet to come."
 		},
 		{
 			"character": "character-1714421179.json",
@@ -112,19 +112,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Rustle Rustle"
+			"text": "*rustle rustle*"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Crunch Crunch Crunch"
+			"text": "*crunch crunch crunch*"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Squish Squish Squish"
+			"text": "*squish squish squish*"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -142,7 +142,7 @@
 			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "They’re here on behalf of an organization called Gaia's Advocates in hopes  to try and restore power to the power plant and the town."
+			"text": "They’re here on behalf of an organization called Gaia's Advocates in hopes to try and restore the power plant and the town."
 		},
 		{
 			"character": "character-1714421179.json",
@@ -154,7 +154,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Squish Squish Squish"
+			"text": "*squish squish squish*"
 		},
 		{
 			"character": "character-1716036957.json",
@@ -178,7 +178,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Crunch crunch"
+			"text": "*crunch crunch*"
 		},
 		{
 			"character": "character-1716036957.json",

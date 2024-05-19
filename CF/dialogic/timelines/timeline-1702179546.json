@@ -13,6 +13,12 @@
 			"text": "That’s for sure…"
 		},
 		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is everyone alright?"
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -419,7 +425,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo nervously chuckles with an embarrassed smile."
+			"text": "Lowen nervously chuckles with an embarrassed smile."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -437,7 +443,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As a by-product of the RAFs, a heightened form of breathable oxygen are released and contains necessary elements needed to repair the tarnished atmosphere."
+			"text": "As a by-product of the RAFs, a heightened form of breathable oxygen is released and contains necessary elements needed to repair the tarnished atmosphere."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -515,13 +521,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Whether it be the townspeople, the government or other enemy factions’, resistance will always be present and it’s that same resistance that will make it that much harder to enact plan PHENOIX."
+			"text": "Whether it be the townspeople, the government or other enemy factions, resistance will always be present and it’s that same resistance that will make it that much harder to enact plan PHENOIX."
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "That being said, before we can infiltrate a nuclear plant it’s crucial that we obtain as much information, supplies, and tools as we can get in order to be successful. "
+			"text": "That being said, before we can infiltrate a nuclear plant it’s crucial that we obtain as much information, supplies, and tools as we can in order to be successful. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -850,7 +856,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m outta here."
+			"text": "I’m outta here!"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -881,18 +887,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You were killed by Gaia’s Advocates "
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "- GAME OVER -"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
 		},
 		{
 			"character": "",

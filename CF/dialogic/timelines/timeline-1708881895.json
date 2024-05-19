@@ -38,7 +38,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Why, of course, you majesty!"
+			"text": "Why, of course, your majesty!"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -802,6 +802,29 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Actually, give me some more time to find something more suiting for, Caden the Great."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aw man~!"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -1012,6 +1035,20 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1708830915.json",

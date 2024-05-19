@@ -148,7 +148,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Now you're speaking out language!"
+			"text": "Now you're speaking our language!"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -206,7 +206,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo nudges you with a large grin. "
+			"text": "Lowen nudges you with a large grin. "
 		},
 		{
 			"choice": "No Way",
@@ -267,7 +267,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo punches you in your side!"
+			"text": "Lowen punches you in your side!"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -309,43 +309,49 @@
 			"text": "You would need a tremendous energy convertor that would be capable of handling nuclear and possibly whatever this new ether like energy is…"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Well, for now, that’s our plan and were sticking to it. "
+			"text": "That's the gist of what we're trying to do actually."
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, sort of, but that’s our plan and were sticking to it. "
+		},
+		{
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And we're confident in our technology to complete it."
 		},
 		{
-			"character": "",
+			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Technology?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Yep, we’re travelling across the nation with it in hopes of making an impact starting here. "
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "From the sounds of things, you might have more insight on how we can be more effective on figuring all of this out, really."
 		},
 		{
-			"character": "",
+			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Now you’re suddenly trying to recruit me as one of your advocates?"
 		},
 		{
-			"character": "",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I mean~"
@@ -387,12 +393,6 @@
 			"text": "Why can't we be friends?"
 		},
 		{
-			"character": "character-1701671588.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Why can't we be friends?"
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -402,7 +402,7 @@
 			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I want to help you both, truly, but I have people here I must protect here."
+			"text": "I want to help you both, truly, but I have people here I must protect."
 		},
 		{
 			"character": "character-1714421175.json",

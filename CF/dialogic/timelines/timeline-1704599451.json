@@ -122,7 +122,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ": I know it’s going to sound like I’m crazy, but the only thing that’s seemed to stay the same after the ozone explosion were these parts."
+			"text": "I know it’s going to sound like I’m crazy, but the only thing that’s seemed to stay the same after what happened were these parts."
 		},
 		{
 			"character": "character-1701671586.json",
@@ -425,7 +425,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We haven't talked in a while, but I'm sure he'd see how safer we are now."
+			"text": "We haven't talked in a while, but I'm sure he'd see how much more safe we are now."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -558,7 +558,7 @@
 			"text": "That makes me feel normal."
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That I actually belong and matter to people."
@@ -770,14 +770,14 @@
 			"question": "Select an Option"
 		},
 		{
-			"choice": "Don't Worry About",
+			"choice": "Don't Worry About It",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "No worries, it actually makes sense, really."
@@ -825,7 +825,7 @@
 			"event_id": "dialogic_016"
 		},
 		{
-			"choice": "Silas sounds dangerous",
+			"choice": "Silas Sounds Dangerous",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",

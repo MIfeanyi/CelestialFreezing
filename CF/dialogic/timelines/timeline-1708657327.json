@@ -7,6 +7,12 @@
 			"text": "Get what you need and leave this town is you know what’s good for you…"
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Main Loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -146,7 +152,7 @@
 			"text": "They deserve it!"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Those wearing black cloaks are altered researchers responsible for the exposure in this town and are hiding their disgusting forms!"
@@ -170,19 +176,19 @@
 			"text": "How'd you figure that, guy?"
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Ask the old man in the residential area."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "He takes care of the only kid in town."
 		},
 		{
-			"character": "",
+			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "He’ll tell you more about what happened and why we don’t help them. "
@@ -269,7 +275,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "From the sound of things, your buddy right here might want to hold hands and sign songs with her. "
+			"text": "From the sound of things, your buddy right here might want to hold hands and sing songs with her. "
 		},
 		{
 			"character": "character-1701671588.json",
@@ -316,6 +322,10 @@
 			"set_value": "1"
 		},
 		{
+			"anchor_id": "anchor-1708765969",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Chester's Peak",
 			"condition": "",
 			"definition": "",
@@ -332,7 +342,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We're done talkikng here as long as your pale ass friend is here."
+			"text": "We're done talkikng  as long as your pale ass friend is here."
 		},
 		{
 			"character": "character-1707081793.json",
@@ -505,6 +515,17 @@
 		},
 		{
 			"anchor_id": "anchor-1708765969",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "",
 			"event_id": "dialogic_016"
 		},
 		{

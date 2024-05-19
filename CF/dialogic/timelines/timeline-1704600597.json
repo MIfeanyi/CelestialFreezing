@@ -179,7 +179,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo gently grasps your shoulder."
+			"text": "Lowen gently grasps your shoulder."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -238,7 +238,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo raises his hands in defeat with a nervous smile."
+			"text": "Lowen raises his hands in defeat with a nervous smile."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -633,7 +633,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo comically raises an eyebrow while widely opening one of his eyes and leans in close to you."
+			"text": "Lowen comically raises an eyebrow while widely opening one of his eyes and leans in close to you."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -812,13 +812,13 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo fist bumps you."
+			"text": "Lowen fist bumps you."
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo is now your partner!"
+			"text": "Lowen is now your partner!"
 		},
 		{
 			"definition": "1707076243-648",

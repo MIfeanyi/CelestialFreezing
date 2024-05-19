@@ -79,7 +79,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hello, sir, my name’s Leo and me and my friend are here to help this town."
+			"text": "Hello, sir, my name’s Lowen and me and my friend are here to help this town."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -145,10 +145,10 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ".."
+			"text": "..."
 		},
 		{
-			"character": "character-1707081796.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It seems like the Old Man is not at the door any longer. "
@@ -199,7 +199,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo loudly laughs, but trails off into a somewhat uncomfortable silence as he look at his hands."
+			"text": "Lowen loudly laughs, but trails off into a somewhat uncomfortable silence as he look at his hands."
 		},
 		{
 			"character": "character-1701671588.json",

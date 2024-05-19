@@ -180,7 +180,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "All those big words and now you're lost for words, huh?"
+			"text": "All those big words and now there's none you can find?"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -192,7 +192,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Do that and I while answer your question."
+			"text": "Do that, show you're worthwhile, and then I'll answer your question."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -222,7 +222,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "After you let go, Alistair wipes his hand on his shoulder with frustration and sickened."
+			"text": "After you let go, Alistair wipes his hand on his shoulder out of frustration and sickened by the act."
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -304,10 +304,22 @@
 			"text": "Surely you can't literally be deaf and dumb?"
 		},
 		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A struggle such as that is too much for a normal being to bear."
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair sighs with frustration as he pinches the bridge of his nose with discontent while shaking his head."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And trash like you certinaly isn't normal, I see."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -544,13 +556,19 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I wouldn’t be here."
+			"text": "You've have to force me to join at gunpoint."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’re no better than any of us here."
+			"text": "With tactics like that, you’re no better than the rest of us."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact you're worse!"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -654,13 +672,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Don’t expect me to strike up conversations like Leo with those filthy animals out there."
+			"text": "Don’t expect me to strike up conversations like Lowen with those filthy animals out there."
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "However, I can sense people’s intentions as one of my Altered."
+			"text": "However, I can sense people’s intentions as one of my Altered abilities."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -720,7 +738,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "That will never change."
+			"text": "That dynamic will always be the case.."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -732,13 +750,19 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Keep your title if it makes you less insecure, buddy."
+			"text": "Keep your title if it makes you feel less insecure, buddy."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No one's asks for it."
+			"text": "No one's asking for it."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
 		},
 		{
 			"anchor_id": "anchor-1634488067",

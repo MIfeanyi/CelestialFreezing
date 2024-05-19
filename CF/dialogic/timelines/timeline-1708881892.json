@@ -34,7 +34,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Are you an evil doer bringing doom and gloom the hero’s land?"
+			"text": "Are you an evil doer bringing doom and gloom to the hero’s land?"
 		},
 		{
 			"condition": "",
@@ -602,7 +602,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fear not, ma’am!"
+			"text": "Fear not, sir!"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -620,7 +620,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Caden swiftly slides through the snow stopping in front of Leo!"
+			"text": "Caden swiftly slides through the snow stopping in front of Lowen!"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -638,7 +638,7 @@
 			"event_id": "dialogic_015",
 			"id": "anchor-1708920206",
 			"index": 0,
-			"name": "Leo Loop"
+			"name": "Lowen Loop"
 		},
 		{
 			"character": "character-1707081795.json",

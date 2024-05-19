@@ -35,6 +35,36 @@
 			"value": "1"
 		},
 		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That thing is clearly dirty..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you want to talk to it?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Picking at trash..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quiet suiting for you."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And repulsive..."
+		},
+		{
 			"change_timeline": "timeline-1707087591.json",
 			"event_id": "dialogic_020"
 		},
@@ -46,6 +76,24 @@
 			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
 			"value": "2"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not really one to talk to others, but..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They might know if the shop has any useful parts."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So its worth a shot."
 		},
 		{
 			"change_timeline": "timeline-1707087593.json",
@@ -61,6 +109,18 @@
 			"value": "3"
 		},
 		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's see what's going on over here."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They might need our help with something."
+		},
+		{
 			"change_timeline": "timeline-1707087596.json",
 			"event_id": "dialogic_020"
 		},
@@ -72,6 +132,12 @@
 			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
 			"value": "4"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hpmh."
 		},
 		{
 			"change_timeline": "timeline-1707087598.json",
@@ -94,7 +160,7 @@
 			"value": "1"
 		},
 		{
-			"change_timeline": "timeline-1707198382.json",
+			"change_timeline": "timeline-1708657319.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -107,7 +173,7 @@
 			"value": "2"
 		},
 		{
-			"change_timeline": "timeline-1707198381.json",
+			"change_timeline": "timeline-1708657323.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -120,7 +186,7 @@
 			"value": "3"
 		},
 		{
-			"change_timeline": "timeline-1707198379.json",
+			"change_timeline": "timeline-1708657327.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -133,7 +199,7 @@
 			"value": "4"
 		},
 		{
-			"change_timeline": "timeline-1707198329.json",
+			"change_timeline": "timeline-1708657331.json",
 			"event_id": "dialogic_020"
 		},
 		{

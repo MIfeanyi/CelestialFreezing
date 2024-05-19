@@ -43,19 +43,19 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Multiple government agents look over to you seeing shatter glass at your feet and your fist pressing down on a large red button."
+			"text": "Multiple government agents look over to see shattered glass at your feet and your fist pressing down on a large red button."
 		},
 		{
 			"character": "character-1701671103.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What in God’s name have you done? "
+			"text": "W-What in God’s name have you done? "
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I ..."
+			"text": "I..."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -126,6 +126,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "To the World?! "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"choice": "Explain Yourself",
@@ -313,7 +322,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Once in space, even if an explode were to occur, it should prevent any direct impact on any of the projected targets!"
+			"text": "Once in space, even if an explosion were to occur, it should prevent any direct impact on any of the projected targets!"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -366,7 +375,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": false,
-			"wait_seconds": 3
+			"wait_seconds": 1.5
 		},
 		{
 			"character": "character-1701671552.json",
@@ -581,7 +590,7 @@
 			"character": "character-1701707287.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Don’t tell me you’re one of those ‘love the Earth one soul lost at a time’ hippie supporters, are you? "
+			"text": "Don’t tell me you’re one of those ‘love the Earth one lost soul at a time’ hippie supporters, are you? "
 		},
 		{
 			"character": "character-1701707170.json",

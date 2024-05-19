@@ -373,7 +373,7 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I understand what you mean."
@@ -423,7 +423,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Can't be bothered to at least try and make things right after ruining the lies of millions? "
+			"text": "Can't be bothered to at least try and make things right after ruining the lives of millions? "
 		},
 		{
 			"character": "character-1701671584.json",
@@ -523,7 +523,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Leo fights from afar with a rifle to provide cover fire and support."
+			"text": "Lowen fights from afar with a rifle to provide supporting fire."
 		},
 		{
 			"character": "character-1701671584.json",
