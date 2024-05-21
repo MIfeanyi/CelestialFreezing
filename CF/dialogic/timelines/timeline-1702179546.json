@@ -1,0 +1,915 @@
+{
+	"events": [
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Looks like we finally got out of that."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s for sure…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, things were getting pretty crazy out there for a second."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m fine, nothing I’m not used to already."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You all done holding hands and kissing boo boos?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We have work to do."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "More importantly..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s time you understand what exactly we do as advocates of Gaia, wretch, and what plan PHENOIX is."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia’s Advocates is an environmental restoration and peace keeping organization founded by environmental engineers around the world."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am one of its initial founders."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The goal of our organization is to restore the Earth, Gaia, to its previous state."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Because of your failure to protect humanity from itself."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Yeah, I've heard, but..."
+		},
+		{
+			"choice": "Not my Responsibility",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " What I did prevented the destruction of humanity by humanity."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And doing so was never my responsibility to begin with."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "People may want me dead for what I did to the planet and fine."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So be it."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hate me if it makes you feel better."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I want to believe what I did was truly in the best interest of humanity."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If not for that, I don’t know who else would have done what I did and if any of us would be here right now. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Spoken like true egoist at heart."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Continue to bask in your twisted sense self-righteousness for all I care."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But know this, wretch..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nothing you have done has been ‘in the best interest of humanity’..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"choice": "Too High of Expectations",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t you think you’re setting too high of expectations of me as one person?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How can you expect me, one single person, to have all the knowledge to make a decision capable of saving or destroying the entire world in a matter of minutes? "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s insane!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And if you think founding Gaia’s Advocates based on such ridiculous expectations like that makes sense…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You make me question a lot more than your plan penguin or whatever. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian quietly snickers."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair glares at Julian causing him to shamefully look away."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great men wielding unfathomable power, strong enough to command continents, have had the chance to change the course of history. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The very path of humanity’s trajectory, it’s future, was within their hands."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s clear to me that, even now, in the waste of your choice you fail to see the importance one had in the position you were in. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I can’t be surprised."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with.\n"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While you played with the power of Gods..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We, the true protectors of the planet  Gaia’s Advocates, have slaved away since that day knowing the necessity of our purpose. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, doubt plan PHENOIX  all you want. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Make a mockery of it if it makes you feel better."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But know this, wretch..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are respected and valued for what we've done by supporters around the world."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We do what Gaia has always asked of its disciples."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We exist for a reason."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't bother thinking to hard about it."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'd be wasting our time expecting you to come up with an answer."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about we try and stay on track here, alright?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right, of course, Leo. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Plan PHENOIX is quite simple for a pawn like you to understand."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "By connecting radioactive filtration system devices, RAFs, to nuclear power plants close to where the Wings of Icarus appeared we can use the plant to siphon the loose radiation in as energy. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was part of the Research and Development team that created the RAFs!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just in case there’s an issue with an RAFs and to make sure it’s properly installed during our missions is why I’m here!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ": It’s cool to see what used to be a hunk of boards and circuits come together to actually do something great!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-IT’S ALIVE! "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leo nervously chuckles with an embarrassed smile."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ": Anyway..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As a by-product of the RAFs, a heightened form of breathable oxygen are released and contains necessary elements needed to repair the tarnished atmosphere."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks to our research, we’ve come to the conclusion that the Wings of Icarus was a defensive measure to preserve the planet and its inhabitants, thus us helping continue the desire of Gaia."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The planet protected itself?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's conscious?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pretty neat, huh?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As Gaia goes into reconstructive hibernation, all of our field teams are doing what we can to set up our RAFs all around our respective countries."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s why I do believe Gaia’s kept us alive and had you be a part of our team."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite everything, people are still willing to come together to do the right thing regardless of their backgrounds."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We still have a chance to make things right for the world."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s not always true."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille’s right."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As we all just experienced, not everyone will be supportive of our cause."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether it be the townspeople, the government or other enemy factions’, resistance will always be present and it’s that same resistance that will make it that much harder to enact plan PHENOIX."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That being said, before we can infiltrate a nuclear plant it’s crucial that we obtain as much information, supplies, and tools as we can get in order to be successful. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The more information we can get, the easier it will be."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Cooperate",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, so what now?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll need to pick one of us to accompany you."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We can’t risk you running away, now, can we?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speak with the other members to learn more about them before making your choice. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s as far as your choices go in this matter. "
+		},
+		{
+			"change_timeline": "timeline-1702184642.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Cooperate Alone",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If that’s the case, I’ll go alone."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, you can skip town and abandon our mission?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think so, wretch."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll need to pick one of us to accompany you. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille, Leo, Julian, and I have skills that can aid you in a multitude of situations."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Speak with the other members to learn more about them before making your choice."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s as far as your choices go in this matter."
+		},
+		{
+			"change_timeline": "timeline-1702184642.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Refuse to Cooperate",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "I Understand",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"change_timeline": "timeline-1702184642.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "You know What that Sounds like?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Try Again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1702179583.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- GAME OVER -"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1702179546.json",
+		"name": "Mission Brief"
+	}
+}
