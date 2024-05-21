@@ -53,19 +53,108 @@
 						},
 						"Level I - Revival of Limerick": {
 							"files": [
-								"character-1702178975.json",
-								"character-1708896834.json",
-								"character-1702178992.json",
-								"character-1702178286.json",
-								"character-1707081789.json",
-								"character-1707081793.json",
-								"character-1707081795.json",
-								"character-1707081796.json",
-								"character-1708901944.json",
-								"character-1714421175.json",
-								"character-1714421179.json",
-								"character-1716036957.json",
-								"character-1716037104.json"
+
+							],
+							"folders": {
+								"Intro": {
+									"files": [
+										"character-1702178975.json",
+										"character-1702178992.json",
+										"character-1702178286.json"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Path to Abandon Facility": {
+									"files": [
+										"character-1714421175.json"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Research Facility": {
+									"files": [
+										"character-1716037104.json",
+										"character-1716036957.json",
+										"character-1714421179.json"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Residential Area": {
+									"files": [
+										"character-1708896834.json",
+										"character-1707081796.json",
+										"character-1708901944.json",
+										"character-1707081795.json"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
+								"Shop": {
+									"files": [
+										"character-1707081793.json"
+									],
+									"folders": {
+										"Outside of Shop": {
+											"files": [
+												"character-1707081789.json"
+											],
+											"folders": {
+
+											},
+											"metadata": {
+												"color": null,
+												"folded": false
+											}
+										}
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								}
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
+						"Level II - ": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"Level III - ": {
+							"files": [
+
 							],
 							"folders": {
 
@@ -78,13 +167,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -364,6 +453,42 @@
 
 			],
 			"folders": {
+				"Campsite I": {
+					"files": [
+						"timeline-1716047687.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				},
+				"Campsite II": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Game Endings": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
 				"Level 0 - Prologue": {
 					"files": [
 						"timeline-1701670708.json"
@@ -419,7 +544,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I Ending": {
@@ -443,7 +568,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Town Square": {
@@ -640,19 +765,31 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
-				"Transitionary Period - Campsite I": {
+				"Level II - ": {
 					"files": [
-						"timeline-1716047687.json"
+
 					],
 					"folders": {
 
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
+					}
+				},
+				"Level III - ": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
 					}
 				}
 			},
