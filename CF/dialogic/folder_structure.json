@@ -344,7 +344,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -373,7 +373,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level I - Revival of Limerick": {
@@ -436,14 +436,14 @@
 						},
 						"Mission Brief": {
 							"files": [
-								"timeline-1702179546.json"
+								"timeline-1716294824.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Town Square": {
@@ -634,7 +634,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},

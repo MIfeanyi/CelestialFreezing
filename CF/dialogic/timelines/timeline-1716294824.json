@@ -28,7 +28,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m fine, nothing I’m not used to already."
+			"text": "I’m fine, nothing I’m not already used to."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -284,7 +284,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ or a ‘Man’ to begin with."
+			"text": "What stands before me is neither ‘Great’ nor a ‘Man’ to begin with."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -437,7 +437,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Anyway..."
+			"text": "Moving on..."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -462,12 +462,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It's conscious?"
-		},
-		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1716042668",
-			"index": 0,
-			"name": "Death Loop"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -510,6 +504,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille’s right."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Death Loop"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -679,7 +679,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Plenty of times, actually."
+			"text": "Never cared if you did."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -691,7 +691,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "H-hey, how about we all just calm down, alright?"
+			"text": "H-Hey, how about we all just calm down, alright?"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -721,7 +721,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Until we’re all on the same page, we can’t move forward. "
+			"text": "Until we’re all on the same page, we can’t move forward."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -761,7 +761,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You’ll need to pick one of us to accompany you."
+			"text": "You’ll need to pick one of us to accompany you. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -823,13 +823,13 @@
 			"text": "..."
 		},
 		{
-			"character": "character-1701671586.json",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
@@ -841,10 +841,16 @@
 			"text": "..."
 		},
 		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "R-Really shouldn’t have said that..."
+			"text": "Y-You really~ shouldn’t have said that..."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -886,10 +892,10 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates "
+			"text": "You were killed by Gaia’s Advocates."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "- GAME OVER -"
@@ -911,7 +917,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "anchor-1716042668",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -937,7 +943,7 @@
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
-		"file": "timeline-1702179546.json",
-		"name": "Mission Brief"
+		"file": "timeline-1716294824.json",
+		"name": "Mission Brief Explanation"
 	}
 }
