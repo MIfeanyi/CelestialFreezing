@@ -626,7 +626,9 @@
 													"files": [
 														"timeline-1708831525.json",
 														"timeline-1708831530.json",
-														"timeline-1708831536.json"
+														"timeline-1708831536.json",
+														"timeline-1717427796.json",
+														"timeline-1717432342.json"
 													],
 													"folders": {
 
@@ -759,13 +761,13 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"Level II - Malice at McGuire": {

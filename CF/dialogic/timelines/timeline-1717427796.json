@@ -1,0 +1,539 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Which Researcher would you like to talk to?"
+		},
+		{
+			"choice": "Researcher A",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I actually moved out here a few years ago as part of a training program and I've been here ever since."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I loved my work and I fell in love at work!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HA HA HA!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ha ha ha..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But things really have changed."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Especially for Sheila..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She's gotten..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sick."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Very sick, actually..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So we've sent her home while we try and figure out what we can do to help her."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, mainly I have..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not to be angry at everyone else!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've lost a lot of people, so everyone can only do so much..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it doesn't stop me!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I left her all the flowers I could find all over town in her house as a surprise a few months ago!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She always wanted to be a botanist and ironically to try and find anything to help her, I've kind of become one."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not the best, for obvious reasons, but I'm hoping I can figure something out a lot sooner than later."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For her sake..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And mine too."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The researcher reveals his shoulder that has a lumpy and chunky mutation wrapped in stained bandages."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't want to be any different than when we first met, because I'm she'll still be just as amazing."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's kind of tough though, you know?"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Having to choose between finding something to help her, but having no luck or going to see her despite coming empty handed."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You'll figure something out, I know it!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just hang in there."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I will, man."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Researcher B",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What a time to be alive, don't you think?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I guess you could say that."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Time's have definetly been better, but you seem much more happy than the others about it."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The ravaging of the planet is obviously devasting, but also extremely captivating!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In the 1940s when the production of the first nuclear weapon was underway, a concern that scientist had was the activation of such magnitude was going to set the world ablaze."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The entire atmosphere set on fire killing all life on the planet."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not only did we have one of these earth scorching bombs explode in the very thing we need to survive, the ozone layer, we've on into the opposite direction."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're entering into the next major ice age and in order to survive, we've been given a second chance forcing new scientific discoveries."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As controversial of an opinion that maybe to have, I'm pretty sure I know a guy who might think the exact same way."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As a scientist, someone who believes within the data, logic, and reason, I can't explain why things played out the way it did or why it happened in the first place."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "However, I do think something good has to come from this situation and it's up to us to figure that out."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-That being said, let's hope he's not one of the townspeople and keep this between us."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If they found out I was talking like this, they'd probably raid and kill us."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And we've got enough problems as is on all fronts."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "P-Plus I'd hate to lose my research again in another attack."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries there."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They aren't the biggest fans of us or our opinions either."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah~, unfortunately, so best believe you're perspectives are safe with me, personally."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Much appreciated."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Researcher C",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A researcher sits at their disk loudly smacking."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello?"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With a swift, jarring, jolt, a male researcher turned towards you startled while adjusting his glasses with a plate of multiple sandwiches at his desk with food in his mouth."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh~!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The procurer of replenishment!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Still chewing, he hurriedly brushes crumbs off of his tattered lab coat and embraces you and Lowen with a hug."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen looks at you with an uncomfortable smile."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The soft and fluffy bread."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The sharp and perfectly sliced cheddar cheese."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The sweet and smoked honey ham!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mhm!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I saved this special dijon mustard I found 2 months ago for the perfect food to come across and..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The researcher starts to tear up trembling as he takes another bite from his sandwich."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A-And to think t-that it would be a ham and cheese sandwich."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-Thank you, procurer of replenishment..."
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you so much!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "N-No problem, man."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The researcher hugs you and Lowen again and begins crying while eating his sandwich."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Wait a second!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I do have a problem!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How many damn sandwiches did you take?!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's, like, nine on your plate right there!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're supposed to be shared!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The researcher let's go of you both before suddenly clamoring for his sandwiches!"
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can't take them from me! "
+		},
+		{
+			"character": "character-1716036957.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Never~!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hunched over like gremlin, the greedy researcher escapes!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see the knocked over jar of dijon mustard, pick it up and sniffed it."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of that over expired grainy mustard?"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1708831536.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1717427796.json",
+		"name": "Talk to Researchers"
+	}
+}

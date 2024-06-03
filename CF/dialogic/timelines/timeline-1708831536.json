@@ -485,28 +485,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*pending"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "The Shifted and Sovereigners",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "*pending"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
+			"text": ""
 		},
 		{
 			"choice": "Leave",
@@ -536,14 +515,8 @@
 			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "*Pending"
-		},
-		{
-			"anchor_id": "anchor-1716040423",
-			"event_id": "dialogic_016"
+			"change_timeline": "timeline-1717427796.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Talk to Lowen",
@@ -553,10 +526,22 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, what do you think about all of this?"
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "With what we’ve found here we can definitely use this for our mission. "
+			"text": "With what we’ve found here we can definitely use this for our mission."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's a lot to think about, for sure, but I'm sure Alistair can make sense of it all."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -606,14 +591,8 @@
 			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "*pending"
-		},
-		{
-			"anchor_id": "anchor-1716040423",
-			"event_id": "dialogic_016"
+			"change_timeline": "timeline-1717432342.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Leave",
