@@ -395,24 +395,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1708830134-991",
-			"name": "Document A Info",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708830150-732",
-			"name": "Document B Info",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708830175-573",
-			"name": "Document C Info",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1708888932-648",
 			"name": "Alistair Sense Ability",
 			"type": 0,
@@ -605,12 +587,6 @@
 			"value": "3"
 		},
 		{
-			"id": "1708830177-768",
-			"name": "Chester's Peak Lore Info",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1717465314-842",
 			"name": "Care about Silas",
 			"type": 0,
@@ -641,16 +617,46 @@
 			"value": "0"
 		},
 		{
-			"id": "1708830053-894",
-			"name": "Commander Alvin Info",
+			"id": "1717492410-648",
+			"name": "Useful Info Collected",
 			"type": 0,
-			"value": ""
+			"value": "0"
+		},
+		{
+			"id": "1708830177-768",
+			"name": "Chester's Peak Lore Info",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708830175-573",
+			"name": "Document C Info",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708830150-732",
+			"name": "Document B Info",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708830134-991",
+			"name": "Document A Info",
+			"type": 0,
+			"value": "0"
 		},
 		{
 			"id": "1708830133-171",
 			"name": "Research Facility Info",
 			"type": 0,
-			"value": ""
+			"value": "0"
+		},
+		{
+			"id": "1708830053-894",
+			"name": "Commander Alvin Info",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
