@@ -395,18 +395,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1708830053-894",
-			"name": "Commander Alvin Information",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708830133-171",
-			"name": "Research Facility Info",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1708830134-991",
 			"name": "Document A Info",
 			"type": 0,
@@ -651,6 +639,18 @@
 			"name": "Camille Scouting",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1708830053-894",
+			"name": "Commander Alvin Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1708830133-171",
+			"name": "Research Facility Info",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

@@ -1,6 +1,71 @@
 {
 	"events": [
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here to actually do some work for once?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you haven't been wasting all of your time out there."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "What have you learned so far?"
+		},
+		{
+			"choice": "Chester's Peak",
+			"condition": "",
+			"definition": "1708830177-768",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Commander Seegers's Unit",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Research Facility",
+			"condition": "",
+			"definition": "1708830133-171",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Map",
+			"condition": "",
+			"definition": "1708830134-991",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "PINs and Passwords",
+			"condition": "",
+			"definition": "1708830150-732",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"choice": "Survelliance Schedule",
+			"condition": "",
+			"definition": "1708830175-573",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
