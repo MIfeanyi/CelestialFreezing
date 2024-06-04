@@ -173,7 +173,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -186,7 +186,8 @@
 						"1707079059-787",
 						"1707082078-648",
 						"1707082098-787",
-						"1708888932-648"
+						"1708888932-648",
+						"1717475100-192"
 					],
 					"folders": {
 
@@ -435,7 +436,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},
@@ -447,7 +448,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -570,7 +571,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Mission Brief": {
@@ -598,7 +599,8 @@
 										"Nuclear Power Plant": {
 											"files": [
 												"timeline-1715845171.json",
-												"timeline-1716042928.json"
+												"timeline-1716042928.json",
+												"timeline-1717474345.json"
 											],
 											"folders": {
 
@@ -649,7 +651,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},
@@ -769,7 +771,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},

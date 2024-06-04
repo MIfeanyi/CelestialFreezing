@@ -482,10 +482,313 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "I know earlier you talked about how everyone here is still working and conducting research."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maintaining the plant the best you can from afar, but what about the research?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've been making slow, but steady progress on a couple of different things for a while now."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trying to understand what causes physical changes and classifying the different types."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seeing if its possible to restoring the town and our human forms."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Studying what a Sovereigner is and what creates one."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " *sigh*"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've got our hands pretty full and that's not including just trying to survive."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think the most difficult of topics is trying to understand Sovereigners considering that the one that we did know passed away and transformed many of us in the process."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can't tell how they influenced our changes, but they may have the capacity to unlock whatever latent abilities that lie within us."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe they share it and it resonates within us."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There's too much to still learn and if there's a way to find out more, we might be able to do a lot more for ourselves and the people of this town."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you think having abilities could really help?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean, as ugly as this arm my be, its helped us plenty."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So I can't imagine having something, given how much harsher the world has become, can be a bad thing."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We've been able to adapt to what's happened, but we do still need more to truly survive."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm, maybe."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(Something wrong?)"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(It just reminds me of a sentiment I've heard before.)"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(But it's really nothing worth thinking about.)"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Missing Answer",
+			"condition": "",
+			"definition": "1708830150-732",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We read over some of the documents that the researchers gave us and we came across one talking about passwords and PINs that were changed."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, right."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks to Bernard and Malia they were willing to change all that for the sake of protecting all of us."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was a sacrifce that we all appreciate and still mourn."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Sacrifice?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're no longer with us?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Unfortunately, no."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That piece of trash Seegers knew they were up to something and made an 'example' out of them."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dammit..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're sorry to hear that..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sorry to have to tell you."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did you need something from them?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We're pretty sure that they created this document and wrote the passwords on the back, but we can't make out the last one."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hand the document over to Sayoko."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Any idea what it could possibly be?"
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Its..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Way to smudged to make out..."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And there's no way for me or anyone else to really know by their design really."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In case something happened and the soldiers wanted to get that kind of information out of us, no one knew to keep things secure."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can't spill the beans if you literally don't know."
+		},
+		{
+			"character": "character-1714421179.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This document was locked in a safe in the event of a situation like this, but water must've leaked in somehow."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Man..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So what do we do?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No clue, honestly."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'd hate to say that we'll just wing it when we get there, but its looking that way to me."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair isn't going to like this..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What does he like these days?"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Leave",

@@ -645,6 +645,12 @@
 			"name": "Shelia in the Moss House",
 			"type": 0,
 			"value": ""
+		},
+		{
+			"id": "1717475100-192",
+			"name": "Camille Scouting",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
