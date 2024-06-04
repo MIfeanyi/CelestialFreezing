@@ -273,11 +273,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"anchor_id": "anchor-1716088663",
-			"event_id": "dialogic_016"
+			"event_id": "dialogic_013"
 		},
 		{
-			"event_id": "dialogic_013"
+			"anchor_id": "anchor-1716088663",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Investigate Icy House",
@@ -376,6 +376,17 @@
 		},
 		{
 			"change_timeline": "timeline-1708881890.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
 			"event_id": "dialogic_020"
 		},
 		{
