@@ -283,7 +283,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Inventory": {
@@ -303,7 +303,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								},
 								"Purchased Items": {
@@ -340,7 +340,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Level I - Shop Items": {
@@ -398,7 +398,8 @@
 						},
 						"Respect Opportunities": {
 							"files": [
-								"1709002528-787"
+								"1709002528-787",
+								"1717465314-842"
 							],
 							"folders": {
 
@@ -411,6 +412,7 @@
 						"Side Quests": {
 							"files": [
 								"1707080809-787",
+								"1717465244-785",
 								"1708998217-648",
 								"1707205434-648",
 								"1707083632-146",
@@ -423,6 +425,18 @@
 								"color": null,
 								"folded": true
 							}
+						},
+						"Talk With the Team Topics": {
+							"files": [
+								"1717466108-905"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
 						}
 					},
 					"metadata": {
@@ -433,7 +447,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -591,7 +605,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Outside of Shop": {
@@ -641,7 +655,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Residential Area": {
@@ -707,7 +721,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										}
 									},
@@ -749,13 +763,13 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										}
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},

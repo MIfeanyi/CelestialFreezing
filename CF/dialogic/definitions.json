@@ -431,12 +431,6 @@
 			"value": "3"
 		},
 		{
-			"id": "1709002528-787",
-			"name": "Play with Caden (Camille)",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707083632-146",
 			"name": "Caden's Side Quest",
 			"type": 0,
@@ -557,12 +551,6 @@
 			"value": ""
 		},
 		{
-			"id": "1708830177-768",
-			"name": "Chester's Peak Lore Info",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1709006156-416",
 			"name": "Initial Talk to Kid (Camille)",
 			"type": 0,
@@ -627,6 +615,36 @@
 			"name": "First Aid Kit",
 			"type": 0,
 			"value": "3"
+		},
+		{
+			"id": "1708830177-768",
+			"name": "Chester's Peak Lore Info",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1717465314-842",
+			"name": "Care about Silas",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709002528-787",
+			"name": "Play with Caden (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1717465244-785",
+			"name": "Create Julian's Fence Cutter",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1717466108-905",
+			"name": "Shelia in the Moss House",
+			"type": 0,
+			"value": ""
 		}
 	]
 }

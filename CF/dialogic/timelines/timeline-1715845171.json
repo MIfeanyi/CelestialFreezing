@@ -197,7 +197,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Dedication..."
+			"text": "'Dedication'..."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -323,7 +323,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Class is over."
+			"text": "Class is over!"
 		},
 		{
 			"character": "character-1701671580.json",
