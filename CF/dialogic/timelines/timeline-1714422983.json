@@ -43,6 +43,18 @@
 			"text": "Ugh!"
 		},
 		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Test"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[Partner Dependent Value]"
+		},
+		{
 			"condition": "",
 			"definition": "1707082078-648",
 			"event_id": "dialogic_012",
