@@ -1,62 +1,6 @@
 {
 	"glossary": [
 		{
-			"extra": "",
-			"id": "1701713802-648",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641182-648",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641185-787",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641187-934",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641929-483",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641931-970",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
-			"extra": "",
-			"id": "1705641933-713",
-			"name": "New glossary entry",
-			"text": "",
-			"title": "",
-			"type": 1
-		},
-		{
 			"extra": "$15",
 			"id": "1705641935-339",
 			"name": "Bread",
@@ -76,7 +20,7 @@
 			"extra": "Can be combined",
 			"id": "1708792115-970",
 			"name": "Bread",
-			"text": "A single loaf of white bread. Commonly eaten by itself, but can be enjoyed with other sandwich-like items. ",
+			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time it was enjoyed with other sandwich-like items. ",
 			"title": "Sliced White Bread",
 			"type": 1
 		},
@@ -155,66 +99,6 @@
 	],
 	"variables": [
 		{
-			"id": "1705641188-935",
-			"name": "New value",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1705641713-648",
-			"name": "New value",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1707074351-366",
-			"name": "Alistair Selected",
-			"type": 0,
-			"value": "1"
-		},
-		{
-			"id": "1707074353-146",
-			"name": "Camille Selected",
-			"type": 0,
-			"value": "4"
-		},
-		{
-			"id": "1707074355-918",
-			"name": "Julian Selected",
-			"type": 0,
-			"value": "2"
-		},
-		{
-			"id": "1707074939-648",
-			"name": "Alistair Selected",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1707074941-787",
-			"name": "Camille Selected",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1707076146-787",
-			"name": "Alistair Selected",
-			"type": 0,
-			"value": "1"
-		},
-		{
-			"id": "1705641746-787",
-			"name": "Respect Meter Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707076243-648",
-			"name": "Partner Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1707080807-648",
 			"name": "Caden's Quest",
 			"type": 0,
@@ -237,18 +121,6 @@
 			"name": "First Aid Kit",
 			"type": 0,
 			"value": "3"
-		},
-		{
-			"id": "1707086461-366",
-			"name": "New value",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1707086463-146",
-			"name": "New value",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1707086460-787",
@@ -389,28 +261,10 @@
 			"value": "0"
 		},
 		{
-			"id": "1707080809-787",
-			"name": "Hooded Figure Side Quest - Leo Only",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1708888932-648",
 			"name": "Alistair Sense Ability",
 			"type": 0,
 			"value": "3"
-		},
-		{
-			"id": "1707083632-146",
-			"name": "Caden's Side Quest",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1707205434-648",
-			"name": "Hooded Figure Name Tag - Alistair Only",
-			"type": 0,
-			"value": "0"
 		},
 		{
 			"id": "1709003633-366",
@@ -455,112 +309,10 @@
 			"value": "25"
 		},
 		{
-			"id": "1709006154-574",
-			"name": "Initial Talk to Kid (Julian)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006155-250",
-			"name": "Initial Talk to Kid (Leo)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006152-192",
-			"name": "Initial Talk to Kid (Alistair)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708658196-366",
-			"name": "Initial Chester's Peak Convo (Camille)",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708768034-366",
-			"name": "Alistair Pisses of Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708766177-787",
-			"name": "Leo Pisses off Shopkeeper",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708658189-648",
-			"name": "Initial Shop Variable",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1709006262-600",
-			"name": "Meet Sayoko (Alistair)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006263-265",
-			"name": "Meet Sayoko (Julian)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006264-501",
-			"name": "Meet Sayako (Leo)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006265-701",
-			"name": "Meet Sayoko (Camille)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1709006156-416",
-			"name": "Initial Talk to Kid (Camille)",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1708998217-648",
-			"name": "Talk to Camille About Caden",
-			"type": 0,
-			"value": ""
-		},
-		{
 			"id": "1707079059-787",
 			"name": "Silas Transformation Dependent Value",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1707082078-648",
-			"name": "Partner Dependent Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1715841993-648",
-			"name": "Alistair Investigation Value",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1716041193-557",
-			"name": "Talk to Sayoko",
-			"type": 0,
-			"value": ""
-		},
-		{
-			"id": "1716043934-828",
-			"name": "Nuclear Power Plant Tutorial",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1708793105-416",
@@ -597,18 +349,6 @@
 			"name": "Play with Caden (Camille)",
 			"type": 0,
 			"value": "0"
-		},
-		{
-			"id": "1717465244-785",
-			"name": "Create Julian's Fence Cutter",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1717466108-905",
-			"name": "Shelia in the Moss House",
-			"type": 0,
-			"value": ""
 		},
 		{
 			"id": "1717475100-192",
@@ -655,6 +395,138 @@
 		{
 			"id": "1708830053-894",
 			"name": "Commander Alvin Info",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707082078-648",
+			"name": "Partner Dependent Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006152-192",
+			"name": "Initial Talk to Kid (Alistair)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006154-574",
+			"name": "Initial Talk to Kid (Julian)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006155-250",
+			"name": "Initial Talk to Kid (Leo)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006156-416",
+			"name": "Initial Talk to Kid (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1715841993-648",
+			"name": "Alistair Investigation Value",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006262-600",
+			"name": "Meet Sayoko (Alistair)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006263-265",
+			"name": "Meet Sayoko (Julian)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006264-501",
+			"name": "Meet Sayako (Leo)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709006265-701",
+			"name": "Meet Sayoko (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658189-648",
+			"name": "Initial Shop Variable",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708766177-787",
+			"name": "Leo Pisses off Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708768034-366",
+			"name": "Alistair Pisses of Shopkeeper",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708658196-366",
+			"name": "Initial Chester's Peak Convo (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1716043934-828",
+			"name": "Nuclear Power Plant Tutorial",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707080809-787",
+			"name": "Hooded Figure Side Quest - Leo Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1717465244-785",
+			"name": "Create Julian's Fence Cutter",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708998217-648",
+			"name": "Talk to Camille About Caden",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707205434-648",
+			"name": "Hooded Figure Name Tag - Alistair Only",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1707083632-146",
+			"name": "Caden's Side Quest",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1716041193-557",
+			"name": "Talk to Sayoko",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1717466108-905",
+			"name": "Shelia in the Moss House",
 			"type": 0,
 			"value": "0"
 		}
