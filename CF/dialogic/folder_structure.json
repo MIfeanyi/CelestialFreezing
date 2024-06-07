@@ -125,7 +125,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										}
 									},
@@ -137,7 +137,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level II - Malice at McGuire": {
@@ -285,7 +285,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Inventory": {
@@ -323,13 +323,14 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								},
 								"Side Quest Items": {
 									"files": [
 										"1707207257-648",
-										"1707084674-648"
+										"1707084674-648",
+										"1717722354-713"
 									],
 									"folders": {
 
@@ -375,6 +376,24 @@
 										"folded": true
 									}
 								},
+								"Buy (Expensive)": {
+									"files": [
+										"1717718833-648",
+										"1717718835-787",
+										"1717718836-366",
+										"1717718838-146",
+										"1717718840-918",
+										"1717718852-483",
+										"1717718853-970"
+									],
+									"folders": {
+
+									},
+									"metadata": {
+										"color": null,
+										"folded": true
+									}
+								},
 								"Sell": {
 									"files": [
 										"1708793105-416",
@@ -395,7 +414,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Respect Opportunities": {
@@ -443,13 +462,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -548,7 +567,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Intro": {
@@ -625,7 +644,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Path to the Abandoned Facility": {
@@ -639,7 +658,7 @@
 												"timeline-1709004641.json"
 											],
 											"folders": {
-												"Research Facility (Leo Only - Side Quest COMPLETE)": {
+												"Research Facility (Lowen Only - Side Quest COMPLETE)": {
 													"files": [
 														"timeline-1708831525.json",
 														"timeline-1708831530.json",
@@ -744,7 +763,8 @@
 												"timeline-1704600589.json",
 												"timeline-1704600593.json",
 												"timeline-1704600595.json",
-												"timeline-1704600597.json"
+												"timeline-1704600597.json",
+												"timeline-1717722097.json"
 											],
 											"folders": {
 												"Talk with the Team": {
@@ -766,13 +786,13 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										}
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},

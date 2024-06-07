@@ -4,7 +4,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Get what you need and leave this town is you know what’s good for you…"
+			"text": "Get what you need and leave this town if you know what’s good for you…"
 		},
 		{
 			"event_id": "dialogic_015",
@@ -24,12 +24,23 @@
 		{
 			"choice": "Buy",
 			"condition": "",
-			"definition": "",
+			"definition": "1708766177-787",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"change_timeline": "timeline-1708681925.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Purchase",
+			"condition": "",
+			"definition": "1708766177-787",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"change_timeline": "timeline-1708835785.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -82,7 +93,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We're done talkikng here as long as your pale ass friend is here."
+			"text": "We're done talking here as long as your pale ass friend is here."
 		},
 		{
 			"character": "character-1707081793.json",
@@ -281,7 +292,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t advocate for violence against anyone unless it’s an absolute last resort."
+			"text": "I don’t advocate for violence against anyone unless it’s an absolute last resort..."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -293,7 +304,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It makes sense if it's her first option,  if the rest of the townspeople are anything like you…"
+			"text": "It makes sense if it's her first option, if the rest of the townspeople are anything like you…"
 		},
 		{
 			"character": "character-1707081793.json",
@@ -342,7 +353,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We're done talkikng  as long as your pale ass friend is here."
+			"text": "We're done talking  as long as your pale ass friend is here."
 		},
 		{
 			"character": "character-1707081793.json",
@@ -549,6 +560,6 @@
 	"metadata": {
 		"dialogic-version": "1.5",
 		"file": "timeline-1708657327.json",
-		"name": "Shop (Leo)"
+		"name": "Shop (Lowen)"
 	}
 }

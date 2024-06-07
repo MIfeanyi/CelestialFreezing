@@ -173,6 +173,23 @@
 			"condition": "",
 			"definition": "1717475100-192",
 			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille is currently out scouting and cannot be selected right now."
+		},
+		{
+			"anchor_id": "anchor-1716046672",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Talk to Camille",
+			"condition": "",
+			"definition": "1717475100-192",
+			"event_id": "dialogic_011",
 			"value": "0"
 		},
 		{

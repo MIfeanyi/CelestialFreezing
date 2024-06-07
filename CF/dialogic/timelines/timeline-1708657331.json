@@ -277,7 +277,7 @@
 			"value": "1"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Who is the commander  you mentioned earlier?"
@@ -304,7 +304,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alvin Stockfielt."
+			"text": "Alvin Seegers."
 		},
 		{
 			"character": "character-1707081793.json",
@@ -353,6 +353,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You didn’t hear that from me though…"
+		},
+		{
+			"definition": "1708830053-894",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1708764355",

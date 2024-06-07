@@ -4,7 +4,13 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You dumbass actually came back, huh?"
+			"text": "Your dumbass still wants to buy something, huh?"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Heh, I definitely won't stop you."
 		},
 		{
 			"event_id": "dialogic_015",

@@ -1,6 +1,12 @@
 {
 	"events": [
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -23,9 +29,26 @@
 		{
 			"choice": "Camille",
 			"condition": "",
-			"definition": "",
+			"definition": "1717475100-192",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille currently can not be selected as she is currently scouting."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Camille",
+			"condition": "",
+			"definition": "1717475100-192",
+			"event_id": "dialogic_011",
+			"value": "0"
 		},
 		{
 			"change_timeline": "timeline-1704600593.json",

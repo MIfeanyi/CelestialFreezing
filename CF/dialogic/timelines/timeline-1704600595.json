@@ -39,6 +39,22 @@
 			"event_id": "dialogic_020"
 		},
 		{
+			"choice": "Talk",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
 			"choice": "Tell me about yourself",
 			"condition": "",
 			"definition": "",
@@ -91,7 +107,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ": I know it’s going to sound like I’m crazy, but the only thing that’s seemed to stay the same after the ozone explosion were these parts."
+			"text": "I know it’s going to sound like I’m crazy, but the only thing that’s seemed to stay the same after the ozone explosion were these parts."
 		},
 		{
 			"character": "character-1701671586.json",
@@ -285,20 +301,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Right…"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Silas rumbles within Julian."
-		},
-		{
-			"definition": "1707079059-787",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -578,20 +580,6 @@
 			"text": "Believe me when I say he really appreciates it."
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Silas slumbers within Julian."
-		},
-		{
-			"definition": "1707079059-787",
-			"event_id": "dialogic_014",
-			"operation": "-",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
@@ -748,20 +736,6 @@
 			"text": "Don't worry about it."
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Silas slumbers within Julian."
-		},
-		{
-			"definition": "1707079059-787",
-			"event_id": "dialogic_014",
-			"operation": "-",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
@@ -809,20 +783,6 @@
 			"text": "It's probably better if you guys didn't meet."
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Silas rumbles within Julian."
-		},
-		{
-			"definition": "1707079059-787",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
@@ -830,7 +790,7 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Give Parts",
+			"choice": "Parts",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -840,7 +800,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So if I find parts that might be useful, I just give them to you?"
+			"text": "So if I find some stuff that might be useful, I just give them to you?"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -889,6 +849,9 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"choice": "Select as Partner",
 			"condition": "",
 			"definition": "",
@@ -929,6 +892,17 @@
 		},
 		{
 			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Give Parts to Craft",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "",
 			"event_id": "dialogic_020"
 		},
 		{

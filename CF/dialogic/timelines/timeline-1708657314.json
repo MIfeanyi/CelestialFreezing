@@ -59,7 +59,15 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "At the Shop, you have the ability to purchase items being sold by shopkeepers, sell items to shopkeepers for currency, or speak to the shopkeeper for information about the area."
+			"text": "At the Shop, you can purchase items being sold by shopkeepers, sell items to shopkeepers for currency, or speak to the shopkeeper for information about the area."
+		},
+		{
+			"definition": "1708658189-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"condition": "",
