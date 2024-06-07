@@ -83,6 +83,14 @@
 			"text": "Talk about a great find!"
 		},
 		{
+			"definition": "1708830134-991",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
@@ -226,7 +234,7 @@
 			"text": "'November 19, 2006'"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "'Denmark'"
@@ -272,6 +280,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I'll keep that in mind."
+		},
+		{
+			"definition": "1708830150-732",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -457,6 +473,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "If we handle this right, we might be able to help everyone at the end of the day."
+		},
+		{
+			"definition": "1708830175-573",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
