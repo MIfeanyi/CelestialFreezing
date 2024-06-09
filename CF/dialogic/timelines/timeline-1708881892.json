@@ -72,6 +72,15 @@
 			"value": ""
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -92,12 +101,6 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -105,6 +108,12 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -171,12 +180,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Indeed!"
-		},
-		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1634488067",
-			"index": 0,
-			"name": "Alistair Loop"
 		},
 		{
 			"audio_bus": "Master",
@@ -404,6 +407,15 @@
 			"value": ""
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -424,12 +436,6 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -437,6 +443,12 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -694,6 +706,15 @@
 			"question": "Evil doer?"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"choice": "The greatest evil doer",
 			"condition": "",
 			"definition": "",
@@ -721,12 +742,6 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -734,6 +749,12 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -1007,6 +1028,15 @@
 			"value": ""
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1027,12 +1057,6 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -1040,6 +1064,12 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701672712.json",

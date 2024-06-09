@@ -699,7 +699,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												},
 												"Talk to Caden": {
@@ -716,13 +716,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Shop": {
