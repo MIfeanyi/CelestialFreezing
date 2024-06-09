@@ -11,7 +11,7 @@
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
 			"file": "res://background music/Level 0 - Prologue/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3",
-			"volume": 0
+			"volume": -15
 		},
 		{
 			"character": "character-1701672712.json",
@@ -137,6 +137,10 @@
 			"text": "To the World?! "
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -257,7 +261,7 @@
 		{
 			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T005307.964.jpg",
 			"event_id": "dialogic_021",
-			"fade_duration": 0
+			"fade_duration": 0.3
 		},
 		{
 			"character": "character-1701671218.json",
@@ -272,16 +276,25 @@
 			"text": "WAIT!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"audio": "play",
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"file": "res://sound effects/General Sound Effects/9mm-pistol-shot-6349.mp3",
 			"volume": -0.4
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
+			"hide_dialogbox": true,
 			"wait_seconds": 2
 		},
 		{
@@ -347,7 +360,7 @@
 		{
 			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T013943.914.jpg",
 			"event_id": "dialogic_021",
-			"fade_duration": 0
+			"fade_duration": 1
 		},
 		{
 			"character": "character-1701671103.json",
@@ -488,6 +501,15 @@
 			"text": "Humanity’s very existence was at risk because of my actions…"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sound effects/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
+			"volume": -10
+		},
+		{
 			"background": "res://backgrounds/Level 0 - Prologue/download (6).jpg",
 			"event_id": "dialogic_021"
 		},
@@ -496,15 +518,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Arrested for my crime of global devastation, I was being transported to a high-security prison to be executed for the entire world and its leaders to see."
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://sound effects/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
-			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -524,7 +537,7 @@
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
 			"file": "res://sound effects/Level 0 - Prologue/metal-chain-7056.mp3",
-			"volume": 0
+			"volume": -10
 		},
 		{
 			"character": "character-1701671552.json",
@@ -536,7 +549,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "are responsible for poisoning the Earth and its inhabitants and it's time for me to pay for my sins."
+			"text": "Are responsible for poisoning the Earth and its inhabitants and it's time for me to pay for my sins."
 		},
 		{
 			"character": "character-1701707170.json",
@@ -670,6 +683,14 @@
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
 			"file": "res://sound effects/Level 0 - Prologue/sniper-rifle-5989.mp3",
+			"volume": -5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3",
 			"volume": 0
 		},
 		{
@@ -688,14 +709,6 @@
 			"volume": 0
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sound effects/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3",
-			"volume": 0
-		},
-		{
 			"character": "character-1701707170.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -706,6 +719,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "SHIT!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 5
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -723,8 +745,13 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 2
+			"hide_dialogbox": true,
+			"wait_seconds": 4
+		},
+		{
+			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 3
 		},
 		{
 			"character": "character-1701672712.json",
@@ -740,11 +767,6 @@
 			"fade_length": 1,
 			"file": "res://sound effects/Level 0 - Prologue/fire-burning-loop-6135.mp3",
 			"volume": -10
-		},
-		{
-			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
-			"event_id": "dialogic_021",
-			"fade_duration": 2
 		},
 		{
 			"character": "character-1701672712.json",
@@ -969,6 +991,11 @@
 			"name": "Death Loop"
 		},
 		{
+			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1019,6 +1046,19 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Gaia’s got work for you to do. "
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1702177196.json",
@@ -1130,6 +1170,10 @@
 			"event_name": "AudioEvent",
 			"file": "res://sound effects/General Sound Effects/9mm-pistol-shot-6349.mp3",
 			"volume": -5
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",

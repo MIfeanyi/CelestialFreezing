@@ -11,5 +11,5 @@ dest_files=[ "res://.import/fire-burning-loop-6135.mp3-20b3beaca5d932853e0cd82ee
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

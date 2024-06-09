@@ -10,15 +10,15 @@
 			"volume": -10
 		},
 		{
-			"background": "res://character portraits/Main Characters/Camille/download (87).jpg",
-			"event_id": "dialogic_021",
-			"fade_duration": 0.5
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A young female, barely twenty, with short black hair, brown skin, a stoic expression, and a strong commitment to their mission: plan PHEONIX."
+		},
+		{
+			"background": "res://character portraits/Main Characters/Camille/download (87).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"background": "res://character portraits/Main Characters/Camille/download (82).jpg",

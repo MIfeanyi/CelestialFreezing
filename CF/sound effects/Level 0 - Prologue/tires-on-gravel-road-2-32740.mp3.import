@@ -11,5 +11,5 @@ dest_files=[ "res://.import/tires-on-gravel-road-2-32740.mp3-6a3723c61967f569c2b
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0

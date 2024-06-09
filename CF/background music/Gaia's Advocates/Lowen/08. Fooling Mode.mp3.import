@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/08. Fooling Mode.mp3-069800404d939359d654ef4d956e4551.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Lowen/08. Fooling Mode.mp3"
+dest_files=[ "res://.import/08. Fooling Mode.mp3-069800404d939359d654ef4d956e4551.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
