@@ -22,7 +22,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"NPCs": {
@@ -173,7 +173,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -567,7 +567,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Intro": {
@@ -699,7 +699,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												},
 												"Talk to Caden": {
@@ -716,7 +716,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},

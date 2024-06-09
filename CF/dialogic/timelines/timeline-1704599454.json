@@ -28,19 +28,20 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"port_defn": "1707082078-648",
+			"portrait": "(Don't change)",
 			"text": "Yo!"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "You finally made your way over, huh?"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "So, what’s up?"
 		},
 		{
