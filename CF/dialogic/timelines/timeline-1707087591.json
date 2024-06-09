@@ -464,6 +464,11 @@
 			"text": "He positioned his palm over the hooded figure. "
 		},
 		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T004747.814.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -486,6 +491,11 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Although our efforts shall restore this town, the trust that you and your reseachers have broken with the people remain your burden to bear."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (61).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.3
 		},
 		{
 			"character": "character-1701672712.json",

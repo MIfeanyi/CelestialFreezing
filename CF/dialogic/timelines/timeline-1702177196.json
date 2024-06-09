@@ -243,14 +243,6 @@
 			"text": "Gaia’s Advocates has chosen your town for aid and this is how you filthy ingrates repay us?!"
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
-			"volume": 0
-		},
-		{
 			"character": "character-1702178975.json",
 			"event_id": "dialogic_001",
 			"portrait": "",

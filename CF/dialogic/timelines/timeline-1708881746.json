@@ -51,7 +51,7 @@
 			"text": "Sure, come in."
 		},
 		{
-			"change_timeline": "timeline-1709004210.json",
+			"change_timeline": "timeline-1708881746.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -203,6 +203,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Take that planet saving shit somewhere else. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
 		},
 		{
 			"character": "",

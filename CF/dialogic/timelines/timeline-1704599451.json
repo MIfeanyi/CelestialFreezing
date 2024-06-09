@@ -660,7 +660,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Julian’s respect for you has risen. (+1 RESPECT) "
+			"text": "Julian’s respect for you has risen! (+1 RESPECT) "
 		},
 		{
 			"event_id": "dialogic_023",

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/The Knight.mp3-d802b0f56a102dc181fceeb1be6b9294.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Residential Area/The Knight.mp3"
+dest_files=[ "res://.import/The Knight.mp3-d802b0f56a102dc181fceeb1be6b9294.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

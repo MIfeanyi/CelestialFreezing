@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/06-お店.mp3-27806a6a301caf170e088a5531387fa7.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Shop/06-お店.mp3"
+dest_files=[ "res://.import/06-お店.mp3-27806a6a301caf170e088a5531387fa7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

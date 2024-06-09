@@ -11,6 +11,62 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/09. Konohamaru's Theme.mp3",
+			"volume": -10
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -483,10 +539,28 @@
 			"text": "With this my strength has been completely restored!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I feel invincible~!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden aburptly stands up straight and salutes you!"
+		},
+		{
+			"background": "res://character portraits/NPCs/Caden/download - 2024-06-07T235905.928.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -498,32 +572,13 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Caden aburptly stands up straight and salutes you!"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
 			"text": "You do the same and return his salute in a comically exaggerated fashion causing Camille to chuckle."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It was an honour, your majesty!"
-		},
-		{
-			"condition": "",
-			"definition": "1707083632-146",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
+			"text": "It was an honour, your knightliness!"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -608,6 +663,28 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Let's get the others."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "",
+			"volume": 0
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille's respect for you has risen! (+1 RESPECT)!"
+		},
+		{
+			"definition": "1707082098-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1107,10 +1184,27 @@
 			"text": "Caden looks over surprised."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/60 Surprise.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I AM, IN FACT, A MAN OF MALEVALENT INTENT!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1134,13 +1228,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Come on! "
+			"text": "(Come on!)"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Sell it a little!"
+			"text": "(Sell it a little!)"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1176,19 +1270,28 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "S-Stop laughing!"
+			"text": "(S-Stop laughing!)"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Y-You're doing great!"
+			"text": "(Y-You're doing great!)"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I swear!"
+			"text": "(I swear!)"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/The Knight.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1215,6 +1318,10 @@
 			"text": "You don't belong in this world!"
 		},
 		{
+			"background": "res://character portraits/NPCs/Caden/download - 2024-06-08T000340.021.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1236,7 +1343,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You and Kaven engage in a battle for the ages! "
+			"text": "You and Caden engage in a battle for the ages! "
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1281,7 +1388,7 @@
 			"text": "GWAAAAAUUUUGGGHHH!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "T-To t-think..."
@@ -1308,7 +1415,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Tuna casserole..."
+			"text": "I-I n-never liked..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Her tuna casserole..."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1321,6 +1434,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille quitely laughs sitting on the a bunk of snow."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1341,6 +1463,15 @@
 			"text": "I DID IT!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sound effects/General Sound Effects/56 Fanfare2.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1350,7 +1481,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille happily appluaded as Caden ran around almost tripping in the snow."
+			"text": "Camille happily applaudes as Caden ran around almost tripping in the snow!"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1380,7 +1511,16 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille quickly grabs Caden's wooden sword."
+			"text": "Camille takes Caden's wooden sword."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1593,23 +1733,18 @@
 			"text": "Hey, wait up!"
 		},
 		{
-			"condition": "",
-			"definition": "1709002528-787",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/57 Found Precious Item.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille’s respect for you has risen. (+1 RESPECT)"
+			"text": "Camille’s respect for you has risen! (+1 RESPECT)"
 		},
 		{
 			"definition": "1709002528-787",
@@ -1628,8 +1763,8 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
+			"change_timeline": "timeline-1717913323.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Return to Residential Area",

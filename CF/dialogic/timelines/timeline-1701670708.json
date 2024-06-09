@@ -276,15 +276,6 @@
 			"text": "WAIT!"
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
-		},
-		{
 			"audio": "play",
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
@@ -751,7 +742,7 @@
 		{
 			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
 			"event_id": "dialogic_021",
-			"fade_duration": 3
+			"fade_duration": 10
 		},
 		{
 			"character": "character-1701672712.json",

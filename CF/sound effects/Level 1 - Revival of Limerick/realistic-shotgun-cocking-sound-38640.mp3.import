@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/realistic-shotgun-cocking-sound-38640.mp3-89bf29f4a8e77543e2629a86af531866.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 1 - Revival of Limerick/realistic-shotgun-cocking-sound-38640.mp3"
+dest_files=[ "res://.import/realistic-shotgun-cocking-sound-38640.mp3-89bf29f4a8e77543e2629a86af531866.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

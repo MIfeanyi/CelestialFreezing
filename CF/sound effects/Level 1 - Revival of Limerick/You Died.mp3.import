@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/You Died.mp3-d285387f16319cf5baf249b54c6bce66.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 1 - Revival of Limerick/You Died.mp3"
+dest_files=[ "res://.import/You Died.mp3-d285387f16319cf5baf249b54c6bce66.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

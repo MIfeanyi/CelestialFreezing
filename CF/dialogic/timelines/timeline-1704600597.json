@@ -11,7 +11,7 @@
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Lowen/11. Kakashi's Theme.mp3",
-			"volume": 0
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",

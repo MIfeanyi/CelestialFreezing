@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/09. Konohamaru's Theme.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -69,6 +78,14 @@
 			"text": "I’m not just any ordinary evil doer…"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/60 Surprise.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -79,6 +96,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "MUHAHAHAHA!!!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671580.json",
@@ -153,6 +179,15 @@
 			"name": "Alistair Loop"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -220,6 +255,14 @@
 			"value": ""
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -268,10 +311,26 @@
 			"text": "A fellow fighter of evil and an enthusiast of jolly cooperation!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671552.json",
@@ -280,10 +339,23 @@
 			"text": "HAZAH! "
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/61 You Lose.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
 		},
 		{
 			"character": "character-1707081795.json",
@@ -292,8 +364,16 @@
 			"text": "Then maybe you can help me as a knight of justice and jolly cooperation! "
 		},
 		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
+			"definition": "1709006152-192",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1708881893.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -330,6 +410,14 @@
 			"text": "I’m not just any ordinary evil doer…"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/60 Surprise.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -340,6 +428,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "MUHAHAHAHA!!!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671586.json",
@@ -369,7 +466,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Fear not, ma’am!"
+			"text": "Fear not, sir!"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -402,10 +499,13 @@
 			"text": "Indeed!"
 		},
 		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1708920128",
-			"index": 0,
-			"name": "Julian Loop"
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1707081795.json",
@@ -457,6 +557,14 @@
 			"value": ""
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -499,16 +607,40 @@
 			"text": "A fellow fighter of evil and an enthusiast of jolly cooperation!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671586.json",
@@ -529,8 +661,16 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"anchor_id": "anchor-1708920128",
-			"event_id": "dialogic_016"
+			"definition": "1709006154-574",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1708881894.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -567,6 +707,14 @@
 			"text": "I’m not just any ordinary evil doer…"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/60 Surprise.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -577,6 +725,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "MUHAHAHAHA!!!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",
@@ -639,12 +796,6 @@
 			"text": "Indeed!"
 		},
 		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1708920206",
-			"index": 0,
-			"name": "Lowen Loop"
-		},
-		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -692,6 +843,14 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671552.json",
@@ -754,16 +913,40 @@
 			"text": "The jolliest of cooperations!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",
@@ -784,8 +967,16 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"anchor_id": "anchor-1708920206",
-			"event_id": "dialogic_016"
+			"definition": "1709006155-250",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1708881895.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -822,6 +1013,14 @@
 			"text": "I’m not just any ordinary evil doer…"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/60 Surprise.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -832,6 +1031,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "MUHAHAHAHA!!!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701672712.json",
@@ -894,10 +1102,13 @@
 			"text": "Indeed!"
 		},
 		{
-			"event_id": "dialogic_015",
-			"id": "anchor-1708920223",
-			"index": 0,
-			"name": "Camille Loop"
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1707081795.json",
@@ -949,6 +1160,14 @@
 			"value": ""
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -991,10 +1210,26 @@
 			"text": "A fellow fighter of evil and an enthusiast of jolly cooperation!"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "HAZAH! "
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1006,13 +1241,21 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Slightly embaressed you glance over at Camille and nod encouraging her to participate."
+			"text": "Slightly embaressed, you glance over at Camille and nod encouraging her to participate."
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1033,8 +1276,8 @@
 			"text": "And how can we do that, young Caden the Great, guardian of Chester's Peak? "
 		},
 		{
-			"anchor_id": "anchor-1708920223",
-			"event_id": "dialogic_016"
+			"change_timeline": "timeline-1708881898.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"
