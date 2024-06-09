@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T001929.306.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -27,6 +31,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (25).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -285,6 +293,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (26).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",

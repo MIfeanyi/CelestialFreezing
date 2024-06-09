@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (24).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -41,18 +45,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Ugh!"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Test"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "[Partner Dependent Value]"
 		},
 		{
 			"condition": "",

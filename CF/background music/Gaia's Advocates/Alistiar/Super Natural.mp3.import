@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Super Natural.mp3-a358b3c6a3ebd960ee13d0f853b8cb64.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Super Natural.mp3"
+dest_files=[ "res://.import/Super Natural.mp3-a358b3c6a3ebd960ee13d0f853b8cb64.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

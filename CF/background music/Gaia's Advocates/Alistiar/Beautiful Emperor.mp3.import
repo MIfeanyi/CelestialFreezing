@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Beautiful Emperor.mp3-1efff6c4fd239a696d7aac0d12094c05.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Beautiful Emperor.mp3"
+dest_files=[ "res://.import/Beautiful Emperor.mp3-1efff6c4fd239a696d7aac0d12094c05.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

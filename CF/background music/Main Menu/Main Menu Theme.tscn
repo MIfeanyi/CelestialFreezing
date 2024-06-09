@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://background music/Main Menu/27. Panacea.mp3" type="AudioStream" id=1]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+pause_mode = 1
+stream = ExtResource( 1 )
+volume_db = -10.0
+autoplay = true

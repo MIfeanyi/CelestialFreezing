@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (49).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
@@ -262,7 +266,7 @@
 			"text": "As a scientist, someone who believes within the data, logic, and reason, I can't explain why things played out the way it did or why it happened in the first place."
 		},
 		{
-			"character": "",
+			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "However, I do think something good has to come from this situation and it's up to us to figure that out."
@@ -325,6 +329,19 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (55).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -477,6 +494,20 @@
 			"text": "The researcher let's go of you both before suddenly clamoring for his sandwiches!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (57).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
 			"character": "character-1716036957.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -511,6 +542,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "All of that over expired grainy mustard?"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"anchor_id": "anchor-1634488067",

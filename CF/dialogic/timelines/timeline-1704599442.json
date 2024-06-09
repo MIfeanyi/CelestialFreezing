@@ -1,6 +1,19 @@
 {
 	"events": [
 		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T010323.034.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Alistiar/All Hail Britannia!!!.mp3",
+			"volume": -15
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -800,13 +813,30 @@
 			"text": "I have better things to do."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/43 Accepting a Quest.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair is now your partner!"
 		},
 		{
-			"definition": "1707076243-648",
+			"definition": "1707082078-648",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
@@ -835,6 +865,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Now get out of my face, wretch."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1705645103.json",

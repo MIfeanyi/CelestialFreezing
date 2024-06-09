@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/50 Found Mini Medal.mp3-903fd83749c49c3f08ea42d56d92e3c4.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/50 Found Mini Medal.mp3"
+dest_files=[ "res://.import/50 Found Mini Medal.mp3-903fd83749c49c3f08ea42d56d92e3c4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

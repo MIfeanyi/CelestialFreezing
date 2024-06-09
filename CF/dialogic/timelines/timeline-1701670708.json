@@ -1,12 +1,16 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level 0 - Prologue/download (3).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://bgm/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3",
+			"file": "res://background music/Level 0 - Prologue/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3",
 			"volume": 0
 		},
 		{
@@ -62,6 +66,11 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s not…"
+		},
+		{
+			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T005159.306.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
 		},
 		{
 			"character": "character-1701671218.json",
@@ -240,16 +249,21 @@
 			"text": "Just shoot ‘em already! "
 		},
 		{
-			"character": "character-1701671218.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "We’d be killing them for the mass genocide they’d be causing!"
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The female government agent snatches a handgun from another reluctant agent and aims it at you!"
+		},
+		{
+			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T005307.964.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
+			"character": "character-1701671218.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’d be killing them for the mass genocide they’d be causing!"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -331,6 +345,11 @@
 			"text": "Low murmurs fill the room."
 		},
 		{
+			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T013943.914.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0
+		},
+		{
 			"character": "character-1701671103.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -375,7 +394,8 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": false,
-			"wait_seconds": 1.5
+			"wait_seconds": 1,
+			"waiting_skippable": false
 		},
 		{
 			"character": "character-1701671552.json",
@@ -391,6 +411,10 @@
 			"fade_length": 1,
 			"file": "",
 			"volume": 0
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -432,6 +456,10 @@
 			"text": "My intervention caused the missiles to be redirected over other continents before exploding within the ozone layer. "
 		},
 		{
+			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T013211.310.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -442,6 +470,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as The Wings of Icarus incident "
+		},
+		{
+			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T012520.527.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -456,6 +488,10 @@
 			"text": "Humanity’s very existence was at risk because of my actions…"
 		},
 		{
+			"background": "res://backgrounds/Level 0 - Prologue/download (6).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -467,7 +503,7 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://sfx/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
+			"file": "res://sound effects/Level 0 - Prologue/tires-on-gravel-road-2-32740.mp3",
 			"volume": 0
 		},
 		{
@@ -487,7 +523,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/metal-chain-7056.mp3",
+			"file": "res://sound effects/Level 0 - Prologue/metal-chain-7056.mp3",
 			"volume": 0
 		},
 		{
@@ -633,7 +669,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/sniper-rifle-5989.mp3",
+			"file": "res://sound effects/Level 0 - Prologue/sniper-rifle-5989.mp3",
 			"volume": 0
 		},
 		{
@@ -643,11 +679,20 @@
 			"text": "W-What was that?!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"audio": "play",
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "",
+			"file": "res://sound effects/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3",
 			"volume": 0
 		},
 		{
@@ -657,46 +702,29 @@
 			"text": "Was that a gunshot?!"
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3",
-			"volume": 0
-		},
-		{
 			"character": "character-1701707287.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "SHIT!"
 		},
 		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The transport truck crashes off the road and you lose consciousness!"
+		},
+		{
 			"audio": "play",
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "",
-			"volume": 0
+			"file": "res://sound effects/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3",
+			"volume": -10
 		},
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": false,
-			"wait_seconds": 3
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The transport truck crashes off the road and you lose consciousness. "
+			"wait_seconds": 2
 		},
 		{
 			"character": "character-1701672712.json",
@@ -705,21 +733,18 @@
 			"text": "As you wake up, you feel yourself being dragged outside of the snow. "
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3",
-			"volume": 0
-		},
-		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://sfx/Level 0 - Prologue/fire-burning-loop-6135.mp3",
-			"volume": 0
+			"file": "res://sound effects/Level 0 - Prologue/fire-burning-loop-6135.mp3",
+			"volume": -10
+		},
+		{
+			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
 		},
 		{
 			"character": "character-1701672712.json",
@@ -916,15 +941,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/berretta-9mm-cocking-slower-105410.mp3",
-			"volume": 0
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "",
+			"file": "res://sound effects/General Sound Effects/berretta-9mm-cocking-slower-105410.mp3",
 			"volume": 0
 		},
 		{
@@ -1008,10 +1025,6 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"change_scene": "",
-			"event_id": "dialogic_041"
-		},
-		{
 			"choice": "No",
 			"condition": "",
 			"definition": "",
@@ -1071,7 +1084,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"file": "res://sound effects/General Sound Effects/9mm-pistol-shot-6349.mp3",
 			"volume": 0
 		},
 		{
@@ -1115,7 +1128,7 @@
 			"audio_bus": "Master",
 			"event_id": "dialogic_030",
 			"event_name": "AudioEvent",
-			"file": "res://sfx/Level 0 - Prologue/9mm-pistol-shot-6349.mp3",
+			"file": "res://sound effects/General Sound Effects/9mm-pistol-shot-6349.mp3",
 			"volume": -5
 		},
 		{
@@ -1123,6 +1136,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You were killed by Gaia’s Advocates"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/Beholder of None - Game Over THeme.wav",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1158,20 +1180,9 @@
 			"text": "- GAME OVER -"
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://bgm/Silent Antiquity - Fail Theme.wav",
-			"volume": 0
-		},
-		{
-			"choice": "Return to Main Menu",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 2
 		},
 		{
 			"change_scene": "res://src/menu/Menu.tscn",

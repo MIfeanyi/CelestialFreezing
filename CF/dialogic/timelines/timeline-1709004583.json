@@ -7,6 +7,15 @@
 			"name": "Death Loop"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Alistiar/Super Natural.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -145,7 +154,7 @@
 			"text": "Please, continue."
 		},
 		{
-			"character": "",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Enlighten me."
@@ -444,28 +453,40 @@
 			"text": "You fall to the snow as blood seeps from your mouth and your vision gets hazy. "
 		},
 		{
-			"character": "",
+			"background": "res://character portraits/NPCs/Sayoko/download (41).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Know that your friend here forfeited your life to Sayoko."
 		},
 		{
-			"character": "",
+			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Truly a waste."
 		},
 		{
-			"character": "",
+			"character": "character-1714421175.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "And you’re next if you don’t leave."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You were killed by the mysterious woman, Sayoko."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://background music/General Background Music/Beholder of None - Game Over THeme.wav",
+			"volume": -10
 		},
 		{
 			"character": "",
@@ -474,7 +495,7 @@
 			"text": "- GAME OVER -"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -624,6 +645,15 @@
 			"text": "You haul Alistair away back towards the town square as he yells obscenities at the woman."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"change_timeline": "timeline-1701714406.json",
 			"event_id": "dialogic_020"
 		},
@@ -757,6 +787,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Better play it safe than sorry."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1701714406.json",

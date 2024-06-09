@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/metal-chain-7056.mp3-49f234b3b7fca523db5a716ce70185b9.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/metal-chain-7056.mp3"
+dest_files=[ "res://.import/metal-chain-7056.mp3-49f234b3b7fca523db5a716ce70185b9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

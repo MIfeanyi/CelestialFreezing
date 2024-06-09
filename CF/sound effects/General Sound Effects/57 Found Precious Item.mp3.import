@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/57 Found Precious Item.mp3-fc6ddd7be328ef4638219d2a923304cd.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/57 Found Precious Item.mp3"
+dest_files=[ "res://.import/57 Found Precious Item.mp3-fc6ddd7be328ef4638219d2a923304cd.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/berretta-9mm-cocking-slower-105410.mp3-f5828a65ee6a1070f6773916594dd478.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/berretta-9mm-cocking-slower-105410.mp3"
+dest_files=[ "res://.import/berretta-9mm-cocking-slower-105410.mp3-f5828a65ee6a1070f6773916594dd478.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

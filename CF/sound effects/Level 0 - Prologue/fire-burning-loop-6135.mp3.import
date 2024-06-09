@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fire-burning-loop-6135.mp3-20b3beaca5d932853e0cd82ee3525b69.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/fire-burning-loop-6135.mp3"
+dest_files=[ "res://.import/fire-burning-loop-6135.mp3-20b3beaca5d932853e0cd82ee3525b69.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

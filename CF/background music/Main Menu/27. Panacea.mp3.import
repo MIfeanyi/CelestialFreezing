@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/27. Panacea.mp3-0e3afa4da24468ede3dba6aa3f2dc559.mp3str"
+
+[deps]
+
+source_file="res://background music/Main Menu/27. Panacea.mp3"
+dest_files=[ "res://.import/27. Panacea.mp3-0e3afa4da24468ede3dba6aa3f2dc559.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

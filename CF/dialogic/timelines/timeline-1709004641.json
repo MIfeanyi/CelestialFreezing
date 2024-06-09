@@ -34,18 +34,22 @@
 			"question": "Select an Option"
 		},
 		{
-			"choice": "",
+			"choice": "Talk",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "",
+			"choice": "Leave",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"

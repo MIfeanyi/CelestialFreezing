@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/02.  Daylight of Konoha.mp3-fc708f9d3d266b92b524b4eaa96c054d.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Town Square/02.  Daylight of Konoha.mp3"
+dest_files=[ "res://.import/02.  Daylight of Konoha.mp3-fc708f9d3d266b92b524b4eaa96c054d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

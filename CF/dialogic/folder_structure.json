@@ -22,7 +22,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"NPCs": {
@@ -173,7 +173,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -462,13 +462,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -627,7 +627,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Outside of Shop": {
@@ -671,13 +671,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Residential Area": {
@@ -692,8 +692,7 @@
 														"timeline-1708881742.json",
 														"timeline-1708881744.json",
 														"timeline-1708881746.json",
-														"timeline-1708881925.json",
-														"timeline-1709004210.json"
+														"timeline-1717913323.json"
 													],
 													"folders": {
 
@@ -717,7 +716,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},
@@ -798,7 +797,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},

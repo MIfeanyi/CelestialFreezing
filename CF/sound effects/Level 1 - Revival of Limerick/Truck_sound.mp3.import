@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Truck_sound.mp3-d8ed4d971a59299d9cf893cdba484fb7.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 1 - Revival of Limerick/Truck_sound.mp3"
+dest_files=[ "res://.import/Truck_sound.mp3-d8ed4d971a59299d9cf893cdba484fb7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

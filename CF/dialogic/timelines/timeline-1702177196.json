@@ -7,10 +7,28 @@
 			"text": "A few days pass and Gaia’s Advocates have entered a small town in northwest Philadelphia, Pennsylvania."
 		},
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T001416.392.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 1 - Revival of Limerick/Truck_sound.mp3",
+			"volume": -10
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 4,
+			"waiting_skippable": false
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The squeal of a large cargo truck’s brakes engages before the loud release of pressurized air ring."
+			"text": "The squeal of a large cargo truck’s brakes engages before the loud release of pressurized air rings."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -23,6 +41,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Looks like we finally made it to Chester’s Peak."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (11).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -95,6 +117,11 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Stay on your guard..."
+		},
+		{
+			"background": "res://character portraits/Level I - Revival of Limerick/download (69).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "character-1702178286.json",
@@ -189,6 +216,19 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen!"
+		},
+		{
+			"background": "res://character portraits/Level I - Revival of Limerick/download (93).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1702178286.json",
@@ -319,6 +359,10 @@
 			"text": "Revival of Limerick – Chester’s Peak"
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"change_timeline": "timeline-1716294824.json",
 			"event_id": "dialogic_020"
 		},
@@ -418,6 +462,19 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen!"
+		},
+		{
+			"background": "res://character portraits/Level I - Revival of Limerick/download (93).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1702178286.json",
@@ -556,6 +613,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Revival of Limerick – Chester’s Peak"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"change_timeline": "timeline-1716294824.json",
@@ -716,13 +777,18 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*Scoff*"
+			"text": "*scoff*"
 		},
 		{
 			"character": "character-1702178975.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I think you let your girly ego get to that pretty little head of yours!"
+		},
+		{
+			"background": "res://character portraits/Level I - Revival of Limerick/download (70).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.2
 		},
 		{
 			"character": "character-1702178992.json",
@@ -777,6 +843,19 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What the hell am I looking at here?"
+		},
+		{
+			"background": "res://character portraits/Level I - Revival of Limerick/download (93).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1702178286.json",
@@ -915,6 +994,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Revival of Limerick – Chester’s Peak"
+		},
+		{
+			"background": "",
+			"event_id": "dialogic_021"
 		},
 		{
 			"change_timeline": "timeline-1716294824.json",

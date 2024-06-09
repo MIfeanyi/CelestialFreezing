@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/19 A Temple With No Master.mp3",
+			"volume": -15
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
@@ -31,6 +40,11 @@
 			"text": "Normal..."
 		},
 		{
+			"background": "res://character portraits/Main Characters/Julian/download - 2024-06-07T232642.796.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.3
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -53,6 +67,11 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "There’s no way that-"
+		},
+		{
+			"background": "res://character portraits/Main Characters/Julian/download - 2024-06-08T015742.886.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.3
 		},
 		{
 			"character": "character-1701671586.json",
@@ -333,6 +352,15 @@
 			"text": "He’s nowhere in sight!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -373,6 +401,19 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "…"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -15
+		},
+		{
+			"background": "res://character portraits/Main Characters/Julian/Silas/download - 2024-06-07T230601.355.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672387.json",
@@ -429,6 +470,10 @@
 			"text": "There won't be anything more to doubt when you can finally shut the hell up for once!"
 		},
 		{
+			"background": "res://character portraits/Main Characters/Julian/Silas/download - 2024-06-07T230620.259.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -468,7 +513,16 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You were killed by Gaia’s Advocates "
+			"text": "You were killed by Gaia’s Advocates."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/Beholder of None - Game Over THeme.wav",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",

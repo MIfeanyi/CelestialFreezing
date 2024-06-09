@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/55 Fanfare1.mp3-8c185f3de0547edc3bd1e347e46572bb.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/55 Fanfare1.mp3"
+dest_files=[ "res://.import/55 Fanfare1.mp3-8c185f3de0547edc3bd1e347e46572bb.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

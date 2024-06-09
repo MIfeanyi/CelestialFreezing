@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/carcrash_heartbeat-slomo-32752.mp3-2fa24fc1023c07a11e89012e0e94ced5.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/carcrash_heartbeat-slomo-32752.mp3"
+dest_files=[ "res://.import/carcrash_heartbeat-slomo-32752.mp3-2fa24fc1023c07a11e89012e0e94ced5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/13 Guide Them to Their Fate.mp3-a3d900a9d00e92c63875e65d7f7340c4.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/13 Guide Them to Their Fate.mp3"
+dest_files=[ "res://.import/13 Guide Them to Their Fate.mp3-a3d900a9d00e92c63875e65d7f7340c4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

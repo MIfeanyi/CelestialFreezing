@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/21 Are You a Loser.mp3-dadaf3b5ae39d91467e6a9a28a3f8bc3.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3"
+dest_files=[ "res://.import/21 Are You a Loser.mp3-dadaf3b5ae39d91467e6a9a28a3f8bc3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

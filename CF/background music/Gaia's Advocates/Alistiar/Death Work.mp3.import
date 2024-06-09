@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Death Work.mp3-a36e94d4bc9614832777ae9f9a43b0a3.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Death Work.mp3"
+dest_files=[ "res://.import/Death Work.mp3-a36e94d4bc9614832777ae9f9a43b0a3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

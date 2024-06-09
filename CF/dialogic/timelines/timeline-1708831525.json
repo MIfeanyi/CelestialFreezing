@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (28).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -59,6 +63,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Are you..."
+		},
+		{
+			"background": "res://character portraits/NPCs/Sayoko/download (38).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1714421175.json",

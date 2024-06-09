@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (30).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -53,6 +57,28 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "An ominous woman wearing a tattered lab coat with knives in her pockets reveals herself and blocks the path!"
+		},
+		{
+			"background": "res://character portraits/NPCs/Sayoko/download (43).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1714421175.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're not human are you?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Me?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I am?"
 		},
 		{
 			"change_timeline": "timeline-1709004583.json",

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sniper-rifle-5989.mp3-9f9029a53469762e0850510b8a2a4b06.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/sniper-rifle-5989.mp3"
+dest_files=[ "res://.import/sniper-rifle-5989.mp3-9f9029a53469762e0850510b8a2a4b06.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

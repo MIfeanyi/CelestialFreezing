@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/43 Accepting a Quest.mp3-3882b2f32b36da0e8c49a0b1f816eb7b.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/43 Accepting a Quest.mp3"
+dest_files=[ "res://.import/43 Accepting a Quest.mp3-3882b2f32b36da0e8c49a0b1f816eb7b.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

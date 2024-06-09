@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/11. Kakashi's Theme.mp3-1ab6219aa485ab1c4e193bc3526e099c.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Lowen/11. Kakashi's Theme.mp3"
+dest_files=[ "res://.import/11. Kakashi's Theme.mp3-1ab6219aa485ab1c4e193bc3526e099c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

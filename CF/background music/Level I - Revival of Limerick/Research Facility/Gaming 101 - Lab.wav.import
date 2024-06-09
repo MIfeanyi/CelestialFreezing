@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Gaming 101 - Lab.wav-8d547b1b4194849f1b65b507d9eab8b1.sample"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Research Facility/Gaming 101 - Lab.wav"
+dest_files=[ "res://.import/Gaming 101 - Lab.wav-8d547b1b4194849f1b65b507d9eab8b1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

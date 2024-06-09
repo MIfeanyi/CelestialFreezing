@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Concealment.mp3-fbed5c877b0a63f618b5e12e6a5f6488.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Concealment.mp3"
+dest_files=[ "res://.import/Concealment.mp3-fbed5c877b0a63f618b5e12e6a5f6488.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

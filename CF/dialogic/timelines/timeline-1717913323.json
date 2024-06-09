@@ -1,0 +1,13 @@
+{
+	"events": [
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (67).jpg",
+			"event_id": "dialogic_021"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1717913323.json",
+		"name": "Icy House (Caden's Side Quest COMPLETE)"
+	}
+}

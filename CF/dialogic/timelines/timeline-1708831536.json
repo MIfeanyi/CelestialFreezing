@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (50).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1716040423",
 			"index": 0,
@@ -21,6 +25,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://character portraits/NPCs/Sayoko/download (36).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1714421179.json",
@@ -827,6 +835,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://character portraits/Main Characters/Lowen/download (97).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671552.json",

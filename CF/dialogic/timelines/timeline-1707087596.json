@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (63).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"condition": "",
 			"definition": "1707080809-787",
 			"event_id": "dialogic_012",

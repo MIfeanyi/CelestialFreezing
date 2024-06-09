@@ -16,6 +16,10 @@
 			"question": "What document would you like to read?"
 		},
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T002159.976.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"choice": "Document A",
 			"condition": "",
 			"definition": "",
@@ -27,6 +31,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Huh."
+		},
+		{
+			"background": "res://character portraits/Main Characters/Lowen/download (89).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671552.json",

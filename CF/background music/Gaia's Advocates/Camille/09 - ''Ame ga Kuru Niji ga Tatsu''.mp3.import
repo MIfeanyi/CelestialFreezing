@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/09 - ''Ame ga Kuru Niji ga Tatsu''.mp3-ea6d0a3a97977ea751357229021eccdb.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Camille/09 - ''Ame ga Kuru Niji ga Tatsu''.mp3"
+dest_files=[ "res://.import/09 - ''Ame ga Kuru Niji ga Tatsu''.mp3-ea6d0a3a97977ea751357229021eccdb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

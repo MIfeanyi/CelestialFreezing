@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/All Hail Britannia!!!.mp3-6f2d16525dc9f8f39d58777b754f0ffe.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/All Hail Britannia!!!.mp3"
+dest_files=[ "res://.import/All Hail Britannia!!!.mp3-6f2d16525dc9f8f39d58777b754f0ffe.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

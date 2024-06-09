@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3-e3e2022c4e6a82cd0531965c3da6ae25.mp3str"
+
+[deps]
+
+source_file="res://background music/Level 0 - Prologue/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3"
+dest_files=[ "res://.import/06 Manabu Namiki, Noriyuki Kamikura - Darkness Sets In.mp3-e3e2022c4e6a82cd0531965c3da6ae25.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

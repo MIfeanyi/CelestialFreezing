@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Crooked Diaries.mp3-6b0257feaebe587c03dd5e94689230d0.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Crooked Diaries.mp3"
+dest_files=[ "res://.import/Crooked Diaries.mp3-6b0257feaebe587c03dd5e94689230d0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

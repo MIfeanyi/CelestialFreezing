@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T005828.065.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/078868_knocking-on-doorwav-46237.mp3-cf7b14f46f8c12c82470e7cac4f9ce78.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/078868_knocking-on-doorwav-46237.mp3"
+dest_files=[ "res://.import/078868_knocking-on-doorwav-46237.mp3-cf7b14f46f8c12c82470e7cac4f9ce78.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

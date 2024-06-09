@@ -1,10 +1,29 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Camille/02. Teppen No Ito.mp3",
+			"volume": -10
+		},
+		{
+			"background": "res://character portraits/Main Characters/Camille/download (87).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A young female, barely twenty, with short black hair, brown skin, a stoic expression, and a strong commitment to their mission: plan PHEONIX."
+		},
+		{
+			"background": "res://character portraits/Main Characters/Camille/download (82).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
 		},
 		{
 			"character": "character-1701671584.json",
@@ -438,13 +457,26 @@
 			"text": "You really are the worst..."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/54 Cursed.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille’s respect for you has fallen. (-1 RESPECT)"
 		},
 		{
-			"definition": "1705641746-787",
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
+			"definition": "1707082098-787",
 			"event_id": "dialogic_014",
 			"operation": "-",
 			"random_upper_limit": 100,
@@ -585,13 +617,30 @@
 			"text": "They need us."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/43 Accepting a Quest.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille is now your partner!"
 		},
 		{
-			"definition": "1707076243-648",
+			"definition": "1707082078-648",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
@@ -608,6 +657,15 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1705645103.json",

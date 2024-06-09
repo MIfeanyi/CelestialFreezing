@@ -1,6 +1,82 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (10).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Alistiar/Boyhood.mp3",
+			"volume": -10
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/14 With My Companions.mp3",
+			"volume": -10
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Town Square/02.  Daylight of Konoha.mp3",
+			"volume": -10
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Camille/09 - ''Ame ga Kuru Niji ga Tatsu''.mp3",
+			"volume": -10
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [

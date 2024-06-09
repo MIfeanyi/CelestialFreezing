@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/09. Konohamaru's Theme.mp3-63833807844dc45c01ed30e30e347f00.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Residential Area/09. Konohamaru's Theme.mp3"
+dest_files=[ "res://.import/09. Konohamaru's Theme.mp3-63833807844dc45c01ed30e30e347f00.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

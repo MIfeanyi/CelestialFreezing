@@ -1,10 +1,29 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (46).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- Research Facility -"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You and Leo enter the abandoned research facility."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (47).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -17,6 +36,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Researchers in lab coats and dark cloth hoods surround barrells crackling from the flames within while others work on salvaged computers and equipment in other rooms."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T002437.100.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -125,6 +148,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*squish squish squish*"
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (48).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Beholder of None - Game Over THeme.wav-083f890d1bb4ae010f3c4643b25c7b7b.sample"
+
+[deps]
+
+source_file="res://background music/General Background Music/Beholder of None - Game Over THeme.wav"
+dest_files=[ "res://.import/Beholder of None - Game Over THeme.wav-083f890d1bb4ae010f3c4643b25c7b7b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

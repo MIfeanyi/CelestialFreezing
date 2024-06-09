@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/12. Hinata vs Neji.mp3-d56039dc0f85bdb7181c08cb36475b41.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Residential Area/12. Hinata vs Neji.mp3"
+dest_files=[ "res://.import/12. Hinata vs Neji.mp3-d56039dc0f85bdb7181c08cb36475b41.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

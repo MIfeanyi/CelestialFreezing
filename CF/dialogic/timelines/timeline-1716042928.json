@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T011214.020.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1716046672",
 			"index": 0,
@@ -21,6 +25,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T001900.424.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -197,6 +205,10 @@
 			"id": "anchor-1634488067",
 			"index": 0,
 			"name": "Camille Loop"
+		},
+		{
+			"background": "res://character portraits/Main Characters/Camille/download - 2024-06-07T230119.197.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -385,6 +397,10 @@
 			"text": ""
 		},
 		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Leave",
 			"condition": "",
 			"definition": "",
@@ -416,6 +432,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://character portraits/Main Characters/Julian/download - 2024-06-07T232420.477.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -452,10 +472,8 @@
 			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "*pending"
+			"change_timeline": "timeline-1717722097.json",
+			"event_id": "dialogic_020"
 		},
 		{
 			"choice": "Actually...",
@@ -513,6 +531,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://character portraits/Main Characters/Lowen/download - 2024-06-07T224544.367.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -628,6 +650,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T010930.400.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671580.json",

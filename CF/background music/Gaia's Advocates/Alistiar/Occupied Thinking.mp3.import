@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Occupied Thinking.mp3-c7b5b4d69c4393308f05be573d906f90.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Occupied Thinking.mp3"
+dest_files=[ "res://.import/Occupied Thinking.mp3-c7b5b4d69c4393308f05be573d906f90.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

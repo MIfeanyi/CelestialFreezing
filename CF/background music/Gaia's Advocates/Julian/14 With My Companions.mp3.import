@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/14 With My Companions.mp3-8f840d8a4d8e44e6700167522bad4854.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/14 With My Companions.mp3"
+dest_files=[ "res://.import/14 With My Companions.mp3-8f840d8a4d8e44e6700167522bad4854.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

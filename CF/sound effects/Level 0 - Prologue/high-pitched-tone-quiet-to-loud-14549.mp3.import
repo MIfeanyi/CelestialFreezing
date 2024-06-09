@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/high-pitched-tone-quiet-to-loud-14549.mp3-2610eeaa0713e8cf5443d7f8f51d5fc6.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 0 - Prologue/high-pitched-tone-quiet-to-loud-14549.mp3"
+dest_files=[ "res://.import/high-pitched-tone-quiet-to-loud-14549.mp3-2610eeaa0713e8cf5443d7f8f51d5fc6.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

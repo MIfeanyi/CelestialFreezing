@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/19 A Temple With No Master.mp3-a143fe538f111f3a4a7d89d37ebf3e7f.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/19 A Temple With No Master.mp3"
+dest_files=[ "res://.import/19 A Temple With No Master.mp3-a143fe538f111f3a4a7d89d37ebf3e7f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

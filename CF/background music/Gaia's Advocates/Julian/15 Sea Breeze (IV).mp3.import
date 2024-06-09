@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/15 Sea Breeze (IV).mp3-0da868b2afd6669735c12a3abe0da3e0.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/15 Sea Breeze (IV).mp3"
+dest_files=[ "res://.import/15 Sea Breeze (IV).mp3-0da868b2afd6669735c12a3abe0da3e0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/54 Cursed.mp3-bef47389f3563f99822b94ab0f8aa051.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/54 Cursed.mp3"
+dest_files=[ "res://.import/54 Cursed.mp3-bef47389f3563f99822b94ab0f8aa051.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

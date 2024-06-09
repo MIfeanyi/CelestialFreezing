@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/60 Surprise.mp3-9c97a0d43419b2ddf4c55d3c728744cc.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/60 Surprise.mp3"
+dest_files=[ "res://.import/60 Surprise.mp3-9c97a0d43419b2ddf4c55d3c728744cc.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

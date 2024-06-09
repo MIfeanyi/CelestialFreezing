@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Prologue.mp3-b0986bbb9a1a87cfaa7294f978a16cae.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Alistiar/Prologue.mp3"
+dest_files=[ "res://.import/Prologue.mp3-b0986bbb9a1a87cfaa7294f978a16cae.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

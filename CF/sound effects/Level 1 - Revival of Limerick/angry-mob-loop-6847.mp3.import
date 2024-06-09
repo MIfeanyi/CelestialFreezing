@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/angry-mob-loop-6847.mp3-e6b31dc52dc71573b8c3b7de7bd76c38.mp3str"
+
+[deps]
+
+source_file="res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3"
+dest_files=[ "res://.import/angry-mob-loop-6847.mp3-e6b31dc52dc71573b8c3b7de7bd76c38.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

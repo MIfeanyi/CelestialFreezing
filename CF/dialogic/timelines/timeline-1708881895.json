@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://character portraits/NPCs/Caden/download (21).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
