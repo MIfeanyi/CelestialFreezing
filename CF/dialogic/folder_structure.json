@@ -101,7 +101,8 @@
 										"character-1708896834.json",
 										"character-1707081796.json",
 										"character-1708901944.json",
-										"character-1707081795.json"
+										"character-1707081795.json",
+										"character-1718211765.json"
 									],
 									"folders": {
 
@@ -167,7 +168,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				}
 			},
@@ -603,7 +604,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Town Square": {
@@ -692,7 +693,8 @@
 														"timeline-1708881742.json",
 														"timeline-1708881744.json",
 														"timeline-1708881746.json",
-														"timeline-1717913323.json"
+														"timeline-1717913323.json",
+														"timeline-1718211604.json"
 													],
 													"folders": {
 
@@ -779,7 +781,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},

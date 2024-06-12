@@ -177,6 +177,9 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -253,11 +256,11 @@
 			"set_value": "1"
 		},
 		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Ham",
@@ -369,6 +372,9 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -449,9 +455,6 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"anchor_id": "anchor-1634488067",

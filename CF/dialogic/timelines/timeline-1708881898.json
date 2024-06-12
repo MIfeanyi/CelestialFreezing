@@ -1846,6 +1846,15 @@
 			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"change_timeline": "timeline-1708830915.json",
 			"event_id": "dialogic_020"
 		},

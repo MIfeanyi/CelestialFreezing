@@ -77,6 +77,12 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "loop"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -144,6 +150,17 @@
 		{
 			"change_timeline": "timeline-1715845171.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"

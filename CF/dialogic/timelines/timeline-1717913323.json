@@ -3,11 +3,681 @@
 		{
 			"background": "res://backgrounds/Level I - Revival of Limerick/download (65).jpg",
 			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Gaia's Advocates enter the ice covered house."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s freezing in here!!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is how they’re surviving without the plant operating…"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s terrible…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m pretty sure I can figure out something with their heater if I can take a look at their generator or something."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, ASAP, man."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This is your doing and the work we try to fix, fool. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let the suffering that you’ve brought the planet sink into those shivering bones. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Grandpa, I’m back!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I brought some friends this time!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Friends?"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*creek creek creek* "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What have I told you about-"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An old man emerges and glares and you and Gaia’s Advocates. "
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s different this time, Grandpa!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re good people!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Knights of Justice!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Isn’t that right, guys?"
+		},
+		{
+			"choice": "That's Right!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s right!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Knights of Justiice of the jolliest cooperation!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HAZAH!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HAZAH!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "HAZAH!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-azah..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden's grandpa does not seem amused with your shenanigans."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, we’re here to try and help this town. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can promise you that. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, my friend here is really good with machines!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-Yes!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really good!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like super duper good!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not a repair man, but with my tools, I can probably fix your heat issue you have going on."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen steps next to you and places his hand on your shoulder."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s true, sir."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We truly are here just to help. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From the Earth, to its inhabitants, and even its young courageous knights."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen winks at Caden who happily smiles."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And to accomplish that mission we just need any kind of insight you might have on helping us restart the nuclear plant if you’ll allow us a little bit of your time."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe while you all talk, I can take a look at your heater and generator in the meantime if that’s alright. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Go ahead."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That kind of stuff is through that door over there."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Right, I'll get on it!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can I come?"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wanna see!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, s-sure, I don't mind."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian quickly shuffles through the living room and leaves through the door with Caden."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden's grandpa motions for you and the others to take a seat on a tattered saofa."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I saw you all from the window."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sure he told you I don't allow him to have any, but the truth is I can't afford the basics ."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Food, water, warmth..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're all expensive commodities now."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As much as I want to say 'back in my day things were different' they really weren't all that much."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Except for selling pre-chewed on repackaged meat..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, in the shop, right?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's a first  for me, too."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Regardless..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I appreciate you all spending time with my grandson and getting him that candy."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, sir."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And don't worry."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We  made sure it was pre-packaged and factory sealed."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If not, then there wasn't a deal!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen and Caden's grandpa start laughing, causing Cande's grandpa to start violently coughing."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He  looks at his trembling hand with mild concern before wiping it on his pant leg."
+		},
+		{
+			"change_timeline": "timeline-1718211604.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Not Exactly...",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not exactly..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not that we aren't good people or anything like that!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, my friend here is really good with machines!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-Yes!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really good!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like super duper good!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not a repair man, but with my tools, I can probably fix your heat issue you have going on."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We truly are here just to help. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From the Earth, to its inhabitants, and even its young courageous knights."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen winks at Caden who happily smiles."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And to accomplish that mission we just need any kind of insight you might have on helping us restart the nuclear plant if you’ll allow us a little bit of your time."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe while you all talk, I can take a look at your heater and generator in the meantime if that’s alright. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Go ahead."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That kind of stuff is through that door over there."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R-Right, I'll get on it!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can I come?"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wanna see!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, s-sure, I don't mind."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian quickly shuffles through the living room and leaves through the door with Caden."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden's grandpa motions for you and the others to take a seat on a tattered saofa."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I saw you all from the window."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm sure he told you I don't allow him to have any, but the truth is I can't afford the basics ."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Food, water, warmth..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're all expensive commodities now."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As much as I want to say 'back in my day things were different' they really weren't all that much."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Except for selling pre-chewed on repackaged meat..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, in the shop, right?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's a first  for me, too."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Regardless..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I appreciate you all spending time with my grandson and getting him that candy."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, sir."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And don't worry."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We  made sure it was pre-packaged and factory sealed."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If not, then there wasn't a deal!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen and Caden's grandpa start laughing, causing Cande's grandpa to start violently coughing."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He  looks at his trembling hand with mild concern before wiping it on his pant leg."
+		},
+		{
+			"change_timeline": "timeline-1718211604.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
 		"file": "timeline-1717913323.json",
-		"name": "Icy House (Caden's Side Quest COMPLETE)"
+		"name": "Inside Icy House (Initial)"
 	}
 }

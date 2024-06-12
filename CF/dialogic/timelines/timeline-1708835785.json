@@ -984,6 +984,9 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"choice": "No",
 			"condition": "",
 			"definition": "",
@@ -1005,9 +1008,6 @@
 		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"

@@ -1,0 +1,106 @@
+{
+	"events": [
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (68).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What can I do for you?"
+		},
+		{
+			"choice": "Talk",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "About?"
+		},
+		{
+			"choice": "What happened in this town?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Invading Militia",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Abandoned Facilitty",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thank you for your time. "
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You should come back and play some time! "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sounds like a plan, Caden the Great! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Caden's grandpa nods with a subtle smile as you leave the icy house."
+		},
+		{
+			"change_timeline": "timeline-1708830915.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1718211604.json",
+		"name": "Inside Icy House (Main)"
+	}
+}
