@@ -5,10 +5,19 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Camille/05. Sasuke's Theme.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "As you follow the hooded figure, a tension fills the air that both you and Lowen notice."
+			"text": "As you follow the hooded figure, a tension fills the air that you and Lowen both notice."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -79,6 +88,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A woman in a lab coat reluctantly reveals herself from behind a snow bank plagued with worry."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1707081789.json",
@@ -217,6 +235,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That, and the kind of people left in the town still."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Lowen/11. Kakashi's Theme.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",

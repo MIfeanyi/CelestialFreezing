@@ -12,14 +12,14 @@
 		},
 		{
 			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
+			"hide_dialogbox": false,
 			"wait_seconds": 2
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You and Leo enter the abandoned research facility."
+			"text": "You and Lowen enter the abandoned research facility."
 		},
 		{
 			"background": "res://backgrounds/Level I - Revival of Limerick/download (47).jpg",
@@ -40,6 +40,15 @@
 		{
 			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T002437.100.jpg",
 			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/12. Hinata vs Neji.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",

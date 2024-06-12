@@ -587,6 +587,14 @@
 			"text": "This item cannot be sold."
 		},
 		{
+			"definition": "1708829847-918",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "0"
+		},
+		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},

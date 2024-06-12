@@ -645,7 +645,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Path to the Abandoned Facility": {
@@ -672,13 +672,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										},
 										"Residential Area": {
@@ -787,7 +787,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										}
 									},

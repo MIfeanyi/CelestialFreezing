@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Research Facility/Gaming 101 - Lab.wav",
+			"volume": -10
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1716040423",
 			"index": 0,
