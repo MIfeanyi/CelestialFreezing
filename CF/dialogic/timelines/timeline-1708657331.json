@@ -1,36 +1,16 @@
 {
 	"events": [
 		{
-			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T000610.145.jpg",
-			"event_id": "dialogic_021"
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sound effects/Level 1 - Revival of Limerick/store-entrance-bell-188054.mp3",
-			"volume": 0
-		},
-		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": true,
-			"wait_seconds": 2
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://background music/Level I - Revival of Limerick/Shop/06-お店.mp3",
-			"volume": 0
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Get what you need and leave this town is you know what’s good for you…"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -393,6 +373,17 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "",
+			"event_id": "dialogic_016"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -401,6 +392,12 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Have a nice day and don't come back."
 		},
 		{
 			"audio": "play",
@@ -416,6 +413,12 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get what you need and leave this town is you know what’s good for you…"
 		}
 	],
 	"metadata": {

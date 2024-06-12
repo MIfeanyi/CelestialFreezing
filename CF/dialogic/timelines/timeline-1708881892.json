@@ -101,6 +101,12 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -108,12 +114,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -197,6 +197,15 @@
 			"text": "But without my powers, I can’t protect those who need to be saved!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/09. Konohamaru's Theme.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -207,6 +216,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I need…"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1707081795.json",
@@ -436,6 +453,12 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -443,12 +466,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -817,6 +834,15 @@
 			"text": "Indeed!"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -833,6 +859,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I need…"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1057,6 +1091,12 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "MUHAHAHAHA!!!"
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -1064,12 +1104,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
 		},
 		{
 			"character": "character-1701672712.json",

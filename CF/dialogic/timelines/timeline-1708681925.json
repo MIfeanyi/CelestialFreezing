@@ -8,6 +8,12 @@
 		},
 		{
 			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have the following amount of money currently: $[Money]."
+		},
+		{
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -16,11 +22,11 @@
 			"question": "What would you like to buy?"
 		},
 		{
-			"choice": "Bread",
+			"choice": "Bread ($15)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829840-323",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -106,18 +112,26 @@
 			"text": "You purchased Bread!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829840-323",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "15"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -153,11 +167,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Battery",
+			"choice": "Battery ($30)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829841-113",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -243,18 +257,26 @@
 			"text": "You purchased Battery!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829841-113",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "30"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -290,11 +312,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Circular Saw Blade",
+			"choice": "Circular Saw Blade ($30)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829843-258",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -380,18 +402,26 @@
 			"text": "You purchased Circular Saw Blade!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829843-258",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "30"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -427,11 +457,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Copper Wires",
+			"choice": "Copper Wires ($15)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829844-849",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -517,18 +547,26 @@
 			"text": "You purchased Copper Wires!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829844-849",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "15"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -564,11 +602,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Candy",
+			"choice": "Candy ($10)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829845-728",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -654,18 +692,26 @@
 			"text": "You purchased Candy!"
 		},
 		{
+			"definition": "1708829845-728",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It was placed in your inventory."
 		},
 		{
-			"definition": "1707083632-146",
+			"definition": "1707078692-648",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "-",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "1"
+			"set_value": "10"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -701,11 +747,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Cheese",
+			"choice": "Cheese ($20)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829847-918",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -791,18 +837,26 @@
 			"text": "You purchased Cheese!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829847-918",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "20"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -838,11 +892,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Ham",
+			"choice": "Ham ($25)",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829848-403",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -928,18 +982,26 @@
 			"text": "You purchased Ham!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829848-403",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "25"
 		},
 		{
 			"anchor_id": "anchor-1708832527",
@@ -975,27 +1037,50 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Never Mind",
+			"choice": "Nevermind",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Doesn't look like its worth much anyways."
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "2"
 		},
 		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
-		},
-		{
-			"change_timeline": "timeline-1708657314.json",
+			"change_timeline": "timeline-1708657323.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"change_timeline": "timeline-1708657327.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"change_timeline": "timeline-1708657331.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"

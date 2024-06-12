@@ -665,28 +665,6 @@
 			"text": "Let's get the others."
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "",
-			"volume": 0
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille's respect for you has risen! (+1 RESPECT)!"
-		},
-		{
-			"definition": "1707082098-787",
-			"event_id": "dialogic_014",
-			"operation": "+",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -701,7 +679,7 @@
 			"set_value": "1"
 		},
 		{
-			"change_timeline": "timeline-1708881925.json",
+			"change_timeline": "timeline-1717913323.json",
 			"event_id": "dialogic_020"
 		},
 		{

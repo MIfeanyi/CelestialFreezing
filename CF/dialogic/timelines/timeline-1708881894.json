@@ -704,19 +704,6 @@
 			"text": "It was an honour, your majesty!"
 		},
 		{
-			"condition": "",
-			"definition": "1707083632-146",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -797,7 +784,7 @@
 			"set_value": "1"
 		},
 		{
-			"change_timeline": "timeline-1708881925.json",
+			"change_timeline": "timeline-1717913323.json",
 			"event_id": "dialogic_020"
 		},
 		{

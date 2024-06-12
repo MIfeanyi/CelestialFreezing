@@ -1,7 +1,7 @@
 {
 	"events": [
 		{
-			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T000610.145.jpg",
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T000606.369.jpg",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -18,15 +18,6 @@
 			"wait_seconds": 2
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://background music/Level I - Revival of Limerick/Shop/06-お店.mp3",
-			"volume": 0
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -37,6 +28,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Heh, I definitely won't stop you."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Shop/06-お店.mp3",
+			"volume": 0
 		},
 		{
 			"event_id": "dialogic_015",
@@ -56,9 +56,9 @@
 		{
 			"choice": "Bread",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829840-323",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -144,18 +144,26 @@
 			"text": "You purchased Bread!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829840-323",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "25"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -193,9 +201,9 @@
 		{
 			"choice": "Battery",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829841-113",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -281,18 +289,26 @@
 			"text": "You purchased Battery!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829841-113",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "40"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -418,18 +434,26 @@
 			"text": "You purchased Circular Saw Blade!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829843-258",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "40"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -467,9 +491,9 @@
 		{
 			"choice": "Copper Wires",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829844-849",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -555,18 +579,26 @@
 			"text": "You purchased Copper Wires!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829844-849",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "25"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -604,9 +636,9 @@
 		{
 			"choice": "Candy",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829845-728",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -692,18 +724,26 @@
 			"text": "You purchased Candy!"
 		},
 		{
+			"definition": "1708829845-728",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It was placed in your inventory."
 		},
 		{
-			"definition": "1707083632-146",
+			"definition": "1707078692-648",
 			"event_id": "dialogic_014",
-			"operation": "+",
+			"operation": "-",
 			"random_upper_limit": 100,
 			"set_random": false,
-			"set_value": "1"
+			"set_value": "20"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -757,9 +797,9 @@
 		{
 			"choice": "Yes",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829847-918",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"condition": "<",
@@ -829,18 +869,26 @@
 			"text": "You purchased Cheese!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829847-918",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "30"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -878,9 +926,9 @@
 		{
 			"choice": "Ham",
 			"condition": "",
-			"definition": "",
+			"definition": "1708829848-403",
 			"event_id": "dialogic_011",
-			"value": ""
+			"value": "0"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -966,18 +1014,26 @@
 			"text": "You purchased Ham!"
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It was placed in your inventory."
-		},
-		{
 			"definition": "1708829848-403",
 			"event_id": "dialogic_014",
 			"operation": "=",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was placed in your inventory."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "35"
 		},
 		{
 			"anchor_id": "anchor-1634488067",

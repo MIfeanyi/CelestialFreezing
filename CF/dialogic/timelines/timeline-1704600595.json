@@ -862,9 +862,6 @@
 			"event_id": "dialogic_016"
 		},
 		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"choice": "Select as Partner",
 			"condition": "",
 			"definition": "",
@@ -936,41 +933,25 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Go Back",
+			"choice": "Nevermind",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Phew!"
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I can get back to what I was making!"
+			"event_id": "dialogic_013"
 		},
 		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The fence cutter!"
-		},
-		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "If you find anything useful, bring 'em my way!"
-		},
-		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I could definitely use them!"
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"change_timeline": "timeline-1701714641.json",

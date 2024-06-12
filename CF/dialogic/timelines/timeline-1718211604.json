@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/12. Hinata vs Neji.mp3",
+			"volume": -10
+		},
+		{
 			"background": "res://backgrounds/Level I - Revival of Limerick/download (68).jpg",
 			"event_id": "dialogic_021"
 		},
@@ -12,12 +21,24 @@
 		},
 		{
 			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What can I do for you?"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "What can I do for you?"
+			"question": "Select an Option"
 		},
 		{
 			"choice": "Talk",
@@ -27,7 +48,7 @@
 			"value": ""
 		},
 		{
-			"character": "",
+			"character": "character-1718211765.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -43,6 +64,364 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What exactly happened in this town after the explosion? "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chester’s Peak used to be a popular town known for its innovation with nuclear energy. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After the ozone layer explosion, the shockwave caused the plant to stop operating."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The researchers at the nearby facility decided that it would be a good idea to leave it temporarily shut down for the safety of nearby towns and to avoid radiation poisoning in efforts to restart it. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Days turned into weeks with the town left powerless and relying on emergency generators to power their homes, but…"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Those resources weren’t meant to last so long... people were leaving in hopes of finding other places with energy. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The freezing came faster than many of us could’ve expected and that wasn’t the worst of things. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With people suffering from frostbite, starvation, and seclusion from the rest of the world, the shower finally fell from above."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The shower of radiation?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, the Wings of Icarus."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What caused all of this."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What I've been telling you this whole time..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don't know?"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How is that possible?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've been out of the loop of things for a while now..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The lights…"
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T013016.977.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They produced the most warm and alluring colors I’ve ever seen."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "More magnificent than the mystical northern lights."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Entranced by the single most beautiful sign of hope that’s come to our town, many people were actually happy for once in a long time."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download - 2024-06-08T013243.509.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They went outside running their hands through the stunning streams and children played with beaming grins of joy. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even the researchers were fascinated by the unprecedented occurrence calling the lights the Wings of Icarus."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Of course, all at a cost…"
+		},
+		{
+			"choice": "The Altered",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Altered were created..."
+		},
+		{
+			"choice": "Radiation Poisoning",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone started to get sick from the radiation poisoning..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "KAGUNK"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The lights begin to flicker before steadily staying lit."
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (66).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was able to fix the generator! "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Some stuff needed to be replaced and tightened, but it’s all good now. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It might take a while, but the heat should start circulating through."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nice!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, thank you, young man."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve saved me and my grandson from some hard times to come."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of course, sir."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m glad I could help."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good work, Julian. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian smiles and nods at you. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian’s respect for you has risen!  (+1 RESPECT) "
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1718223267",
+			"index": 0,
+			"name": "Respect Skip"
+		},
+		{
+			"definition": "1707082098-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"anchor_id": "anchor-1718223267",
+			"event_id": "dialogic_016"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Those lights weren’t to be messed with. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The radiation poisoned many people and killed half of the townspeople not long after."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The few survivors who were exposed became horribly disfigured being referred to as the altered. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The townspeople who stayed inside that night blamed science and the researchers for what happened and cast their friends and family out quickly."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They were cast out of the town into the frosting taking over and destroyed the research facility. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A few of the altered secretly returned to the facility and remain there. "
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (68).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One occasionally goes into town to try and buy food, but no one helps him. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They don't deserve it knowing what was in those wretched lights."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hell, they wanted to 'study' them. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And look what it brought all of us."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Invading Militia",
 			"condition": "",
 			"definition": "",
@@ -50,11 +429,361 @@
 			"value": ""
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We heard that some Militia men are providing security outside of the nuclear plant. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you know anything about them? "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outside of how useless they are and abuse us because they can, I don’t know too much. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ignore this fool."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What kind of uniforms do they were? "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do they claim to be part of any government military? "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What kind of weapons do they have? "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair, relax, relax~!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You asked, like, ten questions in two seconds!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give the man a chance to speak! "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tch!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, hold on a second. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When they did show up, at first, they came with a large unit with military vehicles and a bunch of guys."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, I do think they were the real deal."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know if they’re army, national guard, or whatever, but they had rifles, the helmets, the whole getup. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They did things by the book and gave us supplies and aid, but some officer with a mustache showed up and the soldiers suddenly changed. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s like they went rogue, or something, and did their own thing. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s when things started getting bad. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And they went straight after the shopkeeper. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Stealing a ton of his stuff at gunpoint, I'm sure."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So I can't be surprised that he hiked up his prices and doesn't take kind to anyone else."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The rest of the town became the same way not too long after once those soldiers started making their rounds."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The real question that I have is…"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If the soldiers got abandoned by their leadership and stopped following their orders, why stick around here?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why keep providing security at the plant if there’s no point anymore?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Exploitation of the people. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They may not have any real purpose anymore for the people, but through force they can redefine their purpose"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But the captain seems to be at the center of it all. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If we deal with him first, maybe we can convince the other soldiers to stop following his orders. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hmph"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's unlikely if they're loyal to their leader, but I'll consider for the forecast."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Abandoned Facilitty",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not far from the plant there’s some abandoned facility in the distance. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s the research and maintenance facility that the researchers work at. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Many of the Altered who survived take refuge their and most of them are those researchers. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Which is what those bastards deserve!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Obsess with their science all the time and look where it got them!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now those bastards can poke and prod each other to learn just how much they’ve ruined everything. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether your feeble mind can handle the truth or not, those great minds are probably working as we speak to try and save you and everyone else around the world. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gratitude is scarce from the ignorant, but arrogance runs rampant in abundance. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E-Excuse my…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He didn’t mean that. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen, I don’t care what your girlfriend here thinks, alright?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Girlfriend?!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Camille snickers"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If your one of them go ahead and head down there! "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But don’t be surprised when you get attacked by their crazy-ass  leader!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whatever the hell her name was..."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sashimi or some shit? "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Sashimi?"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Didn't you here me, boy?"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She's crazy!"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You'll be face first in the snow, lights out permenantly, before you'd know what the hell happened."
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Survive whatever hell they put you through and I’m sure you can find all the answers to life in there. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Message received…"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -96,6 +825,18 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hell, they wanted to 'study' them. "
+		},
+		{
+			"character": "character-1718211765.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
 		}
 	],
 	"metadata": {

@@ -8,6 +8,12 @@
 		},
 		{
 			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have the following amount of money currently: $ [Money]."
+		},
+		{
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
 
@@ -16,7 +22,7 @@
 			"question": "What would you like to sell?"
 		},
 		{
-			"choice": "Rifle Ammo",
+			"choice": "Rifle Ammo ($15)",
 			"condition": ">=",
 			"definition": "1708829676-935",
 			"event_id": "dialogic_011",
@@ -39,6 +45,101 @@
 			"value": "1"
 		},
 		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $15 for this."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $15."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "15"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"choice": "2",
 			"condition": ">=",
 			"definition": "1708829676-935",
@@ -46,25 +147,73 @@
 			"value": "2"
 		},
 		{
-			"choice": "3",
-			"condition": ">=",
-			"definition": "1708829676-935",
-			"event_id": "dialogic_011",
-			"value": "3"
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $20 for these."
 		},
 		{
-			"choice": "4",
-			"condition": ">=",
-			"definition": "1708829676-935",
-			"event_id": "dialogic_011",
-			"value": "4"
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
 		},
 		{
-			"choice": "5",
-			"condition": ">=",
-			"definition": "1708829676-935",
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
 			"event_id": "dialogic_011",
-			"value": "5"
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $20."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "20"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Never Mind",
@@ -93,7 +242,339 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Unfinished Contraption",
+			"choice": "3",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $25 for thiese."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $25."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "25"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "4",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "4"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $30 for these."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $30."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "30"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "5",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "5"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $40 for these."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $40."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "40"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Unfinished Contraption ($10)",
 			"condition": "==",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -116,7 +597,82 @@
 			"value": ""
 		},
 		{
-			"choice": "Never Mind",
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't know what the hell this junk is, but..."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $10 for this."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $30."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "10"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Nevermind",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -142,7 +698,10 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "First Aid Kit",
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "First Aid Kit ($30)",
 			"condition": ">=",
 			"definition": "1708829678-833",
 			"event_id": "dialogic_011",
@@ -165,18 +724,73 @@
 			"value": "1"
 		},
 		{
-			"choice": "2",
-			"condition": ">=",
-			"definition": "1708829678-833",
-			"event_id": "dialogic_011",
-			"value": "2"
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $30 for this."
 		},
 		{
-			"choice": "3",
-			"condition": ">=",
-			"definition": "1708829678-833",
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
 			"event_id": "dialogic_011",
-			"value": "3"
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $30."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "30"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Never Mind",
@@ -205,7 +819,211 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"choice": "2",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "2"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $50 for these."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $50."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "50"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "3",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "3"
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'll give you $70 for these."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "We have a deal?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Then here."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You've recieved $70."
+		},
+		{
+			"definition": "1707078692-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "70"
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No skin off my back."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your loss."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Never Mind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doesn't look like its worth much anyways."
+		},
+		{
+			"character": "character-1707081793.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's hope you got more money to spend than your stuff is worth."
+		},
+		{
+			"anchor_id": "anchor-1708833401",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Nevermind",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -226,6 +1044,55 @@
 		{
 			"change_timeline": "timeline-1708833878.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"change_timeline": "timeline-1708657323.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "3"
+		},
+		{
+			"change_timeline": "timeline-1708657327.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1707082078-648",
+			"event_id": "dialogic_012",
+			"value": "4"
+		},
+		{
+			"change_timeline": "timeline-1708657331.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
