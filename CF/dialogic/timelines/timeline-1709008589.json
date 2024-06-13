@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -11,6 +15,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We apologize for the inconvenience and disruption of gameplay. "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/The Greatest Man Alive - Victory Theme.wav",
+			"volume": -10
 		},
 		{
 			"character": "character-1701672712.json",
@@ -37,8 +50,14 @@
 			"text": "Its members travel to their next location, Huntersville, North Carolina, but in between their journey they set up camp to rest."
 		},
 		{
-			"change_timeline": "timeline-1716047687.json",
-			"event_id": "dialogic_020"
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To be continued..."
+		},
+		{
+			"change_scene": "res://src/menu/Menu.tscn",
+			"event_id": "dialogic_041"
 		}
 	],
 	"metadata": {

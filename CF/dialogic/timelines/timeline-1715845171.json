@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"condition": "",
 			"definition": "1716043934-828",
 			"event_id": "dialogic_012",
@@ -81,13 +90,13 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alistair glares at Leo annoyed"
+			"text": "Alistair glares at Lowen annoyed"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You exist for a purpose. "
+			"text": "You all exist for a purpose. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -124,6 +133,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s a start…"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/Acid Trip - Rumbling Tension.wav",
+			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",

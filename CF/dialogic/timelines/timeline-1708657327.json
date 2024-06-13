@@ -33,7 +33,7 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Purchase",
+			"choice": "Buy (Get scammed)",
 			"condition": "",
 			"definition": "1708766177-787",
 			"event_id": "dialogic_011",
@@ -126,7 +126,7 @@
 			"text": "I'm not even that pale..."
 		},
 		{
-			"anchor_id": "anchor-1708765969",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -333,7 +333,7 @@
 			"set_value": "1"
 		},
 		{
-			"anchor_id": "anchor-1708765969",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -386,7 +386,7 @@
 			"text": "I'm not even that pale..."
 		},
 		{
-			"anchor_id": "anchor-1708765969",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -536,7 +536,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{

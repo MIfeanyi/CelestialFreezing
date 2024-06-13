@@ -432,6 +432,14 @@
 			"value": "1"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/61 You Lose.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -477,6 +485,14 @@
 			"definition": "1708829845-728",
 			"event_id": "dialogic_011",
 			"value": "1"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/46 Level Up.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1150,6 +1166,15 @@
 			"text": "Camille nods with a nervous smile."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1176,6 +1201,12 @@
 			"text": "I AM, IN FACT, A MAN OF MALEVALENT INTENT!"
 		},
 		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "FOR I HAVE KIDNAPPED THE PRINCESS OF THE EAST! "
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -1183,12 +1214,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "FOR I HAVE KIDNAPPED THE PRINCESS OF THE EAST! "
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1405,7 +1430,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Bleh! "
+			"text": "Bleugh! "
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1741,8 +1766,8 @@
 			"set_value": "1"
 		},
 		{
-			"change_timeline": "timeline-1717913323.json",
-			"event_id": "dialogic_020"
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Return to Residential Area",
@@ -1750,6 +1775,30 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "0"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1822,6 +1871,9 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"audio_bus": "Master",

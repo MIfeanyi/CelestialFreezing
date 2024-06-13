@@ -101,10 +101,21 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "MUHAHAHAHA!!!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
 		},
 		{
 			"audio_bus": "Master",
@@ -114,12 +125,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "..."
 		},
 		{
 			"character": "character-1707081795.json",
@@ -459,6 +464,12 @@
 			"text": "MUHAHAHAHA!!!"
 		},
 		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talk about scary! "
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -466,12 +477,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701671586.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Talk about scary! "
 		},
 		{
 			"character": "character-1707081795.json",
@@ -759,15 +764,6 @@
 			"text": "I AM THE GREATEST EVIL DOER OF ALL TIME! "
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
-			"volume": -10
-		},
-		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -778,6 +774,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "An oogolie boogolie madman I tell you!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1097,6 +1102,12 @@
 			"text": "MUHAHAHAHA!!!"
 		},
 		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille quietly chuckles at your menacing cackle."
+		},
+		{
 			"audio_bus": "Master",
 			"background-music": "play",
 			"event_id": "dialogic_031",
@@ -1104,12 +1115,6 @@
 			"fade_length": 1,
 			"file": "res://background music/Gaia's Advocates/Julian/21 Are You a Loser.mp3",
 			"volume": -10
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille quietly chuckles at your menacing cackle."
 		},
 		{
 			"character": "character-1707081795.json",

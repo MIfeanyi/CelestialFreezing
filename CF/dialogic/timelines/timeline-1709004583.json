@@ -645,13 +645,12 @@
 			"text": "You haul Alistair away back towards the town square as he yells obscenities at the woman."
 		},
 		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
+			"definition": "1709006262-600",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"change_timeline": "timeline-1701714406.json",

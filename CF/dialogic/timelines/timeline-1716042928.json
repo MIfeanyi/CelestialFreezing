@@ -5,6 +5,15 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/80s Funk.wav",
+			"volume": -10
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1716046672",
 			"index": 0,
@@ -729,6 +738,29 @@
 		},
 		{
 			"change_timeline": "timeline-1709008589.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Give me some more time."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let's move back for now."
+		},
+		{
+			"change_timeline": "timeline-1701714406.json",
 			"event_id": "dialogic_020"
 		},
 		{

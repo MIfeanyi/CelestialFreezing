@@ -1076,18 +1076,6 @@
 			"value": ""
 		},
 		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Doesn't look like its worth much anyways."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
-		},
-		{
 			"change_timeline": "timeline-1708833878.json",
 			"event_id": "dialogic_020"
 		},
