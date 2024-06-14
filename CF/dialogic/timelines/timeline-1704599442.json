@@ -17,7 +17,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A prideful young man radiating overconfidence and condescension against humanity."
+			"text": " A prideful young man radiating overconfidence and condescension against humanity. "
 		},
 		{
 			"character": "character-1701672712.json",
@@ -41,13 +41,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ugh!"
+			"text": "[shake rate=60.0 level=8 connected=1]Ugh![shake]"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What is that stench?!"
+			"text": "[shake rate=60.0 level=8 connected=1]What is that stench?![shake]"
 		},
 		{
 			"character": "character-1701671580.json",

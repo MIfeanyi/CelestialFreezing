@@ -8,6 +8,31 @@
 
 			],
 			"folders": {
+				"Key Terms": {
+					"files": [
+						"character-1718388924.json",
+						"character-1718388925.json"
+					],
+					"folders": {
+						"Level I - Revival of Limerick": {
+							"files": [
+								"character-1718389074.json",
+								"character-1718389076.json"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
 				"Main Characters": {
 					"files": [
 						"character-1701671552.json",
@@ -174,7 +199,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -324,7 +349,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								},
 								"Side Quest Items": {
@@ -338,13 +363,13 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level I - Shop Items": {
@@ -409,13 +434,13 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Respect Opportunities": {
@@ -469,7 +494,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -527,7 +552,8 @@
 				},
 				"Level 0 - Prologue": {
 					"files": [
-						"timeline-1701670708.json"
+						"timeline-1701670708.json",
+						"timeline-1718387446.json"
 					],
 					"folders": {
 
@@ -672,7 +698,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": true
+														"folded": false
 													}
 												}
 											},
@@ -718,13 +744,13 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												}
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Shop": {
@@ -744,7 +770,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										}
 									},

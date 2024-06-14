@@ -35,6 +35,15 @@
 			"text": "*hiss~*"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -57,6 +66,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Alistair steels himself, trying to remain stoic, in face of such a revolting smell."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/12. Hinata vs Neji.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1701671580.json",

@@ -557,7 +557,7 @@
 			"event_id": "dialogic_016"
 		},
 		{
-			"choice": "Nevermind",
+			"choice": "Leave",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",

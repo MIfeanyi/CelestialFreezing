@@ -489,12 +489,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1707207257-648",
-			"name": "Ham Sandwiches",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1717465244-785",
 			"name": "Create Julian's Fence Cutter",
 			"type": 0,
@@ -561,12 +555,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1708793105-416",
-			"name": "Rifle Ammo (Price)",
-			"type": 0,
-			"value": "15"
-		},
-		{
 			"id": "1708793112-501",
 			"name": "First Aid Kit (Price)",
 			"type": 0,
@@ -577,6 +565,18 @@
 			"name": "Unfinished Contraption (Price)",
 			"type": 0,
 			"value": "10"
+		},
+		{
+			"id": "1708793105-416",
+			"name": "Rifle Ammo (Price)",
+			"type": 0,
+			"value": "15"
+		},
+		{
+			"id": "1707207257-648",
+			"name": "Ham and Cheese Sandwiches",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
