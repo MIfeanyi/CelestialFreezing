@@ -71,7 +71,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What is it that you want, subhuman?"
+			"text": "What is it that you want, wretch?"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -95,7 +95,7 @@
 			"question": "Select an Option"
 		},
 		{
-			"choice": "Tell me about yourself",
+			"choice": "Tell me about yourself ",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -111,7 +111,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Then don’t, fool. "
+			"text": "Then don’t, fool."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -258,13 +258,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "See~?"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]See~?[/wave]"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Now you’re getting it~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Now you’re getting it~![/wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -314,7 +314,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Surely you can't literally be deaf and dumb?"
+			"text": "Surely you can't be deaf [b]and[/b] dumb?"
 		},
 		{
 			"character": "character-1701671580.json",

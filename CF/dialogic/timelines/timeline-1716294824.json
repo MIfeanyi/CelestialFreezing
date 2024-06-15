@@ -200,7 +200,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Nothing you have done has been ‘in the best interest of humanity’..."
+			"text": "[shake rate=60.0 level=8 connected=1]Nothing you have done has been ‘in the best interest of humanity’...[/shake]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -312,7 +312,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s clear to me that, even now, in the waste of your choice you fail to see the importance one had in the position you were in. "
+			"text": "It’s clear to me that, even now in the waste of your choice, you fail to see the importance one had in the position you were in. "
 		},
 		{
 			"character": "character-1701671580.json",
@@ -324,7 +324,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What stands before me is neither ‘Great’ nor a ‘Man’ to begin with."
+			"text": "[shake rate=60.0 level=8 connected=1]What stands before me is neither ‘Great’ nor a ‘Man’ to begin with.[/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -382,7 +382,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Do you?"
+			"text": "[shake rate=60.0 level=8 connected=1]Do you?[/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -413,7 +413,13 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "How about we try and stay on track here, alright?"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Alrighty then~![wave]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How about we try and stay on track here, huh?"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -431,7 +437,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*sigh*"
+			"text": "[shake rate=60.0 level=8 connected=1]*sigh*[/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -461,7 +467,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I-IT’S ALIVE! "
+			"text": "[shake rate=60.0 level=8 connected=1]I-IT’S ALIVE![/shake]"
 		},
 		{
 			"character": "character-1701671584.json",

@@ -29,13 +29,19 @@
 			"character": "character-1701671103.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What’s happening now?"
+			"text": "What’s happening now?!"
 		},
 		{
 			"character": "character-1701671214.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Another nuclear strike has been launched, but it’s our missiles!"
+			"text": "A set of missles have been launched on the same path as the nuclear missles!"
+		},
+		{
+			"character": "character-1701671214.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]At this rate, t-they're set to collide![shake]"
 		},
 		{
 			"character": "character-1701671103.json",
@@ -53,19 +59,19 @@
 			"character": "character-1701671103.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "W-What in God’s name have you done? "
+			"text": "[shake rate=60.0 level=8 connected=1]W-What in God’s name have you done?[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I..."
+			"text": "[shake rate=60.0 level=8 connected=1]I...[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s not…"
+			"text": "[shake rate=60.0 level=8 connected=1]It’s not…[shake]"
 		},
 		{
 			"background": "res://character portraits/Level 0 - Prologue/download - 2024-06-08T005159.306.jpg",
@@ -116,7 +122,7 @@
 			"character": "character-1701671218.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Y-You just assaulted me!"
+			"text": "[shake rate=60.0 level=8 connected=1]Y-You just assaulted me![shake]"
 		},
 		{
 			"character": "character-1701671218.json",
@@ -322,19 +328,19 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I-I sent chaff bombs along with our own m-missiles..."
+			"text": "[shake rate=60.0 level=8 connected=1]I-I sent chaff bombs along with our own m-missiles...[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A-And changed their impact route to collide with the enemy's missiles."
+			"text": "[shake rate=60.0 level=8 connected=1]A-And changed their impact route to collide with the enemy's missiles.[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "If the chaff bombs do work, t-then we could redirect any and all missiles outside of the atmosphere p-possibly..."
+			"text": "If the chaff bombs do work, t-then we could redirect any and all missiles outside of the atmosphere..."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -375,7 +381,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "W-What?"
+			"text": "[shake rate=60.0 level=8 connected=1]W-What?[shake]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -427,37 +433,37 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I..."
+			"text": "[i]I...[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I…thought I did what anyone would’ve done in my situation…"
+			"text": "[i]I…thought I did what anyone would’ve done in my situation…[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Multiple nuclear missiles, from an unknown origin, were set to hit the nation completely destroying it within a matter of minutes."
+			"text": "[i]Multiple nuclear missiles, from an unknown origin, were set to hit the nation completely destroying it within a matter of minutes.[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "My efforts to intercept the missiles before they hit, preventing anyone from getting hurt, was a success."
+			"text": "[i]My efforts to intercept the missiles before they hit, preventing anyone from getting hurt, was a success.[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Or so I thought…"
+			"text": "[i]Or so I thought…[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "My intervention caused the missiles to be redirected over other continents before exploding within the ozone layer. "
+			"text": "[i]My intervention caused the missiles to be redirected over other continents before exploding within the ozone layer.[/i]"
 		},
 		{
 			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T013211.310.jpg",
@@ -467,13 +473,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Not only did this shower the land and sea in deadly radiation, but even worse…"
+			"text": "[i]Not only did this shower the land and sea in deadly radiation, but even worse…[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as The Wings of Icarus incident "
+			"text": "[i]It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as [rainbow freq=0.5 sat=0.8 val=0.8]The Wings of Icarus incident.[/rainbow][/i]"
 		},
 		{
 			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T012520.527.jpg",
@@ -483,13 +489,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Millions of people died, whether it be from the radiation or the bitter cold, and those deaths were mine to bear. "
+			"text": "[i]Millions of people died, whether it be from the radiation or the bitter cold, and those deaths were mine to bear.[/i] "
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Humanity’s very existence was at risk because of my actions…"
+			"text": "[i]Humanity’s very existence was at risk because of my actions…[/i]"
 		},
 		{
 			"audio_bus": "Master",
@@ -508,7 +514,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Arrested for my crime of global devastation, I was being transported to a high-security prison to be executed for the entire world and its leaders to see."
+			"text": "[i]Arrested for my crime of global devastation, I was being transported to a high-security prison to be executed for the entire world and its leaders to see.[/i]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -534,13 +540,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "These shackled hands of mine…"
+			"text": "[i]These shackled hands of mine…[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Are responsible for poisoning the Earth and its inhabitants and it's time for me to pay for my sins."
+			"text": "[i]Are responsible for poisoning the Earth and its inhabitants and it's time for me to pay for my sins.[/i]"
 		},
 		{
 			"character": "character-1701707170.json",
@@ -982,6 +988,15 @@
 			"name": "Death Loop"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sound effects/Level 0 - Prologue/fire-burning-loop-6135.mp3",
+			"volume": -10
+		},
+		{
 			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T010520.172.jpg",
 			"event_id": "dialogic_021",
 			"fade_duration": 0
@@ -1090,7 +1105,7 @@
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HA HA HA HA!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HA HA HA HA![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1122,7 +1137,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The unknown female? standing before you shoots the snow next to him."
+			"text": "The unknown female? standing before you shoots the snow next to them."
 		},
 		{
 			"character": "character-1701709622.json",
@@ -1146,7 +1161,7 @@
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your birth was humanity’s greatest failure…"
+			"text": "[shake rate=60.0 level=8 connected=1]Your birth was humanity’s greatest failure…[shake]"
 		},
 		{
 			"character": "character-1701709280.json",
@@ -1196,6 +1211,15 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -1269,23 +1293,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "",
-			"volume": 0
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "",
-			"volume": 0
 		}
 	],
 	"metadata": {

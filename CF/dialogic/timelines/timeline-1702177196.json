@@ -203,7 +203,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "ARGH!"
+			"text": "[shake rate=60.0 level=8 connected=1]ARGH![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -345,14 +345,19 @@
 			"text": "R-Roger that!"
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Revival of Limerick – Chester’s Peak"
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
 		},
 		{
 			"change_timeline": "timeline-1716294824.json",
@@ -441,7 +446,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "ARGH!"
+			"text": "[shake rate=60.0 level=8 connected=1]ARGH![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -601,14 +606,19 @@
 			"text": "R-Roger that!"
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Revival of Limerick – Chester’s Peak"
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
 		},
 		{
 			"change_timeline": "timeline-1716294824.json",
@@ -816,7 +826,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "WHO THE HELL ARE YOU CALLING A BITCH, BITCH?!"
+			"text": "[shake rate=60.0 level=8 connected=1]WHO THE HELL ARE YOU CALLING A BITCH, BITCH?![/shake]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -943,19 +953,19 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "NO!"
+			"text": "[shake rate=60.0 level=8 connected=1]NO![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I'M NOT DONE YET!"
+			"text": "[shake rate=60.0 level=8 connected=1]I'M NOT DONE YET![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I'M NOT DONE BEATING GAIA'S KNOWLEDGE INTO THIS BITCH'S HEAD!"
+			"text": "[shake rate=60.0 level=8 connected=1]I'M NOT DONE BEATING GAIA'S KNOWLEDGE INTO THIS BITCH'S HEAD![/shake]"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -982,14 +992,19 @@
 			"text": "R-Right!"
 		},
 		{
+			"background": "",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Revival of Limerick – Chester’s Peak"
 		},
 		{
-			"background": "",
-			"event_id": "dialogic_021"
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
 		},
 		{
 			"change_timeline": "timeline-1716294824.json",

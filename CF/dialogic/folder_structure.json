@@ -30,7 +30,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Main Characters": {
@@ -73,7 +73,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Level I - Revival of Limerick": {
@@ -363,7 +363,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},
@@ -494,7 +494,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -552,8 +552,7 @@
 				},
 				"Level 0 - Prologue": {
 					"files": [
-						"timeline-1701670708.json",
-						"timeline-1718387446.json"
+						"timeline-1701670708.json"
 					],
 					"folders": {
 
@@ -770,7 +769,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										}
 									},
@@ -825,7 +824,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},
