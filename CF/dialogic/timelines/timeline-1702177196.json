@@ -104,7 +104,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Alrighty then…"
+			"text": "Alllrighty then…"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -139,7 +139,7 @@
 			"character": "character-1702178286.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Now..."
+			"text": "Now."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -234,7 +234,7 @@
 			"character": "character-1702178286.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+			"text": "[shake rate=60.0 level=8 connected=1]LEAVE OUR TOWN ALONE, DAMMIT![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -246,19 +246,19 @@
 			"character": "character-1702178975.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET THE HELL OUT OF HERE!"
+			"text": "[shake rate=60.0 level=8 connected=1]GET THE HELL OUT OF HERE![/shake]"
 		},
 		{
 			"character": "character-1702178992.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET OUT! "
+			"text": "[shake rate=60.0 level=8 connected=1]GET OUT![/shake]"
 		},
 		{
 			"character": "character-1702178992.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET OUT! "
+			"text": "[shake rate=60.0 level=8 connected=1]GET OUT![/shake]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -282,7 +282,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What the hell is wrong with these people?!"
+			"text": "W-What the hell's wrong with these people?!"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -449,41 +449,22 @@
 			"text": "[shake rate=60.0 level=8 connected=1]ARGH![/shake]"
 		},
 		{
-			"character": "character-1701671580.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ungrateful humans!"
-		},
-		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen!"
 		},
 		{
-			"background": "res://character portraits/Level I - Revival of Limerick/download (93).jpg",
-			"event_id": "dialogic_021",
-			"fade_duration": 0.5
-		},
-		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
-			"volume": -10
-		},
-		{
-			"character": "character-1702178286.json",
+			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+			"text": "*sigh*"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "To think a saw a glimmer of decency from these dregs for recognizing the fool that you are…"
+			"text": "To think I saw a glimmer of decency from these dregs for recognizing the fool that you are…"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -504,28 +485,47 @@
 			"text": "..."
 		},
 		{
-			"character": "character-1702178975.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "GET THE HELL OUT OF HERE!"
+			"background": "res://character portraits/Level I - Revival of Limerick/download (93).jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 0.5
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/Level 1 - Revival of Limerick/angry-mob-loop-6847.mp3",
+			"volume": -10
 		},
 		{
 			"character": "character-1702178286.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "WE DON’T NEED YOUR HELP!"
+			"text": "[shake rate=60.0 level=8 connected=1]LEAVE OUR TOWN ALONE, DAMMIT![/shake]"
+		},
+		{
+			"character": "character-1702178975.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]GET THE HELL OUT OF HERE![/shake]"
+		},
+		{
+			"character": "character-1702178286.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]WE DON’T NEED YOUR HELP![/shake]"
 		},
 		{
 			"character": "character-1702178992.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET OUT!"
+			"text": "[shake rate=60.0 level=8 connected=1]GET OUT![/shake]"
 		},
 		{
 			"character": "character-1702178992.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET OUT!"
+			"text": "[shake rate=60.0 level=8 connected=1]GET OUT![/shake]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -737,7 +737,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Little girl?!"
+			"text": "[shake rate=60.0 level=8 connected=1]Little girl?![/shake]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -749,13 +749,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Not some feeble woman!"
+			"text": "[shake rate=60.0 level=8 connected=1]Not some feeble woman![/shale]"
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You might want a better choice of words..."
+			"text": "Choose some better words..."
 		},
 		{
 			"character": "character-1701671586.json",
@@ -768,6 +768,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He shouldn't be saying shit like that at all!"
 		},
 		{
 			"character": "character-1702178975.json",
@@ -808,7 +814,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "B-Bitch?!"
+			"text": "[shake rate=60.0 level=8 connected=1]B-Bitch?![/shake]"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -863,13 +869,13 @@
 			"character": "character-1702178286.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "LEAVE OUR TOWN ALONE, DAMMIT!"
+			"text": "[shake rate=60.0 level=8 connected=1]LEAVE OUR TOWN ALONE, DAMMIT![/shake]"
 		},
 		{
 			"character": "character-1702178975.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GET THE HELL OUT OF HERE!"
+			"text": "[shake rate=60.0 level=8 connected=1]GET THE HELL OUT OF HERE![/shake]"
 		},
 		{
 			"character": "character-1701671588.json",

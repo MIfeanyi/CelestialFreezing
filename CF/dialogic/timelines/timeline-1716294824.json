@@ -20,7 +20,7 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "Lowen (CSP1)png",
+			"portrait": "(Don't change)",
 			"text": "Is everyone alright?"
 		},
 		{
@@ -57,7 +57,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s time you understand what exactly we do as advocates of Gaia, wretch, and what plan PHENOIX is."
+			"text": "It’s time you understand what exactly we do as advocates of Gaia, wretch, and what plan PHOENIX is."
 		},
 		{
 			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-07T234025.858.jpg",
@@ -266,7 +266,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "That’s insane!"
+			"text": "[shake rate=60.0 level=8 connected=1]That’s insane![/shake]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -342,7 +342,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "So, doubt plan PHENOIX  all you want. "
+			"text": "So, doubt plan PHOENIX  all you want. "
 		},
 		{
 			"character": "character-1701671580.json",

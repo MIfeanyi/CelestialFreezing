@@ -479,7 +479,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[i]It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as [rainbow freq=0.5 sat=0.8 val=0.8]The Wings of Icarus incident.[/rainbow][/i]"
+			"text": "[i]It forced the world into a chemical ice age after the loose radiation kept in the atmosphere reacted with a solar eclipse causing what became known as The Wings of Icarus incident.[/i]"
 		},
 		{
 			"background": "res://backgrounds/Level 0 - Prologue/download - 2024-06-08T012520.527.jpg",
@@ -935,7 +935,7 @@
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "To restore Gaia to it’s previous state by order of Plan PHENOIX and you will be part of that much-needed restoration. "
+			"text": "To restore Gaia to it’s previous state by order of Plan PHOENIX and you will be part of that much-needed restoration. "
 		},
 		{
 			"character": "character-1701709622.json",
@@ -1267,7 +1267,13 @@
 			"character": "character-1701709622.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Despite being the greatest disgrace imaginable to the planet, it’d be a waste to not use your…skills."
+			"text": "Despite being the greatest disgrace imaginable to the planet, it’d be a waste to not use your supposed..."
+		},
+		{
+			"character": "character-1701709622.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Skills...[/shake]"
 		},
 		{
 			"character": "character-1701709622.json",
