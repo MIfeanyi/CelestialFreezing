@@ -193,13 +193,13 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -248,7 +248,8 @@
 						},
 						"Inital Event Variable": {
 							"files": [
-								"1716043934-828"
+								"1716043934-828",
+								"1721876408-787"
 							],
 							"folders": {
 								"Caden": {
@@ -331,7 +332,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								},
 								"Purchased Items": {
@@ -434,19 +435,20 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Respect Opportunities": {
 							"files": [
 								"1709002528-787",
-								"1717465314-842"
+								"1717465314-842",
+								"1721875937-648"
 							],
 							"folders": {
 
@@ -494,7 +496,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -593,7 +595,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						},
 						"Intro": {
@@ -629,12 +631,13 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"Town Square": {
 							"files": [
-								"timeline-1701714406.json"
+								"timeline-1701714406.json",
+								"timeline-1721879391.json"
 							],
 							"folders": {
 								"Explore": {
@@ -818,13 +821,13 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								}
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},

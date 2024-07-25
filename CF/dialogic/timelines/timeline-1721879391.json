@@ -1,0 +1,704 @@
+{
+	"events": [
+		{
+			"condition": "",
+			"definition": "1721876408-787",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Here you can check your current inventory and the amount for each item."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There are three different item types:"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Main Items: Items that you will start with."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Key Items: Items that have been purchased from shopkeepers or given to you NPCs."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Side Quest Items: Items necessary for completing a side quest within the town that cannot be sold."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When an item is selected a brief description of what the item is will be displayed as well as the current amount, if applicable, of said item."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Use the description to give you insight on the specific item and it's potential purpose."
+		},
+		{
+			"definition": "1721876408-787",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1721879682",
+			"index": 0,
+			"name": "Main Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What item type would you like to check?"
+		},
+		{
+			"choice": "Main Items",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1721877412",
+			"index": 0,
+			"name": "Main Items Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Item"
+		},
+		{
+			"choice": "Unfinished Contraption",
+			"condition": "==",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An Unfinished contraption."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An incomplete tool that Julian is currently workign on that is missing parts to function."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: 1"
+		},
+		{
+			"anchor_id": "anchor-1721877412",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Money",
+			"condition": ">=",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The american paper currency in various denominations."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite the current state of affairs, money is still used as a means to bater goods and services."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Money]"
+		},
+		{
+			"anchor_id": "anchor-1721877412",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Rifle Ammo",
+			"condition": ">=",
+			"definition": "1708829676-935",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sniper Rifle Ammunition."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ammunition used for rifles designed for long range combat."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Rifle Ammo]"
+		},
+		{
+			"anchor_id": "anchor-1721877412",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "First Aid Kit",
+			"condition": ">=",
+			"definition": "1708829678-833",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A military grade emergency first aid kit."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A medical combat kit used to heal injuries. Recovers great health."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [First Aid Kit]"
+		},
+		{
+			"anchor_id": "anchor-1721877412",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Go Back",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1721879682",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Key Items",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1721881002",
+			"index": 0,
+			"name": "Key Items Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Item"
+		},
+		{
+			"choice": "Bread",
+			"condition": "",
+			"definition": "1708829840-323",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sliced white bread."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time, it was enjoyed with other sandwich-like items."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Bread (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Battery",
+			"condition": "",
+			"definition": "1708829841-113",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Large Capacity Battery."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Typically used for power tools, but can be ultilized with a variety of devices due to its large size if done correctly."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current inventory: [Battery (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Circular Saw Blade",
+			"condition": "",
+			"definition": "1708829843-258",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Large circular saw blade."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A part used to cut through thin metals when attached to a specific tool or contraption."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Circular Saw Blade (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Copper Wires",
+			"condition": "",
+			"definition": "1708829844-849",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Standard Copper Wires."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A part used to circulate electricity for a variety of devices and contraptions."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Copper Wires (Purchased)]"
+		},
+		{
+			"choice": "Candy",
+			"condition": "",
+			"definition": "1708829845-728",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Delicious Candy."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A single, sweet, treat enjoyed by adults and children alike. Quite expensive due to its scarcity."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Candy (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Cheese",
+			"condition": "",
+			"definition": "1708829847-918",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sliced American Cheese"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Processed, sliced, and almost freezer burned to ice sandwich cheese. Can be enjoyed with other ingredients or on its own."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Cheese (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Ham",
+			"condition": "",
+			"definition": "1708829848-403",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chewed on Honey Ham?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s clearly been repackaged and partially eaten, but it’s labeled ‘HAM’…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be enjoyed with other ingredients or on its own."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can be combined"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: [Ham (Purchased)]"
+		},
+		{
+			"anchor_id": "anchor-1721881002",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Go Back",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1721879682",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Side Quest Items",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1721879674",
+			"index": 0,
+			"name": "Side Quest Items Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Item"
+		},
+		{
+			"choice": "Ham & Cheese Sandwiches",
+			"condition": "",
+			"definition": "1707207257-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ham and Cheese Sandwiches."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After purchasing the ingredients from the shopkeeper, you gave them to Julian who created multiple perfect sandwiches stored in a plastic bag."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although many were saved for Gaia's Advocates, extras remain. Who could they be for?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: More than enough to share."
+		},
+		{
+			"anchor_id": "anchor-1721879674",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Candy",
+			"condition": "",
+			"definition": "1707084674-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Delicious Candy."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A single, sweet, treat enjoyed by adults and children alike. Quite expensive due to its scarcity."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not having much of a sweet tooth yourself, you can't help but wonder who does."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: 1"
+		},
+		{
+			"anchor_id": "anchor-1721879674",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Fence Cutter Tool",
+			"condition": "",
+			"definition": "1717722354-713",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Completed Fence Cutter Power Tool."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After purchasing the batttery, circular saw blade, and copper wires and giving them to Julian, he was able to complete his unfinished contraption."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This device can be used to cut open fences during an infiltration of a nuclear power plant."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can not be combined."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Current Inventory: 1"
+		},
+		{
+			"anchor_id": "anchor-1721879674",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Go Back",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1721879682",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1721879391.json",
+		"name": "Check Player Inventory"
+	}
+}

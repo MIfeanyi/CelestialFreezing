@@ -115,7 +115,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "People have made immeasurable sacrifices for the sake of plan PHEONIX."
+			"text": "People have made immeasurable sacrifices for the sake of plan PHOENIX."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -186,7 +186,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "My role for plan PHEONIX is to ensure those with more importance and capabilities can succeed."
+			"text": "My role for plan PHOENIX is to ensure those with more importance and capabilities can succeed."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -255,7 +255,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Eventually enjoy life to the fullest and do what you want?"
+			"text": "And eventually enjoy life to the fullest and do what you want?"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -264,15 +264,15 @@
 			"text": "Whatever makes you happy?"
 		},
 		{
-			"event_id": "dialogic_023",
-			"hide_dialogbox": false,
-			"wait_seconds": 1
-		},
-		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
 		},
 		{
 			"character": "character-1701671584.json",
@@ -309,12 +309,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "It’s what we all have to do."
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "..."
 		},
 		{
 			"anchor_id": "anchor-1634488067",

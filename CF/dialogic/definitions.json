@@ -33,6 +33,30 @@
 			"type": 1
 		},
 		{
+			"extra": "Value: $15",
+			"id": "1708793107-953",
+			"name": "Rifle Ammo",
+			"text": "Ammunition used for rifles designed for long range combat.",
+			"title": "Standard Rifle Ammunition",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792115-970",
+			"name": "Bread",
+			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time it was enjoyed with other sandwich-like items. ",
+			"title": "Sliced White Bread",
+			"type": 1
+		},
+		{
+			"extra": "Can be combined",
+			"id": "1708792125-713",
+			"name": "Battery",
+			"text": "Typically used to power a variety of devices and contraptions due to its large size.",
+			"title": "Large Capacity Battery",
+			"type": 1
+		},
+		{
 			"extra": "Can be combined",
 			"id": "1708792132-339",
 			"name": "Circular Saw Blade",
@@ -70,30 +94,6 @@
 			"name": "Ham",
 			"text": "It’s clearly been repackaged and partially eaten, but it’s labeled ‘HAM’… Can be enjoyed with other ingredients or on its own?",
 			"title": "Chewed on Honey Ham?",
-			"type": 1
-		},
-		{
-			"extra": "Can be combined",
-			"id": "1708792125-713",
-			"name": "Battery",
-			"text": "Typically used to power a variety of devices and contraptions due to its large size. Comes with two in a package.",
-			"title": "Large Capacity Battery",
-			"type": 1
-		},
-		{
-			"extra": "Can be combined",
-			"id": "1708792115-970",
-			"name": "Bread",
-			"text": "A single loaf of white bread. Now commonly eaten by itself, but once upon a time it was enjoyed with other sandwich-like items. ",
-			"title": "Sliced White Bread",
-			"type": 1
-		},
-		{
-			"extra": "Value: $15",
-			"id": "1708793107-953",
-			"name": "Rifle Ammo",
-			"text": "Ammunition used for rifles designed for long range combat.",
-			"title": "Standard Rifle Ammunition",
 			"type": 1
 		}
 	],
@@ -181,18 +181,6 @@
 			"name": "Cheese",
 			"type": 0,
 			"value": "20"
-		},
-		{
-			"id": "1717465314-842",
-			"name": "Care about Silas",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1709002528-787",
-			"name": "Play with Caden (Camille)",
-			"type": 0,
-			"value": "0"
 		},
 		{
 			"id": "1717492410-648",
@@ -369,30 +357,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1707078692-648",
-			"name": "Money",
-			"type": 0,
-			"value": "0"
-		},
-		{
-			"id": "1708829676-935",
-			"name": "Rifle Ammo",
-			"type": 0,
-			"value": "5"
-		},
-		{
-			"id": "1708829678-833",
-			"name": "First Aid Kit",
-			"type": 0,
-			"value": "3"
-		},
-		{
-			"id": "1708829674-934",
-			"name": "Unfinished Contraption",
-			"type": 0,
-			"value": "1"
-		},
-		{
 			"id": "1709003633-366",
 			"name": "Buy Bread",
 			"type": 0,
@@ -513,12 +477,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1708829840-323",
-			"name": "Bread (Purchased)",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1708829841-113",
 			"name": "Battery (Purchased)",
 			"type": 0,
@@ -577,6 +535,60 @@
 			"name": "Ham and Cheese Sandwiches",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1721875937-648",
+			"name": "Buy Parts for Julian",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1709002528-787",
+			"name": "Play with Caden (Camille)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1717465314-842",
+			"name": "Care about Silas",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1721876408-787",
+			"name": "Inventory Check",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829840-323",
+			"name": "Bread (Purchased)",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829674-934",
+			"name": "Unfinished Contraption",
+			"type": 0,
+			"value": "1"
+		},
+		{
+			"id": "1707078692-648",
+			"name": "Money",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1708829676-935",
+			"name": "Rifle Ammo",
+			"type": 0,
+			"value": "5"
+		},
+		{
+			"id": "1708829678-833",
+			"name": "First Aid Kit",
+			"type": 0,
+			"value": "3"
 		}
 	]
 }

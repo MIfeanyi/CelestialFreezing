@@ -177,6 +177,17 @@
 			"event_id": "dialogic_020"
 		},
 		{
+			"choice": "Check Inventory",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1721879391.json",
+			"event_id": "dialogic_020"
+		},
+		{
 			"event_id": "dialogic_013"
 		}
 	],
