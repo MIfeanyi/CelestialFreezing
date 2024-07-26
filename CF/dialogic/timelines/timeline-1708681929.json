@@ -107,30 +107,13 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Your loss."
-		},
-		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Nevermind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
 			"text": "Doesn't look like its worth much anyways."
 		},
 		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -212,17 +195,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -232,7 +204,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -314,17 +286,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -334,7 +295,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -416,17 +377,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -436,7 +386,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -518,17 +468,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -538,7 +477,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -546,29 +485,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "Nevermind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Doesn't look like its worth much anyways."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
-		},
-		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -668,17 +584,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Nevermind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -688,7 +593,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -789,17 +694,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -809,7 +703,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -891,17 +785,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -911,7 +794,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -993,17 +876,6 @@
 			"text": "Your loss."
 		},
 		{
-			"anchor_id": "anchor-1708833401",
-			"event_id": "dialogic_016"
-		},
-		{
-			"choice": "Never Mind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1013,7 +885,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
+			"text": "Let's hope you got more money to spend than your stuff's worth."
 		},
 		{
 			"anchor_id": "anchor-1708833401",
@@ -1021,29 +893,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"choice": "Nevermind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Doesn't look like its worth much anyways."
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Let's hope you got more money to spend than your stuff is worth."
-		},
-		{
-			"change_timeline": "timeline-1708833878.json",
-			"event_id": "dialogic_020"
 		},
 		{
 			"event_id": "dialogic_013"

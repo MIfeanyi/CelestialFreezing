@@ -4,7 +4,7 @@
 			"character": "character-1707081793.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Get what you need and leave this town is you know what’s good for you…"
+			"text": "Get what you need and leave this town if you know what’s good for you…"
 		},
 		{
 			"event_id": "dialogic_015",
@@ -380,7 +380,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -413,12 +413,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"character": "character-1707081793.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Get what you need and leave this town is you know what’s good for you…"
 		}
 	],
 	"metadata": {
