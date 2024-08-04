@@ -162,6 +162,14 @@
 			"text": "Think about it, Silas doesn’t exist. "
 		},
 		{
+			"definition": "1707079059-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -240,13 +248,13 @@
 			"text": "J-Just listen me for once!"
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Julian collapses onto the snow in agonizing pain!"
 		},
 		{
-			"character": "",
+			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "No, Silas, please!"
@@ -665,13 +673,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What the hell was that?"
+			"text": "[i]What the hell was that?[/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Just what is Silas?"
+			"text": "[i]What the hell is Silas?[/i]"
 		},
 		{
 			"definition": "1709006263-265",
