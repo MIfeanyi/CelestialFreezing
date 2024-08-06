@@ -589,6 +589,12 @@
 			"name": "First Aid Kit",
 			"type": 0,
 			"value": "3"
+		},
+		{
+			"id": "1722985523-648",
+			"name": "Caden's Side Quest (w/ Camille)",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

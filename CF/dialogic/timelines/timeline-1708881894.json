@@ -5,53 +5,6 @@
 			"event_id": "dialogic_021"
 		},
 		{
-			"condition": "",
-			"definition": "1707083632-146",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": ""
-		},
-		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
@@ -89,7 +42,13 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yes we are!"
+			"text": "Yes, we are!"
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "0"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -979,11 +938,42 @@
 			"event_id": "dialogic_016"
 		},
 		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really appreciate the candy!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks a million!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries!"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
 			"choice": "Return to Residential Area",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "0"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1056,6 +1046,27 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Until you come back and complete your quest, you can’t be a real Knight like me!"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Till next time, your majesty!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'll play again soon!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See ya~!"
 		},
 		{
 			"audio_bus": "Master",

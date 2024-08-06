@@ -20,53 +20,6 @@
 			"volume": -10
 		},
 		{
-			"condition": "",
-			"definition": "1707083632-146",
-			"event_id": "dialogic_012",
-			"value": "1"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": ""
-		},
-		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -99,6 +52,12 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille smiles hearing your enthusiasm."
+		},
+		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "0"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -695,6 +654,14 @@
 			"set_value": "1"
 		},
 		{
+			"definition": "1722985523-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"change_timeline": "timeline-1717913323.json",
 			"event_id": "dialogic_020"
 		},
@@ -1073,6 +1040,9 @@
 		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Play with Caden",
@@ -1672,12 +1642,6 @@
 			"volume": 0
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille’s respect for you has risen! (+1 RESPECT)"
-		},
-		{
 			"definition": "1709002528-787",
 			"event_id": "dialogic_014",
 			"operation": "=",
@@ -1686,12 +1650,27 @@
 			"set_value": "1"
 		},
 		{
+			"condition": "",
+			"definition": "1709002528-787",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille’s respect for you has risen! (+1 RESPECT)"
+		},
+		{
 			"definition": "1707082098-787",
 			"event_id": "dialogic_014",
 			"operation": "+",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"anchor_id": "anchor-1634488067",
@@ -1703,24 +1682,6 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
 		},
 		{
 			"condition": "",
@@ -1802,6 +1763,24 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Till next time, your majesty!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'll play again soon!"
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "See ya~!"
 		},
 		{
 			"audio_bus": "Master",
