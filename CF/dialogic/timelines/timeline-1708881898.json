@@ -613,19 +613,13 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Thank you for helping him..."
+			"text": "[/i]Thank you for helping him...[i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What did you say?"
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It sounded like you whispered something."
+			"text": "What'd you say?"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -637,7 +631,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Let's get the others."
+			"text": "L-Let's get the others."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -820,90 +814,6 @@
 			"text": "But?"
 		},
 		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He..."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "He reminds me of my younger brothers back home…"
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Our parents would have me stay inside and do chores to take care of the house while they played outside."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I’d watch from the window and they’d swing at each other with the biggest sticks they could find. "
-		},
-		{
-			"character": "character-1701671552.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "It doesn’t sound fun for you though. "
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "No."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "No, it wasn't..."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "At least not most of the time."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Whenever my mother was resting or my father was at work…"
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I’d skip my chores and go outside and play with them. "
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The smiles on their faces…"
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "The ear-piercing screams of glee…"
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Just spending time with them like that, even though I wasn’t allowed to being the eldest sister…"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille happily scoffed while slightly shaking her head."
-		},
-		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -973,19 +883,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I don’t have any toys or anything like that..."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "My brothers always loved toy swords like that."
-		},
-		{
-			"character": "character-1701671584.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "B-But the point I was trying to make is that maybe he just really wants someone to play with him."
+			"text": "M-Maybe he just really wants someone to play with him."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1009,19 +907,49 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’ll play with him if you do, too. "
+			"text": "I’ll only do it if you do it."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "W-what?!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No no no..."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Sounds like you might be better at it than me. "
+			"text": "Come on~!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was your idea!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides, it sounds like you might be better at it than me. "
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Just hold back a little bit for Caden the Great and I. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1129,13 +1057,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "(Come on!)"
+			"text": "[/i]Come on[i])"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "(Sell it a little!)"
+			"text": "[/i]Sell it a little![i]"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1171,19 +1099,19 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "(S-Stop laughing!)"
+			"text": "[/i]S-Stop laughing![i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "(Y-You're doing great!)"
+			"text": "[/i]Y-You're doing great![i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "(I swear!)"
+			"text": "[/i]I swear![i]"
 		},
 		{
 			"audio_bus": "Master",
@@ -1328,7 +1256,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Bleugh! "
+			"text": "BLEUGH! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You cartoonishly splay your body out in the snow while sticking your tongue out."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1388,7 +1322,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Making his way back around to Camille, Caden steps on your body before knelling infront of Camille."
+			"text": "Making his way back around to Camille, Caden steps on your body before knelling infront of Camille and offering his sword."
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1478,6 +1412,12 @@
 			"text": "A kingly sized reward for a kingly sized man such as yourself! "
 		},
 		{
+			"condition": "",
+			"definition": "1707083632-146",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1548,6 +1488,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Caden runs off to sketch in the snow with his sword."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Before you know it, Caden is back to playing by himself with a new found vigor!"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1634,14 +1583,6 @@
 			"text": "Hey, wait up!"
 		},
 		{
-			"audio": "play",
-			"audio_bus": "Master",
-			"event_id": "dialogic_030",
-			"event_name": "AudioEvent",
-			"file": "res://sound effects/General Sound Effects/57 Found Precious Item.mp3",
-			"volume": 0
-		},
-		{
 			"definition": "1709002528-787",
 			"event_id": "dialogic_014",
 			"operation": "=",
@@ -1654,6 +1595,14 @@
 			"definition": "1709002528-787",
 			"event_id": "dialogic_012",
 			"value": "0"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/57 Found Precious Item.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
