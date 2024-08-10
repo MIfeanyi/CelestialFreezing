@@ -1,53 +1,6 @@
 {
 	"events": [
-		{
-			"background": "res://backgrounds/Main Menu/snowvibe_free/fox01.png",
-			"event_id": "dialogic_021"
-		},
-		{
-			"event_id": "dialogic_024",
-			"set_theme": "theme-1723254858.cfg"
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_010",
-			"options": [
 
-			],
-			"portrait": "",
-			"question": "A wild BOZO has appeared!"
-		},
-		{
-			"choice": "FIGHT!",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Talk",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Skill",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Status Check",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
