@@ -502,7 +502,7 @@
 		},
 		"Themes": {
 			"files": [
-
+				"theme-1723254858.cfg"
 			],
 			"folders": {
 
@@ -526,7 +526,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"Campsite II": {
@@ -834,7 +834,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Level II - Malice at McGuire": {
