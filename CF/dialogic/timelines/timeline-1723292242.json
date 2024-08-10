@@ -1,0 +1,111 @@
+{
+	"events": [
+		{
+			"condition": "",
+			"definition": "1723290521-787",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Campsite"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "At campsites, Gaia’s Advocates take a temporary break to recover from their previous mission while traveling to the next."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Use this opportunity to learn more about the available members."
+		},
+		{
+			"definition": "1723290521-787",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Building Campfire (Camille)",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723258173.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Check on the Truck Repairs (Julian)",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723258174.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Truck Roof (Alistair)",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723258176.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Take a Nap",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723258263.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Sneak Away",
+			"condition": "",
+			"definition": "1723290519-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"change_timeline": "timeline-1723258261.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1723292242.json",
+		"name": "Campsite Hub"
+	}
+}

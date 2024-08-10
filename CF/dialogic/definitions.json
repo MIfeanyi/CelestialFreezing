@@ -595,6 +595,36 @@
 			"name": "Caden's Side Quest (+ Camille)",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1723290523-366",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1723290525-146",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1723290526-918",
+			"name": "New value",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1723290519-648",
+			"name": "Sneak Away",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723290521-787",
+			"name": "Campsite Introduction",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

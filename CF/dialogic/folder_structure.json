@@ -55,19 +55,7 @@
 						"character-1701672712.json"
 					],
 					"folders": {
-						"Campsite I": {
-							"files": [
-
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": false
-							}
-						},
-						"Level 0 - Prologue": {
+						"(0) Level 0 - Prologue": {
 							"files": [
 								"character-1701671103.json",
 								"character-1701671214.json",
@@ -88,7 +76,7 @@
 								"folded": true
 							}
 						},
-						"Level I - Revival of Limerick": {
+						"(1) Level I - Revival of Limerick": {
 							"files": [
 
 							],
@@ -178,7 +166,7 @@
 								"folded": true
 							}
 						},
-						"Level II - Malice at McGuire": {
+						"(2) Campsite I": {
 							"files": [
 
 							],
@@ -190,7 +178,31 @@
 								"folded": false
 							}
 						},
-						"Level III - Solace of St. Lucie": {
+						"(3) Level II - Malice at McGuire": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"(4) Campsite II": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"(5) Level III - Solace of St. Lucie": {
 							"files": [
 
 							],
@@ -211,7 +223,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -492,7 +504,9 @@
 				},
 				"(2) Campsite I": {
 					"files": [
-
+						"1723290519-648",
+						"1723290521-787",
+						"1723290526-918"
 					],
 					"folders": {
 
@@ -865,12 +879,13 @@
 					"files": [
 						"timeline-1723258169.json",
 						"timeline-1723258171.json",
+						"timeline-1723292242.json",
 						"timeline-1723258173.json",
 						"timeline-1723258174.json",
 						"timeline-1723258176.json",
 						"timeline-1723258261.json",
-						"timeline-1723258263.json",
 						"timeline-1723258385.json",
+						"timeline-1723258263.json",
 						"timeline-1723258432.json"
 					],
 					"folders": {
@@ -878,7 +893,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"(3) Level II - Malice at McGuire": {
@@ -925,7 +940,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				}
 			},
