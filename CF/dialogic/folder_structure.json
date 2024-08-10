@@ -24,7 +24,7 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						}
 					},
@@ -55,6 +55,18 @@
 						"character-1701672712.json"
 					],
 					"folders": {
+						"Campsite I": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
 						"Level 0 - Prologue": {
 							"files": [
 								"character-1701671103.json",
@@ -199,7 +211,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -207,23 +219,7 @@
 
 			],
 			"folders": {
-				"Dependent Variables": {
-					"files": [
-						"1707079059-787",
-						"1707082078-648",
-						"1707082098-787",
-						"1708888932-648",
-						"1717475100-192"
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": true
-					}
-				},
-				"Level I - Revival of Limerick": {
+				"(1) Level I - Revival of Limerick": {
 					"files": [
 
 					],
@@ -491,13 +487,77 @@
 					},
 					"metadata": {
 						"color": null,
+						"folded": true
+					}
+				},
+				"(2) Campsite I": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
 						"folded": false
+					}
+				},
+				"(3) Level II - Malice at McGuire": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"(4) Campsite II": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"(5) Level III - Solace of St. Luice": {
+					"files": [
+
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"Dependent Variables": {
+					"files": [
+						"1707079059-787",
+						"1707082078-648",
+						"1707082098-787",
+						"1708888932-648",
+						"1717475100-192"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
 					}
 				}
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Themes": {
@@ -509,7 +569,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Timelines": {
@@ -517,43 +577,7 @@
 
 			],
 			"folders": {
-				"Campsite I": {
-					"files": [
-						"timeline-1716047687.json"
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Campsite II": {
-					"files": [
-
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Game Endings": {
-					"files": [
-
-					],
-					"folders": {
-
-					},
-					"metadata": {
-						"color": null,
-						"folded": false
-					}
-				},
-				"Level 0 - Prologue": {
+				"(0) Level 0 - Prologue": {
 					"files": [
 						"timeline-1701670708.json"
 					],
@@ -565,14 +589,14 @@
 						"folded": true
 					}
 				},
-				"Level I - Revival of Limerick": {
+				"(1) Level I - Revival of Limerick": {
 					"files": [
 
 					],
 					"folders": {
-						"Before Townsquare": {
+						"(1) Intro": {
 							"files": [
-								"timeline-1705644060.json"
+								"timeline-1702177196.json"
 							],
 							"folders": {
 
@@ -582,7 +606,19 @@
 								"folded": true
 							}
 						},
-						"Getting to Know the Team (Initial)": {
+						"(2) Mission Brief": {
+							"files": [
+								"timeline-1716294824.json"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
+						},
+						"(3) Getting to Know the Team (Initial)": {
 							"files": [
 								"timeline-1702184642.json",
 								"timeline-1704599442.json",
@@ -599,9 +635,9 @@
 								"folded": true
 							}
 						},
-						"Intro": {
+						"(4) Before Townsquare": {
 							"files": [
-								"timeline-1702177196.json"
+								"timeline-1705644060.json"
 							],
 							"folders": {
 
@@ -611,31 +647,7 @@
 								"folded": true
 							}
 						},
-						"Level I Ending": {
-							"files": [
-								"timeline-1709008589.json"
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": true
-							}
-						},
-						"Mission Brief": {
-							"files": [
-								"timeline-1716294824.json"
-							],
-							"folders": {
-
-							},
-							"metadata": {
-								"color": null,
-								"folded": true
-							}
-						},
-						"Town Square": {
+						"(5) Town Square": {
 							"files": [
 								"timeline-1701714406.json",
 								"timeline-1721879391.json"
@@ -753,7 +765,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Shop": {
@@ -779,7 +791,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": false
+										"folded": true
 									}
 								},
 								"Gaia's Advocates": {
@@ -830,6 +842,18 @@
 								"color": null,
 								"folded": true
 							}
+						},
+						"(6) Ending": {
+							"files": [
+								"timeline-1709008589.json"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": true
+							}
 						}
 					},
 					"metadata": {
@@ -837,7 +861,27 @@
 						"folded": true
 					}
 				},
-				"Level II - Malice at McGuire": {
+				"(2) Campsite I": {
+					"files": [
+						"timeline-1723258169.json",
+						"timeline-1723258171.json",
+						"timeline-1723258173.json",
+						"timeline-1723258174.json",
+						"timeline-1723258176.json",
+						"timeline-1723258261.json",
+						"timeline-1723258263.json",
+						"timeline-1723258385.json",
+						"timeline-1723258432.json"
+					],
+					"folders": {
+
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				},
+				"(3) Level II - Malice at McGuire": {
 					"files": [
 
 					],
@@ -849,12 +893,35 @@
 						"folded": false
 					}
 				},
-				"Level III - Solace of St. Lucie": {
+				"(4) Campsite II": {
 					"files": [
 
 					],
 					"folders": {
 
+					},
+					"metadata": {
+						"color": null,
+						"folded": false
+					}
+				},
+				"(5) Level III - Solace of St. Lucie": {
+					"files": [
+
+					],
+					"folders": {
+						"Game Endings": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
 					},
 					"metadata": {
 						"color": null,
