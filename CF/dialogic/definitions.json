@@ -609,20 +609,44 @@
 			"value": ""
 		},
 		{
-			"id": "1723290526-918",
-			"name": "New value",
+			"id": "1723323210-146",
+			"name": "Talk to Julian at Truck",
 			"type": 0,
-			"value": ""
+			"value": "0"
 		},
 		{
-			"id": "1723290519-648",
-			"name": "Sneak Away",
+			"id": "1723323142-366",
+			"name": "Make Julian Upset at Truck",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723323140-787",
+			"name": "Calm Julian Down at Truck",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723319560-648",
+			"name": "Campfire conversation with Camille Successful",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723290526-918",
+			"name": "Campfire started",
 			"type": 0,
 			"value": "0"
 		},
 		{
 			"id": "1723290521-787",
 			"name": "Campsite Introduction",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723290519-648",
+			"name": "Sneak Away",
 			"type": 0,
 			"value": "0"
 		}

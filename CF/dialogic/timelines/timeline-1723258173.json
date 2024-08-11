@@ -1,22 +1,991 @@
 {
 	"events": [
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Camille just finished dumping some sticks in center of a circular rock formation. "
 		},
 		{
-			"character": "",
+			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Hey."
 		},
 		{
-			"character": "",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "Camille nods with a stoic expression before sitting down on a fallen tree and whitling a stick for tinder. "
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Do you need help?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Anything I can help with? "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll get it done faster on my own."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cool…"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Can I sit with you?",
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_011",
+			"value": "0"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is it alright if I sit with you?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not like I’ve got anything else to do."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll only be focusing on starting the fire."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s fine. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think I’ve ever seen someone make a real fire before."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I won’t be talking much. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Try to be Funny",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, you never know. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Spittin’ hot fire’ll get things going sooner than you think. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll have sparks coming up faster than you can blink."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How will spitting cause a fire or sparks?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I…don’t understand."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "D-Don’t worry about it. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was a stupid joke."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sorry about your joke."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-Thanks?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m just not good with these things…"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Our people are very different from the people here."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's cool, I get it."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She turns her head away making it difficult for you to see her face."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can stay…"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you want."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, I’ll stay. "
+		},
+		{
+			"choice": "Try to be Understanding",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s fine with me. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I remember in Limerick you said you don’t like talking to people all that much."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So I think I'm pretty confident in saying I know what I’m getting myself into."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But that won’t stop me from hanging out with you a bit."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Besides, I feel like all I’ve done [b]is[/b] talk. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To the townspeople."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talk to you guys. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get talked down by Alistair."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[b]Constantly.[/b]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enjoying some peace and quiet with someone sounds pretty nice right about now."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All of [b]that[/b] to say, we don’t have to talk. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille lowly chuckles. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She glances over with a subtle smile."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s all you had to say. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You scoff returning a smile of your own."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille nods her head motioning for you to come sit next to her."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You walk around the fallen tree and brush off some of the snow to sit down. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille continues to whittle at the stick, curling it at the end, for quite some time. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She lifts the carved kindling revealing what almost looks like a blossoming flower before standing up. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Kneeling at the unlit campfire pit, she places the kindling inside the pit. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You search your pockets and jacket for some kind of lighter, but Camille shakes her head. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She picks up another stick and with amazing speed spun it between her hands inside of the pit."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Embers and smoke flew past her as she tossed in her carved kindling."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With a few soft blows into the pit the fire started to burn in a matter of seconds. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille looked back at with you with a pride-filled smirk."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Unimpressed",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Unimpressed, you glance at Camille before gazing at the fire as it burns."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille’s smirk wanes back to her stoic expression and she returns to the fallen tree sitting a little further away from you than before."
+		},
+		{
+			"definition": "1723290526-918",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Impressed",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your eyes light up with an amazed grin leaning towards the fire and looking at Camille. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Proud of herself, she smiles triumphantly as she stands up. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You begin to softly clap and nod with approval as she returns to sit next to you. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "T-Thanks.\t"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You motion as if zipping your lips shut and she chuckles at your antics."
+		},
+		{
+			"definition": "1723290526-918",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"definition": "1723319560-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Did you cut this tree down yourself?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did you cut this tree down yourself?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille squints her eyes at you with visible confusion and slight annoyance."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No..."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I did not?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Why would you think that?"
+		},
+		{
+			"choice": "It was a joke",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was a joke. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was just trying to be funny. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well don’t. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I need to focus. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry..."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "I thought you were strong!",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just thought you were that strong!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Strong enough to knock down a tree?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With what?"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My hands?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille scoffs at the ridiculous idea. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know, maybe?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille pauses as she looks at you with a confused smile on the brim of laughing."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You never know till you try, right?!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just thought you went ahead and gave it a crack."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "'Gave it a crack'?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille chuckles."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t think now is the time to find out if I’m strong enough to knock trees over."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, keep it in mind, because you never know. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sure you could punch us up a [b]mean[/b] bench to sit on one of these days."
+		},
+		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille rolls her eyes with a smile as she goes back to whittling her kindling."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille rolls her eyes with a smile as she tossing a stick into the fire."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"definition": "1723319560-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Sit with Camille",
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You continue to sit with Camille in silence."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The small clinks of Julian's tools."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The crackle of burning wood."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The burning embers floating into the night sky."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723320667",
+			"index": 0,
+			"name": "Sit Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The quiet night is peaceful and regenative to your mind, body, and soul."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It almost makes you want to stay with the warmth of the fire for just a little bit longer."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "What will you do?"
+		},
+		{
+			"choice": "Sit a little longer",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "immersed with the tranquil night, you can't help, but stay still at the fire."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's been a long time since you were outside and able to enjoy the starry sky."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's different than you remember last."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A few specks of tiny lights here and there."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In a previous life, a younger one, you recall trying to find different consolations with your friends."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Arguing about who knew what, knowing no one really knew anything."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Even that is hard to remember the harder you try and think about."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your isolation in containment felt almost infinite in comparsion to what life you barely can remember living."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An endless pitch black cage you could feel was no bigger than an office cubicle."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The only noise to upset the mind grating silence was whatever 'food' they threw on the floor for you in a matter of seconds."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As if saving the light that came through the cracked open door for themselves."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For those more innocent."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "More deserving."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whether it have been weeks or months of exile, the years that it felt like convinced you that this punishment is what you deserved."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The world called for it and your sins had to be answered for."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yet the mute darkness now doesn't bother you."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seeing the endless sea of stars through the torn atmosphere gives you something that you can only describe as solace."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And through that solace you can find some comfort reuniting with both the darkness and the light."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is this something, a feeling, you wish to share with others?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or something you want to try and preserve for your own self and sanity?"
+		},
+		{
+			"anchor_id": "anchor-1723320667",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille looks up a you  stand up and stretch rising to your tip-toes."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Thanks..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can tell I really needed this."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille quietly smiles and nods before using a stick to maintain the fire."
+		},
+		{
+			"definition": "1723319560-648",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"change_timeline": "timeline-1723292242.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723292242.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

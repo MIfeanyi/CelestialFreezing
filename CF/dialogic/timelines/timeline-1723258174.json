@@ -1,6 +1,1035 @@
 {
 	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian is frantically looking through a crate of tools near the open hood of the truck. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Please, please, please, please…[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]I’m sorry, I’m sorry, I’m sorry...[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]I swear I can fix it![shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]J-Just give me a second chance...[shake]"
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Main Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Is everything okay?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-Hey, Julian?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian seems too distracted searching for tools inside of the crate. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, Julian!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite raising your voice, nothing seems to get through to Julian as he rushes back to the open hood of the truck. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You carefully reach out to touch Julian’s shoulder to get his attention, but his free hand swiftly grabs your wrist. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The strength of his grasp is painful, but Julian doesn’t seem to realize he holding on to you!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]S-Shit![shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]J-Julian!]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not until Julian tugs your arm that he sees he’s already holding on to something."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O-Oh!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Startled by your presence, Julian jolts up banging his head on the truck’s open hood! "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Ahhh~![shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Shit, shit, shit![shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you soothe your stinging wrist, Alistair looks down at you both with disdain spending more time to glare at you, specifically. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]S-Sorry, Alistair, I’m sorry![shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silent with his scorn, ethereal colors began to surround Alistair as he resumed his meditation."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You scared me!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re gonna to get us both in more trouble! "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't think there's much I can do about that with Alistair, but..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is everything okay with you, Julian?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, yeah, I’ve had harder bumps than this thing! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian points up to the open truck hood with a forced smile."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good to hear your head’s tough, but-"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, it’s the only useful thing I have left after all!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s why I need it to fix this truck."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "What's wrong with the truck?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s up with the truck?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t remember?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I wasn’t paying attention and I hit that snowbank pretty hard!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something has to be wrong with it!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We need this truck for our mission!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If it’s broken and we can’t use it…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]It’ll be my fault again…[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]It’ll be my fault, it’ll be my fault, it’ll be my fault…[shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian grabs his head with his free hand while lightly hitting his head with a wrench."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Trembling as he mindlessly repeats himself, you can hear fear building as he becomes more unstable. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "It will be your fault",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1723323142-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Guess it [b]will[/b] be your fault. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not much to do now, but accept your fate. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "On the bright side, at least you mean something to the team. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair won’t straight up kill you this time since he needs you in one way or another."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]So if I become uselesss...[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]He'll kill me?[shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian slowly crumbles to the ground fearfully mumbling to himself. "
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Concentrate on me",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian, concentrate on me for a second."
+		},
+		{
+			"anchor_id": "anchor-1723325342",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Sneak Away",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As Julian quietly begins to panic while constantly repeating himself, you manage to sneak away without him noticing. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Yikes...[/i]"
+		},
+		{
+			"change_timeline": "timeline-1723292242.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Focus on what I'm saying",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian, focus on what I'm saying for a sec."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723325342",
+			"index": 0,
+			"name": "Calm Down Loop"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take a moment to slow down."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I’ll try…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian steadies his hands while taking a few deep breaths with his eyes closed."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are [b]you[/b] okay?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Because whatever is bothering you, I’m pretty sure it has nothing to do with this truck. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I messed up…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I messed up real bad and Alistair knows it."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really bad."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I really don't want to keep screwing like all the other times..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After leaving…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]That place[shake]and finding Silas, this has been the only thing I’ve had going for myself."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Before Gaia’s Advocates, I had nothing…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was only expected to ‘perform’ and provide ‘satisfactory results’ for Mister..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian fearfully hesitates."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-If they weren’t happy, I wasn’t happy."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's what mattered most."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And they were never happy…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian winces with tear filled eyes loathing distant memories."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]They made sure I knew…[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He reminds me so much of the director when he gets angry."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It  terrifies me…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have to 'serve my purpose and provide satisfactory results'. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or it’ll start all over again…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m scared that I’m not strong enough to make it if it happens all over again..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So please…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Please, let me fix this."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I need this."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I don’t want to keep being so weak that I have to rely on ‘him’ again."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I have to prove my worth to everyone. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "I'll leave you to it",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723326421",
+			"index": 0,
+			"name": "Leave it to Julian Loop"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay then. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll leave you to it. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m sure you’ll figure it out. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Me too. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I just need some time and I swear it’ll brand new!"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Don't worry about Alistair",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Don’t worry about that guy.[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You point up to Alistair silently meditating on top of the truck. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]He may seem all ‘intimidating’, but I’m pretty sure it’s all for show.[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not him, or anyone else here, needs you to prove yourself to them."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We all know how smart and capable you are, so I’m certain no one’s concerned about your ‘performance results' or whatever.’"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "B-But the truck!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hit the-"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I hit the button that almost destroyed the planet when I was trying to save it. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If all that mumbo jumbo about me being here with you guys is my opportunity for a second chance, I think you can get a couple of chances, too. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How can you be so sure of that?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-you just got here."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s no way for you to really know that. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe not, but if I was wrong, I don’t think Alistair would have either of us around."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Especially with how trigger happy he can be."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I chalk it up to having trash aim, at least when it comes to me."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian quietly chuckles."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]You better keep it down before he corrects his accuracy.[/i]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]He has the high ground, you know?[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]He does, doesn’t he?[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Well, in this case, I think the script plays out a little bit differently.[/i]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]He’ll be the one yelling ‘Nooooooo’ in the end?[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian dramatically raises his hands in fist while lowly shouting no."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Julian try your best to stifle your laughs."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep at it and I’m sure you’ll figure out what’s going on with the truck. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A-Alright."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "I'll leave you to it",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1723326421",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "How's Silas?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not exactly sure how to ask this but…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How’s Silas holding up?"
+		},
+		{
+			"condition": "<=",
+			"definition": "1707079059-787",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s been pretty quietly lately, actually."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I mean, there were a few close calls, as always, but for the most part there’s nothing to report!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Huh."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, it’s good to hear some good news in that department. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re telling me!"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"condition": ">=",
+			"definition": "1707079059-787",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a hard question to answer…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I…don’t know?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t know?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For the most part, I can kind of guess what he’s feeling and why based on what’s going on and how it makes me feel."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like when we ran into that lady on the snowy path that one time."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, I remember."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were having a reaction to her arm, right?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas was. "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Let me help you",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "Leave",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1723292242.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
