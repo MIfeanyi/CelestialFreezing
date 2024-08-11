@@ -649,6 +649,24 @@
 			"name": "Sneak Away",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1723400225-648",
+			"name": "Julian sleeps inside of Truck",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723400967-787",
+			"name": "Annoy Alistair",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1723402412-366",
+			"name": "Caught Escaping",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }
