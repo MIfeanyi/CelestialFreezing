@@ -1,6 +1,645 @@
 {
 	"events": [
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]We’re already this far…[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I just need to be quiet is all…[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You tread carefully as you creep even closer to the voices."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen, give me some more time, alright?"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "With the guy they just added, I have no way of knowing who they really are or why they’re here. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m as thrown off about this as you guys are. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who cares why they’re there."
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Orders are still orders, Caelan. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do your job and get that bitch before we have to. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The way you were trained to do so…"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I already told you, that won’t be necessary. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "These people and their organization are stronger than you can imagine. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We don’t know how they’ll react if you dumbasses do what you do best: ruin shit."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Other unseen men sinisterly scoff. "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Aw~[wave], little Cal’s worried about his friends! "
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Death Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can faintly see the shadow of another man grab the top of the familiar voice’s head who aggressively pushes them away. "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell’s your problem?!"
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know you ain’t shit, Cal! "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t fucking try me! "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The silhouette of a man rushes in front of the familiar voice's face!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Keep Quiet",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1723411510-918",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You stay hidden in the bushes holding your breath only to see the two men’s obscured faces only inches from one another. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You eat dog shit before walking up to me?"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do us all a favor and try and brush your fucking teeth before you speak to me. "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tension rises between the two men and their silent stalemate."
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HA HA HA~![wave]"
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This fuckin’ guy’s always trying to be a goddamn comedian!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the other man laughs away from the familiar voice you can see the air leaving his sighing lungs despite keeping a rigid stance. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re wasting our time, freezing our balls off, just to tell us to give you more time?"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This was a shitty update, Caelan…"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know H.U.N.T.R doesn’t operate like this. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fuck what you know about Gaia’s Advocates, you belong to us. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Remember that. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s hard to forget seeing how much of a piss poor job you’ve done following us. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All you need to know is that I’ll deliver."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It won’t be much use if I die forcing the extraction of the 'vessel' or whatever you're calling it. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re not much use to us alive right now, Caelan. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Three weeks."
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You got three more weeks, with your buddy-ole-pals, to fuck around with saving the planet and shit, but at the end of those three weeks…"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you don’t have the vessel detained and under your control at that point..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The unfamiliar voice steps up to the familiar voice and presses a gun against their forehead. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll do what H.U.N.T.R. does best."
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To every. "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Single."
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Last."
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "One of ‘em."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Roooger~[wave]"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tell me, Caelan…"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Are you a part of the hunt?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The familiar voice raises what looks to be dead animals tied up with string. "
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ve caught my prey and quite artistically at that, wouldn’t you say?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The Unfamiliar Voice I lowers their gun. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Two weeks, Caelan. "
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Keep fucking around."
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]H-Hey wait![shake]"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]You said-[shake]"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Two!"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Weeks!"
+		},
+		{
+			"character": "character-1723407195.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get your shit together and do your job."
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "For Humanity’s next resurgence…"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whatever…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The unfamiliar voices begin to step away from this ‘Caelan’ and disappear into the forest."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the snow crunching footsteps of the other fade away, you gaze at ‘Caelan’ who slowly slumps into the snow to sit down."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]What do I-[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "'Caelan’ quietly yells before angrily throwing a flurry on punches so hard that you can hear the bark breaking apart."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Snow collapses on top of them and you see their panting breaths as they look down."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I can’t keep sticking around.[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]It’s either I get found by this guy or the others who just left if I still make my escape.[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]So what's the play now?[/i]"
+		},
+		{
+			"change_timeline": "timeline-1723258261.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Intervene",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You leap out from the bushes and rush the two men to break up their stalemate!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, stop!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Leave ‘em alone!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The unfamiliar voice dashes away and pulls out a pistol aiming it right at you!"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/9mm multi-shot.mp3",
+			"volume": 0
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "ARGH!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You stumble to the group of men while coughing up blood and trying to stop the endless flow of warm blood soaking your clothes. "
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who the hell is this?!"
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is this one of those fucking hippies you’ve been hanging with?!"
+		},
+		{
+			"character": "character-1723407197.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You told them about this?!"
+		},
+		{
+			"character": "character-1723407201.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, I didn't!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you crumble to the ground the familiar voice catches you and gingerly lays you in the snow. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your vision is getting blurry and the ringing in your ears is making it hard to understand what the men are arguing about. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Someone crouches down getting close to your face, but it’s getting difficult to make out who it is."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "L-Lowen?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tears streamed down from Lowen’s face pattering onto yours."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Shit…"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What the hell are you doing here?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]WHAT THE HELL ARE YOU DOING HERE?![shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You were killed by the Unfamiliar Voice I."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Try Again?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_scene": "res://src/menu/Menu.tscn",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/9mm-pistol-shot-6349.mp3",
+			"volume": 0
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

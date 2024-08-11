@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/9mm multi-shot.mp3-16f2aaa171d15e45b2688810d14d74af.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/9mm multi-shot.mp3"
+dest_files=[ "res://.import/9mm multi-shot.mp3-16f2aaa171d15e45b2688810d14d74af.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

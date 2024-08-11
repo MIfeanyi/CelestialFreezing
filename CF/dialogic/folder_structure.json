@@ -52,7 +52,8 @@
 				},
 				"NPCs": {
 					"files": [
-						"character-1701672712.json"
+						"character-1701672712.json",
+						"character-1723408237.json"
 					],
 					"folders": {
 						"(0) Level 0 - Prologue": {
@@ -157,7 +158,7 @@
 									},
 									"metadata": {
 										"color": null,
-										"folded": true
+										"folded": false
 									}
 								}
 							},
@@ -168,14 +169,16 @@
 						},
 						"(2) Campsite I": {
 							"files": [
-
+								"character-1723407195.json",
+								"character-1723407197.json",
+								"character-1723407201.json"
 							],
 							"folders": {
 
 							},
 							"metadata": {
 								"color": null,
-								"folded": false
+								"folded": true
 							}
 						},
 						"(3) Level II - Malice at McGuire": {
@@ -223,7 +226,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -513,14 +516,16 @@
 						"1723323210-146",
 						"1723400225-648",
 						"1723400967-787",
-						"1723402412-366"
+						"1723402412-366",
+						"1723407167-146",
+						"1723411510-918"
 					],
 					"folders": {
 
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"(3) Level II - Malice at McGuire": {

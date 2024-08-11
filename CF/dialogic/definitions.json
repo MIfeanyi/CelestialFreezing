@@ -645,12 +645,6 @@
 			"value": "0"
 		},
 		{
-			"id": "1723290519-648",
-			"name": "Sneak Away",
-			"type": 0,
-			"value": "0"
-		},
-		{
 			"id": "1723400225-648",
 			"name": "Julian sleeps inside of Truck",
 			"type": 0,
@@ -665,6 +659,24 @@
 		{
 			"id": "1723402412-366",
 			"name": "Caught Escaping",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723407167-146",
+			"name": "Escape Attempt (Successful)",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1723290519-648",
+			"name": "Sneak Away Conversation",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1723411510-918",
+			"name": "Investigate Lowen",
 			"type": 0,
 			"value": "0"
 		}
