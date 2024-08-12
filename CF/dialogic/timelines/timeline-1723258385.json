@@ -581,7 +581,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "What the hell are you doing here?"
+			"text": "[shake rate=60.0 level=8 connected=1]What the hell are you doing here?[shake]"
 		},
 		{
 			"character": "character-1701671588.json",

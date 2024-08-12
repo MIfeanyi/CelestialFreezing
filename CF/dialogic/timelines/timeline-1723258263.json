@@ -1,6 +1,995 @@
 {
 	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As everyone sits around the campfire, you can feel a strong sense of unity amongst the others as they prepare the rabbits and conversate."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While Camille sticks the rabbits to roast near the fire, Lowen retells a story about life before the incident."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although tired of the retelling, Alistair makes snide remarks with a slight smirk seeing Lowen’s theatrics with Julian as they pretend to fight one another. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian punches Lowen in slow motion who ridiculously spins around after being hit and flips over the fallen tree next to you."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone burst out laughing seeing Lowen’s snow covered boots dangling up in the air!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the laughter settles, Julian continues with the story, but as you look over you can see a concerned, almost sad, expression on Lowen’s face."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You never seen Lowen so focused, yet worried, about something else while he lies in the snow. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Say Nothing",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You choose to remain quiet and observe Lowen who’s mind was captive by thoughts that seemed to be doing more harm than good."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve never seen such discomfort and sadness on his face before and it genuinely concerns you."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After closing his eyes for a bit of time, he slowly opens them before noticing you watching him."
+		},
+		{
+			"choice": "Are you Okay",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Hey, are you alright?[/i]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Hm?[/i]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Yeah, yeah, it’s all part of the story![/i]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I’m just waiting for my part![/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]No, I mean-[/i]"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A huge cartoonish grin quickly shoots across his face as he shakes his hand for you to help him."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both grab each other by the forearm and Lowen shoots himself up. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And that’s how my younger brother gave me that scar!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pretty funny, huh?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-Yeah…"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t think he’d be strong enough to crack me cranium, but I guess granite counters are just that tough!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, I think you’re on to something with that punchline. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It actually made me think of laughing this time."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh yeah?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Close enough to getting you to finally crack, eh?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll add it to my notes!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ugh, this again..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen takes out a notebook and pen. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "‘Crack me Cranium almost made Alistair laugh.’"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "‘Will constantly use around him until he finally laughs.’"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll be doing nothing, but wasting your time and annoying me. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Or wot?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll crack me cranium?!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ll do me head in?!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone laughs at Lowen who points at Alistair teasing him for even a chuckle. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair scoffs as he takes a drink from his canteen. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Awww~, come on~![wave]"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Now that Lowen’s comedy routine is over."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I was able to get more of our mission details of Gaia’s next chosen site for restoration. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone sits up ready to listen."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you all know, we’re heading south, but we’ve been assigned out hub of operations in a town called Torrance in North Carolina. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re actually not too far away from North Carolina, right?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I remember seeing some signs a while back. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s correct; however, this town is in Huntersville…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A strange sense of uneasiness comes over everyone that seems to miss your understanding. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s with Huntersville?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something happen there?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Under normal circumstances, I’d ridicule you for not knowing the obvious, but with you being contained for well over a year, it makes sense that you don’t know. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After the incident, there was uncontrollable chaos throughout the country and the world. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "While governments tried to do what they could to regain that control, other ‘organizations’ rose up and claimed it for themselves."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H.U.N.T.R. being one of those organizations. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A violent one at that."
+		},
+		{
+			"condition": "",
+			"definition": "1723411510-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've only heard of the name recently..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Which doesn't bode well for us."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Although recently making themselves known, they've clearly have earned quite the repuation for themselves already."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1723411510-918",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can’t say I’ve heard of them. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And it makes sense that you haven’t, they’ve only recent tried to stake their claim in things. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Humanity’s Union for its Next Resurgence, H.U.N.T.R. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s a lot of suspicions on their origin considering the strength in which they seem to possess. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A government faction that always secretly existed, a terrorist group fiending for the right moment…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whoever they are, what is unanimously understood about them is that they’re a threat."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To Gaia’s Advocates, to whatever government that remains, and any living and breathing person."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the name suggest, they hunt anyone who they deem inadequate for the continuance of humanity."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "An extremist organization actively practicing genocide in this country…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Of all times, why now?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After the damage you caused, one would think that Gaia and its creatures have endured enough at this point, but that answer evades all of us. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No use in understanding savages. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What is useful is knowing are enemy."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Rumors suggest that Huntersville, North Carolina serves as a growing hub for the extremist group."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Based on our informant on site, there’s talks of a large-scale battle breaking out in the town in order to stop that."
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "By who?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The government has sent soldiers to a town not too far in order to act as a deterrent, but they’ve starting bolstering their numbers lately."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They suspect it’s any day now. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H.U.N.T.R being based in Huntersville?"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Isn’t that a little too obvious?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Regardless of whether or not this place is a stronghold for H.U.N.T.R., what’s important is that we do our upmost not to get involved with the situation. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As we are currently, we’re nothing close to being capable in surviving such a strife nor is it necessary."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All we need to do is meet with our informant, gain as much information in regards to the McGuire power plant, set up the RAFs and leave undetected."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Stealth and discretion are our sole priority in being successful for Gaia’s sake."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The issues of the town are inconsequential to our mission. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If anything, it could act as a great distraction in the event anything is to occur while we're present."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As much as I'd hate to not help the people that will be caught in the middle of this mess..."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That sounds like a good idea."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Staying out of sight, out of mind, will keep all of us safe as well. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That being a priority as well, of course. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[b]Then that doesn’t leave us much room to get extra parts or anything like that…[/b]"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not exactly, no…"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, if this civil war is on the cusp of breaking out any minute now, where do we stay in order to remain hidden?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen points at Camille with approval of her question."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Excellent question. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Luckily for us, our informant claims of a tavern with lodging that acts as a point of neutrality that all sides are forced to respect. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Really now?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Due to the high volume of people that pass through, we’d be able to easily blend in and they’ve already offered us housing for our time there. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that so?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They also sell various goods that we could find useful, so-"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-So you mean?!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes..."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They could sell-"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]WOOHOO~![wave]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian shoots up with glee as he races around the camp. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sit down!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’re not done here!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Sorry…"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You see, that. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That kind of behavior is what we need to avoid while we’re there!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]R-Right, sorry, sorry…[shake]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So we meet with the contact at this tavern. "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Avoid the conflict in the town while operating in secret."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe buy some useful parts for me to make something cool!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But overall, we do what we do best, help save the planet, and be on our merry way before anything hits the fan."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I cannot stress enough how important it is that we remain anonymous during our time there. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outside of that, we’ll learn more on site and go from there. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That concludes our briefing."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If we sleep in shifts starting now and leave early morning, we should arrive mid-day."
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Alrighty then~![wave]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen leans back as he stretches. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Everyone starts to clean up and pack things back into the truck. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you make your way towards the truck you hear Alistair scoff."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn’t know we had two comedians in our mist. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who’s that?"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Lowen, if you think you’re sleeping first after being asleep the entire ride over here."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille!"
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille looks over at you and Alistair as she tossing some sticks into the campfire."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "‘It’ will keep you company and Julian when he takes over your shift. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*sigh*"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whine all you want. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t care."
+		},
+		{
+			"condition": "",
+			"definition": "1723402412-366",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair steps extremely close to you jamming his pistol into your abdomen. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Please, for my sake, try and escape again.[/i]"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Allow me that luxury.[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair walks away with a sinister smirk."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll be here in the event of anything. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Alistair climbs on top of the truck and begins to concentrate as ethereal energy surrounds him again."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]This shit is getting old…[/i]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’ll meet you out there in a few hours! "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe we can talk about movies to stay awake!"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t let the fire burn out!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian climbs into the back of the truck. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]You’ll be alright, you’ll be alright. [/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Will I?[/i]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen shrugs his shoulder with an apologetic smile. "
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Maybe?[/i]"
+		},
+		{
+			"condition": "",
+			"definition": "1723290519-648",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I'd hold off on skipping town if I were you for tonight.[/i]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]At least for tonight.[/i]"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]I’ll see you in the morning, alright?[/i]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Yeah, yeah…[/i]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lowen aggressively pats your shoulder before climbing into the back of the truck."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Guess we’re staying up…[/i]"
+		},
+		{
+			"change_timeline": "timeline-1723413684.json",
+			"event_id": "dialogic_020"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
