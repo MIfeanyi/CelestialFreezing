@@ -679,6 +679,12 @@
 			"name": "Investigate Lowen",
 			"type": 0,
 			"value": "0"
+		},
+		{
+			"id": "1723517257-648",
+			"name": "Work with Silas",
+			"type": 0,
+			"value": "0"
 		}
 	]
 }

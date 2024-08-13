@@ -518,7 +518,8 @@
 						"1723400967-787",
 						"1723402412-366",
 						"1723407167-146",
-						"1723411510-918"
+						"1723411510-918",
+						"1723517257-648"
 					],
 					"folders": {
 
@@ -912,14 +913,14 @@
 				},
 				"(3) Level II - Malice at McGuire": {
 					"files": [
-
+						"timeline-1723519231.json"
 					],
 					"folders": {
 
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"(4) Campsite II": {

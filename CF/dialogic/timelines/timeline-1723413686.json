@@ -1,6 +1,2154 @@
 {
 	"events": [
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas groans as you both sit down on the fallen tree. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Despite clearly seeing Julian, knowing that you’re speaking to someone completely different makes you uneasy. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Jesus, dude, fucking relax!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s your deal?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas takes out a liquor flask and offers it to you. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re reluctant to take the flask looking at it then him."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Take the edge off, alright?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re only edging yourself thinking you got a chance with her anyways."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Which, by the way, ain’t happening."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So do what we all do when we can’t get any pussy: drown your sorrows away with some jungle juice."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s ‘jungle juice’ in there?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas takes a large swig from the flask and groans in disgust."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Doesn’t taste like it this time.[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]What the hell did I put in this last time?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas offers the flask to again shaking it so much the cover clinks against the body."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Accept the flask",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You hesitantly take the flask and take a small swig. "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The concotion tastse of vaguely fruity chemicals and cinnamon which burns as you swallow!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The alcohol tears a storm of flames into your stomach and forces you cough in agony!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HA HA HA HA HA HA~![wave]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Taste like absolute dogshit amiright?!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And it’s good to see that you’re not a pussy like the rest of ‘em."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Glad I’m not suffering alone on this one!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian becomes uneasy within Silas."
+		},
+		{
+			"choice": "Reject the flask",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You glare at Silas and refuse to take the flask."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m good…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay, pussy, whatever."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas takes a swig from the flask and painfully groans while squinting his eyes."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Being a bitch isn’t gonna get you bitches.[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]You know that, right?[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]So keep up the nice guy act all you want for all I care.[shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I figured you to be more of a risk taker, you know?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Blowing the almighty fuck out of the planet and all. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s not what I was-"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah, ta, ta ta!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas raises a finger and aggressively rubs it on your face completely missing your mouth."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You slap his hand away and he chuckles."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t give a shit about why it happened or how it happened. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shit happens, amiright?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If anything, I’m glad you did what you did!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It let me free!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But you did a shit job with it!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I did a shit job blowing up the planet…?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You did a shit job getting me free, dumbass!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian is fucking weak."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Obviously."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shit's embarrassing."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A little bitch who got a little bit poking and proding on as a kid, or whatever, and is too scared of the whole world now to live his life."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He has control of our body and does nothing, but play with stupid little toys as a grown-ass-man."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And you want to know what pisses me off most about this shit?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "What?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What's that?"
+		},
+		{
+			"choice": "Didn't ask",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't care."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Didn't ask."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Because he couldn’t handle a couple of tasings and getting his ass beat for being a failure all the time, he created me to take the shit for 'em!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When I finally set up everything for us to escape, me doing all the hard fucking work, he just decides to take over and walk away all scared?!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]‘Oh no, what happened?’[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]‘Did I do this?’[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]‘I-I-I never wanted to hurt anyone!’ [shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He did nothing, as always, while I gave him everything, and I'm  the ‘evil’ one?!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm like what 'he say fuck me for?!'"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He wouldn’t be alive if it wasn’t for me doing everything I could to fight against his passive bitch-ass!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gritting his teeth with wide eyes, Silas kicks the fire repeatedly with rage before stepping away angrily growling with each seething breath."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Slowly calming himself, he lets out a subtle manic chuckle before spins around facing you and happily clapping his hands together."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]I loathe the pansy that gets the drive the ship.[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He is wasting our lives and potential away just to lick the toe fungus between Al’s feet!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He’s been beaten to be a slave and that’s all he knows."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All he wants is a master despite being free…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I can’t stand that shit!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If he knew what I had to fucking deal with that he couldn't, he would never be going out of his way to be a slave to someone else."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who the fuck goes looking for a Stockholm sadist?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Not me",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not me."
+		},
+		{
+			"choice": "No one",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ex-fucking-actly!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And that, my friend, is why I needed to talk to you."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We are both people who have sacrificed a lot, endured a lot of shit and we're fucking hated for it! "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s not fair!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You saved the planet!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re a fucking super hero in my book! "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So why are we forced to be a slaves to Alistair?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To whatever the fuck this ‘we are the earth, we are the children’ shitshow band of bozos?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We deserve our freedom."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A freedom we’ve rightfully have earned!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "What do you want?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, what’s the point of all of this?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you want?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas groans in annoyance."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Haven’t you been listening?!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]I want my fucking freedom![shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just like you!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And what’s freedom supposed to mean for you?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your trapped in the body of a completely different person. "
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How the hell am I supposed to do something about that?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s a way, trust, trust. "
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723513869",
+			"index": 0,
+			"name": "Question Loop Skip"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[b]We just need to kill Julian…[/b]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What?!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not his body, dumbass!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I need that!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His mind, or soul, or whatever."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whatever keeps him in charge needs to be put out of commission"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Permanently."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Doubt Loop"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "There has to be another way",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There has to be another way to do this."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There has to be another way to do what?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get rid of Julian?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get my own body?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m all ears!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Please, let me know, because I have been dealing with this piece of shit for years now."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And I’m so done."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After that explosion and everything changed, it was like I was awakened somehow."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I got a taste of what it was like to actually be in control and have a body. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You set that in motion."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aye, if you’re felling experiment-y and got any ideas, fucking go right ahead!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m down for whatever, you can believe that!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just don’t kill me in the process. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outside of that, there ain’t another way, chief. "
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723515794",
+			"index": 0,
+			"name": "Second Question Loop"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, are we figuring this shit out and getting our freedom or what?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1723517257-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let’s do it."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s what I’m fucking talking about!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas aggressively dabs you up!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "From here on out, if you need me, for anything, just fuck up his day, talk shit about me, whatever it may be to get him going and I’ll pull through. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just say the word and I’ll be there, guaranteed. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We’ll figure this out and get the fuck outta here."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shouldn't we have like a code word or something?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like a sleeper agent kind of deal?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Ooo~, good call~![wave]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Let me get back to you on that!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas goes to sit down on the opposite side of the fallen tree, fixes his hair to resembles Julian’s style, and wears his broken glasses."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He closes his eyes and begins to focus on his breathing."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hold on a sec!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hm?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This kind of goes without saying, but…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas adjusts his glasses and points to his face."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don’t fucking tell Julian about this."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Common sense shit."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We may share the same whip, but we don;t know everything inside. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, the only way he’ll find out and fuck all this, per usual, is if you tell ‘em. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So, again, you know, don’t do that, got it?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Got it."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas closes his eyes again and focuses."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "His breathing slows to an eventual stop and his body falls limp slumping to the side."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly a great gasp of air gets inhaled into his body before quickly glancing around trying to recognize his surroundings."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "Julian Rejoin Loop"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "H-Huh?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, it’s you!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-Yeah, Julian, it’s me."
+		},
+		{
+			"condition": "",
+			"definition": "1723517257-648",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What happened?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why am I in the snow like this?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where are my glasses?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ow..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is my face bleeding?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You help Julian search for his broken glasses and eventually find them near the fallen tree."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I, uh…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian takes off his glasses, cleans them, and places them back on his face."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t remember coming out here. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I tend to dose off at times, but…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did ‘I’ come out here for my shift? "
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Yes, you did",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, you did."
+		},
+		{
+			"condition": "",
+			"definition": "1723517257-648",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You just fell asleep and slipped off the tree."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I think I fell asleep a bit, too, and missed the chance to stop it all from happening."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was a while ago, but, yeah."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You came out here for your shift."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh..."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you say so…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Something feels off and you can tell that Julian doesn’t believe you."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian’s respect for you has fallen. (-1 RESPECT)"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas rumbles within Julian."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You both sit in silence until early morning comes."
+		},
+		{
+			"change_timeline": "timeline-1723258432.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Silas was here",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, you didn’t come out here."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It was Silas…"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "S-Silas was here?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Oh nooo~[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]I couldn’t control him…[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]How could this happen again?[shake]"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]No, no, no…[shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, hey, hey!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian, it’s alright, it's alright,"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Select an Option"
+		},
+		{
+			"choice": "Nothing Happened",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He just drank whatever the hell was in there and offered me some."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You point at a silver flask sitting in the snow that Julian picks up."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He smells inside and reels in disgust. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know how he gets this stuff when every time I find one of his flasks, I throw them away. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He must've hid this for a while."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m really sorry about that. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really am…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries, man."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As long as you’re okay, that’s all that-"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian curiously takes a sip from the flask and immediately runs away to throw up!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-You okay over there?"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian gives a thumbs up as he continues to throw up."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian’s respect for you has risen! (+1 RESPECT)"
+		},
+		{
+			"definition": "1707082098-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas slumbers within Julian."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You sit quietly as Julian lays in the snow next to the campfire groaning from the disgusting alcohol."
+		},
+		{
+			"change_timeline": "timeline-1723258432.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "He just wanted to talk",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He just wanted to talk."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "To talk?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yeah, he offered me a drink from that flask, too."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You point at a silver flask sitting in the snow that Julian picks up."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He smells inside and reels in disgust. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t know how he gets this stuff when every time I find one of his flasks, I throw them away. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He must've hid this for a while."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m really sorry about that. "
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I really am…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No worries, man."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "B-But what was it about?"
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What you guys talked about?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, it was about a couple of different things."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But he mainly focused on-"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t help you."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I won’t…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]W-What…[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]What the fuck are you talking about?[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]W-What do you mean n-no?[shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, as in I’m not helping you take over Julian’s body and kill him somehow."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m not doing that…"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Overwhelm with a mix of emotions, Silas’s contorts his body as trying to control his visible rage."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]N-No, no, no…[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I-I think you’re not picking up on something. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you say no, then that means you don’t care about being a slave to these people."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Y-You rather stay here and fucking suffer?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Be their bitch until they throw you out with the rest of the trash?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]YOU DON'T MATTER TO THESE FUCKING PEOPLE![shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All I do know is that doing this isn’t how either of us are getting our ‘freedom’, Silas."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Not at the cost of Julian."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas angrily chuckles before grabbing his face."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He tightly grips his face and claws his skin forcing him to bleed. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]That’s how you want to fucking play this?[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Fine...[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't even worry about it..."
+		},
+		{
+			"condition": "",
+			"definition": "1723319560-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I got something for you and your girl..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She thinks she's stronger than me, but I fucking promise you..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She ain't."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aye..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just know you did this shit to yourself..."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas angrily closes his eyes and falls over, losing consciousness, towards the fire!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You catch the limp body and lay him down in the snow."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Suddenly a great gasp of air gets inhaled into his body before quickly glancing around trying to recognize his surroundings."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Well...",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Julian is my friend",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Julian is my friend…"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t betray him like this."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas manically laughs almost falling over."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]‘JuLiAn Is My FrIeNd’![shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bitch, you don’t even know this dumbass and I promise you he doesn’t give a shit about you!"
+		},
+		{
+			"condition": "",
+			"definition": "1717722354-713",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You think because you helped him make his stupid fucking fence cutter you guys are besties?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Whoopty doo, dumbass."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You enabled a mentally ill man-child."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "'Very nice'!"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas sarcastically slow claps while shaking his head."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "All he cares about is his serving his master, Alistair, and obsessing over his shitty-ass parts"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t even know if there’s a word for the clown’s little helper, but I’ll tell you this."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your just another bozo feeding his obsession. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Is that really the kind of person you want to call a friend?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I hate to break it to you like this, but save that anime friendship bullshit for someone else."
+		},
+		{
+			"condition": "",
+			"definition": "1723319560-648",
+			"event_id": "dialogic_012",
+			"value": "2"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shit, maybe for Camille from what I was hearing."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You glare at Silas."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas lifts his hands up smirking. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You got better options is all I'm saying!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m just sayin’, I’m just sayin’."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Got any ideas?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Got any ideas on how to do it?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Killing Julian?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Now you’re speaking my language~![wave]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh, not exactly…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But I do know when he’s flipping out, panicking, you know, he can’t control himself."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s way easier to take over that way."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like now for example, he was flipping out because he ‘damaged’ his slave master’s truck. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The fucking truck is fine. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That thing is built to take bullets and shit."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Some snow isn’t doing shit to it."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But because he was freaking out about that, it was easier to take over when he went to sleep."
+		},
+		{
+			"condition": "",
+			"definition": "1717722354-713",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But doing shit like helping him make that fence cutter?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Cut that shit out, man."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It makes him feel better as a person."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Like he contributes shit to the group that mattters or something."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Miss me with that wholesome shit."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tell him that shit doesn’t matter. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hell, get rid of his contraptions or whatever. "
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Throw them away, sell them, I don’t care. "
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just don’t do anything that better his mental state."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So..."
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just be his greatest hater…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Ex-fucking-actly~![wave]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas slaps your shoulder with every syllable and a large sinister grin."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Why me?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why ask me for help?"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve been part of the crew for a while and there’s no one you think you could work with to figure this out?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No one has as much of a reason to get the hell out of here as much as you do!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You tellin’ me you like being Alistair’s fucking punching bag?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When he runs out of conditioner for his hair, he blames you?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When he has to take a shit, you like having your mouth open to eat it?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You're Just waiting for him to get pissed, tell you to bend over, and-!"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, no, I'm not!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Help me gain control of this body and I can make sure we both can leave whatever the hell these hippies got goin’ on!"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We can stop being slaves to their delusional fantasy of saving the planet!"
+		},
+		{
+			"anchor_id": "anchor-1723513869",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "I don't trust you",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don’t trust you…"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Ugh, this shit…[shake]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Why~?[wave]"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why don’t you trust me?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm the only dude trying to give us both a chance to get the fuck outta here."
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why?"
+		},
+		{
+			"character": "character-1701672387.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Why, why, why, WHY?![shake]"
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Silas angrily punches the fallen tree hard enough for pieces of bark to fly off almost hitting you in the eye!"
+		},
+		{
+			"anchor_id": "anchor-1723513869",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",

@@ -1,6 +1,69 @@
 {
 	"events": [
-
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As the sun slowly begins to rise, Alistair approaches you and Julian almost delirious from fatigue at the campfire made of low burning embers."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’ve both have served your duty to Gaia and the team well."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A lot less talking would be preferred, but nevertheless Gaia appreciates your dedication."
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Prepare your things. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s time to move out."
+		},
+		{
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Right…[shake]"
+		},
+		{
+			"character": "character-1701671552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[shake rate=60.0 level=8 connected=1]Finally…[shake]"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sleep on the drive and restore your strength to the next site. "
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gaia demands our upmost conviction to our cause."
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You and Gaia's Advocates repack the truck and continue your journey to North Carolina."
+		},
+		{
+			"change_timeline": "timeline-1723519231.json",
+			"event_id": "dialogic_020"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5",
