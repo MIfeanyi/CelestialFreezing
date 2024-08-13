@@ -1,6 +1,41 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -5
+		},
+		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (14).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "0"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download - 2024-06-08T003851.531.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
 			"condition": "",
 			"definition": "1723407167-146",
 			"event_id": "dialogic_012",
@@ -365,6 +400,15 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1701671552.json",

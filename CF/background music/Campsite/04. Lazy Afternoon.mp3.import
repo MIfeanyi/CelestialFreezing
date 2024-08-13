@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/04. Lazy Afternoon.mp3-385bc1a80921e5fe1930356e5e167592.mp3str"
+
+[deps]
+
+source_file="res://background music/Campsite/04. Lazy Afternoon.mp3"
+dest_files=[ "res://.import/04. Lazy Afternoon.mp3-385bc1a80921e5fe1930356e5e167592.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

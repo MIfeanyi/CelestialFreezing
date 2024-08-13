@@ -50,6 +50,15 @@
 			"name": "Loop"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"definition": "1723407167-146",
 			"event_id": "dialogic_014",
 			"operation": "=",
@@ -70,6 +79,10 @@
 			"text": "You make your way east slowly making your way through the tree line undetected."
 		},
 		{
+			"background": "res://backgrounds/Campsites/download (2).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -86,6 +99,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*scoff*"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (10).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -256,6 +273,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A walk, a trot, and soon a joyous sprint ducking and swerving around low hanging tree branches."
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (11).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -447,6 +468,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[i]I better head back for now…[/i]"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (14).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",

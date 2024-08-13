@@ -1,10 +1,27 @@
 {
 	"events": [
 		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (11)1.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (20).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille just finished dumping some sticks in center of a circular rock formation. "
+			"text": "Camille just finished dumping some sticks in the center of a circular rock formation. "
 		},
 		{
 			"character": "character-1701671552.json",

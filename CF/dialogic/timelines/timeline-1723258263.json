@@ -1,6 +1,19 @@
 {
 	"events": [
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": 0
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (32).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -11,6 +24,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "While Camille sticks the rabbits to roast near the fire, Lowen retells a story about life before the incident."
+		},
+		{
+			"background": "res://backgrounds/Campsites/download (5).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -115,18 +132,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": ""
 		},
 		{
 			"character": "character-1701672712.json",
@@ -261,6 +266,15 @@
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Awww~, come on~![wave]"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -277,6 +291,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Everyone sits up ready to listen."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/Acid Trip - Rumbling Tension.wav",
+			"volume": -5
 		},
 		{
 			"character": "character-1701671580.json",
@@ -739,6 +762,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Outside of that, we’ll learn more on site and go from there. "
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1701671580.json",

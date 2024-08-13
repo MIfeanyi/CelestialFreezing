@@ -1,10 +1,14 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Campsites/Driving ref.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Having left Chester’s Peak, Gaia’s Advocates makes head way to their next location through thick snow and settling night. "
+			"text": "Having left Chester’s Peak days ago, Gaia’s Advocates makes head way to their next location through thick snow and settling night. "
 		},
 		{
 			"character": "character-1701671588.json",

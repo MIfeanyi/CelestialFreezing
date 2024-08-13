@@ -1,6 +1,19 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Campsites/download (18).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -101,6 +114,15 @@
 			"id": "anchor-1634488067",
 			"index": 0,
 			"name": "Silas Entrance"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "",
@@ -471,6 +493,15 @@
 			"id": "anchor-1723426892",
 			"index": 0,
 			"name": "Multi-Route Skip"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04 Lazy Afternoons.mp3",
+			"volume": -5
 		},
 		{
 			"condition": "",
@@ -1357,6 +1388,15 @@
 			"text": "And with our teachings it comes naturally, I’d say"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1851,6 +1891,10 @@
 			"text": "I-In a good way!"
 		},
 		{
+			"background": "res://backgrounds/Campsites/download (31).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1861,6 +1905,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "T-Thanks…"
+		},
+		{
+			"definition": "1723319560-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "2"
 		},
 		{
 			"definition": "1707082098-787",
@@ -1881,6 +1933,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "N-No problem."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "",
