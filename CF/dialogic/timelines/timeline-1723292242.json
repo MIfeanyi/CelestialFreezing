@@ -139,10 +139,33 @@
 			"value": ""
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -20
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You hop inside of the back of the truck and rest your head on a somewhat soft bag and slowly fade to sleep."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 3
 		},
 		{
 			"character": "character-1701671588.json",
@@ -157,6 +180,15 @@
 			"text": "Lowen’s loud shout springs you up from your nap."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -20
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -167,6 +199,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Hey, sleepy head~![wave]"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -5
 		},
 		{
 			"character": "character-1701672712.json",

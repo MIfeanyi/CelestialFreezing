@@ -11,7 +11,21 @@
 			"event_id": "dialogic_021"
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/crackling-fire-7083.mp3",
+			"volume": -3
+		},
+		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1723290526-918",
+			"event_id": "dialogic_012",
+			"value": "0"
 		},
 		{
 			"background": "res://backgrounds/Campsites/download (20).jpg",
@@ -34,6 +48,9 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille nods with a stoic expression before sitting down on a fallen tree and whitling a stick for tinder. "
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_015",
@@ -727,6 +744,14 @@
 			"text": "Camille rolls her eyes with a smile as she goes back to whittling her kindling."
 		},
 		{
+			"definition": "1723319560-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -742,15 +767,15 @@
 			"text": "Camille rolls her eyes with a smile as she tossing a stick into the fire."
 		},
 		{
-			"event_id": "dialogic_013"
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/fire-breath-6922.mp3",
+			"volume": 0
 		},
 		{
-			"definition": "1723319560-648",
-			"event_id": "dialogic_014",
-			"operation": "=",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -769,10 +794,26 @@
 			"text": "You continue to sit with Camille in silence."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/moving-tools-3-40372.mp3",
+			"volume": -20
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The small clinks of Julian's tools."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/crackling-fire-7083.mp3",
+			"volume": -20
 		},
 		{
 			"character": "character-1701672712.json",
@@ -791,6 +832,15 @@
 			"id": "anchor-1723320667",
 			"index": 0,
 			"name": "Sit Loop"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -20
 		},
 		{
 			"character": "character-1701672712.json",
@@ -819,6 +869,15 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -952,10 +1011,25 @@
 			"value": ""
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -5
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille looks up a you  stand up and stretch rising to your tip-toes."
+			"text": "Camille looks at you stand up and stretch rising to your tip-toes."
+		},
+		{
+			"condition": "",
+			"definition": "1723319560-648",
+			"event_id": "dialogic_012",
+			"value": "1"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -970,18 +1044,29 @@
 			"text": "I can tell I really needed this."
 		},
 		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille quietly smiles and nods before using a stick to maintain the fire."
-		},
-		{
 			"definition": "1723319560-648",
 			"event_id": "dialogic_014",
 			"operation": "+",
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/fire-breath-6922.mp3",
+			"volume": -10
+		},
+		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille softly smiles and nods before using a stick to maintain the fire."
 		},
 		{
 			"change_timeline": "timeline-1723292242.json",

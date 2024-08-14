@@ -23,7 +23,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "While Camille sticks the rabbits to roast near the fire, Lowen retells a story about life before the incident."
+			"text": "While Camille sticks the rabbit meat to roast near the fire, Lowen retells a story about life before the incident."
 		},
 		{
 			"background": "res://backgrounds/Campsites/download (5).jpg",
@@ -42,10 +42,32 @@
 			"text": "Julian punches Lowen in slow motion who ridiculously spins around after being hit and flips over the fallen tree next to you."
 		},
 		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/laughter2-43821.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Everyone burst out laughing seeing Lowen’s snow covered boots dangling up in the air!"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 15,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": -15
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 3
 		},
 		{
 			"character": "character-1701672712.json",
@@ -57,7 +79,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You never seen Lowen so focused, yet worried, about something else while he lies in the snow. "
+			"text": "You've never seen Lowen so focused, yet worried, about something else before. "
 		},
 		{
 			"character": "character-1701672712.json",
@@ -94,7 +116,7 @@
 			"text": "After closing his eyes for a bit of time, he slowly opens them before noticing you watching him."
 		},
 		{
-			"choice": "Are you Okay",
+			"choice": "Are you Okay?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -140,10 +162,19 @@
 			"text": "A huge cartoonish grin quickly shoots across his face as he shakes his hand for you to help him."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 4.98,
+			"file": "res://background music/Campsite/04. Lazy Afternoon.mp3",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You both grab each other by the forearm and Lowen shoots himself up. "
+			"text": "You both grab each other by the forearm and Lowen shoots himself up!"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -182,7 +213,7 @@
 			"text": "It actually made me think of laughing this time."
 		},
 		{
-			"character": "character-1701671580.json",
+			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Oh yeah?"
@@ -270,7 +301,7 @@
 			"background-music": "play",
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
-			"fade_length": 1,
+			"fade_length": 2,
 			"file": "",
 			"volume": 0
 		},

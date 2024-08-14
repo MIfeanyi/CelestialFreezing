@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/movement-in-the-snow-with-sticks-snow-in-the-cold-snow-creaking-footsteps-in-the-snow-13527.mp3-1e612cd479864970c957a54dc1615d4f.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/movement-in-the-snow-with-sticks-snow-in-the-cold-snow-creaking-footsteps-in-the-snow-13527.mp3"
+dest_files=[ "res://.import/movement-in-the-snow-with-sticks-snow-in-the-cold-snow-creaking-footsteps-in-the-snow-13527.mp3-1e612cd479864970c957a54dc1615d4f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -263,6 +263,10 @@
 			"text": "You continue quietly past the whispering voices undetected."
 		},
 		{
+			"background": "res://backgrounds/Campsites/download (1).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",

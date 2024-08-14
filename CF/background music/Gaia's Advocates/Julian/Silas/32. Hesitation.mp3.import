@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/32. Hesitation.mp3-c56cba8c2233af0fdb5258b99665b075.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/Silas/32. Hesitation.mp3"
+dest_files=[ "res://.import/32. Hesitation.mp3-c56cba8c2233af0fdb5258b99665b075.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

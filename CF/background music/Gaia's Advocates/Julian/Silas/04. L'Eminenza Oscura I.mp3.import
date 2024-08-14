@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/04. L'Eminenza Oscura I.mp3-678af0da1357b043466053074d4c5ac6.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/Silas/04. L'Eminenza Oscura I.mp3"
+dest_files=[ "res://.import/04. L'Eminenza Oscura I.mp3-678af0da1357b043466053074d4c5ac6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

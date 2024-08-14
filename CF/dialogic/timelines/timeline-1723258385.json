@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://backgrounds/Campsites/download (10).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -596,6 +600,15 @@
 			"text": "You were killed by the Unfamiliar Voice I."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/General Background Music/Beholder of None - Game Over THeme.wav",
+			"volume": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_010",
 			"options": [
@@ -612,7 +625,7 @@
 			"value": ""
 		},
 		{
-			"anchor_id": "",
+			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
 		{

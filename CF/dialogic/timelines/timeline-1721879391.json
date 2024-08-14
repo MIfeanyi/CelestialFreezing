@@ -32,7 +32,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Key Items: Items that have been purchased from shopkeepers or given to you NPCs."
+			"text": "Key Items: Items that have been purchased from shopkeepers or given to you by NPCs."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -117,7 +117,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "An incomplete tool that Julian is currently workign on that is missing parts to function."
+			"text": "An incomplete tool that Julian is currently working on that is missing parts to function."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -152,7 +152,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Despite the current state of affairs, money is still used as a means to bater goods and services."
+			"text": "Despite the current state of affairs, money is still used as a means to barter goods and services."
 		},
 		{
 			"character": "character-1701672712.json",
@@ -164,7 +164,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Current Inventory: [Money]"
+			"text": "Current Inventory: $[Money]"
 		},
 		{
 			"anchor_id": "anchor-1721877412",
@@ -603,7 +603,7 @@
 		{
 			"choice": "Candy",
 			"condition": "",
-			"definition": "1707084674-648",
+			"definition": "1708829845-728",
 			"event_id": "dialogic_011",
 			"value": "1"
 		},

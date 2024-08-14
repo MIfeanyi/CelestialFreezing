@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://character portraits/Main Characters/Julian/Silas/download (18).jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -82,7 +86,7 @@
 			"character": "character-1701672387.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[shake rate=60.0 level=8 connected=1]What the hell did I put in this last time?"
+			"text": "[shake rate=60.0 level=8 connected=1]What the hell did I put in this shit?"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -155,6 +159,15 @@
 			"text": "Julian becomes uneasy within Silas."
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/Silas/32. Hesitation.mp3",
+			"volume": -5
+		},
+		{
 			"choice": "Reject the flask",
 			"condition": "",
 			"definition": "",
@@ -208,6 +221,15 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "..."
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Gaia's Advocates/Julian/Silas/07. My Heart's Descent.mp3",
+			"volume": -5
 		},
 		{
 			"event_id": "dialogic_013"

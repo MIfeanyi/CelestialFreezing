@@ -109,7 +109,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]MUHAHAHAHA!!![wave]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -240,7 +240,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory?"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory?[wave]"
 		},
 		{
 			"character": "character-1701671580.json",
@@ -347,7 +347,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -361,7 +361,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -406,7 +406,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -505,7 +505,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]MUHAHAHAHA!!![wave]"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -713,7 +713,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -727,7 +727,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -741,7 +741,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Hazah!"
+			"text": "H-Hazah!"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -765,7 +765,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -846,13 +846,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]MUHAHAHAHA!!![wave]"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "An oogolie boogolie madman I tell you!"
+			"text": "[shake rate=60.0 level=8 connected=1]An oogolie boogolie madman I tell you![shake]"
 		},
 		{
 			"audio_bus": "Master",
@@ -909,7 +909,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh, my hero~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Oh, my hero~![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -965,7 +965,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -1046,7 +1046,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Land of the roundest of round tables!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Land of the roundest of round tables![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1058,7 +1058,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The jolliest of cooperations!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The jolliest of cooperations![wave]"
 		},
 		{
 			"audio": "play",
@@ -1072,7 +1072,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -1086,7 +1086,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -1100,7 +1100,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1132,7 +1132,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -1213,7 +1213,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "MUHAHAHAHA!!!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]MUHAHAHAHA!!![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1332,7 +1332,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1421,7 +1421,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"audio": "play",
@@ -1435,7 +1435,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1701672712.json",

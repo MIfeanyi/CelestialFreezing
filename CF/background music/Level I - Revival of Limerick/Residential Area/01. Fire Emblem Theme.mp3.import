@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/01. Fire Emblem Theme.mp3-bc22449fb2c5141f6e23e8293a08355f.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Residential Area/01. Fire Emblem Theme.mp3"
+dest_files=[ "res://.import/01. Fire Emblem Theme.mp3-bc22449fb2c5141f6e23e8293a08355f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

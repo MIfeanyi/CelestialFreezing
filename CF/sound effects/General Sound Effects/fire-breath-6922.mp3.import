@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fire-breath-6922.mp3-7f26b7acf3d475f404dcbb3e17190fa0.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/fire-breath-6922.mp3"
+dest_files=[ "res://.import/fire-breath-6922.mp3-7f26b7acf3d475f404dcbb3e17190fa0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

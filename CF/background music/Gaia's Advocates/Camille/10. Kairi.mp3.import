@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/10. Kairi.mp3-c54a4e3b412e0fde2851141ed57a4f7f.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Camille/10. Kairi.mp3"
+dest_files=[ "res://.import/10. Kairi.mp3-c54a4e3b412e0fde2851141ed57a4f7f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

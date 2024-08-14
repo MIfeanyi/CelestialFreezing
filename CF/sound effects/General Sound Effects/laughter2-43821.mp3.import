@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/laughter2-43821.mp3-093654c07d7079e6d6c60f6d3b5d8ee0.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/laughter2-43821.mp3"
+dest_files=[ "res://.import/laughter2-43821.mp3-093654c07d7079e6d6c60f6d3b5d8ee0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

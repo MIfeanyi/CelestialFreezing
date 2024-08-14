@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/moving-tools-3-40372.mp3-63afae666507b7bb42121e3fd2af9d99.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/moving-tools-3-40372.mp3"
+dest_files=[ "res://.import/moving-tools-3-40372.mp3-63afae666507b7bb42121e3fd2af9d99.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

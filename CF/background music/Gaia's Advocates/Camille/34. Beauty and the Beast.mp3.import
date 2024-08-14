@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/34. Beauty and the Beast.mp3-843c1f7580d256f5766d538f369ba6d9.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Camille/34. Beauty and the Beast.mp3"
+dest_files=[ "res://.import/34. Beauty and the Beast.mp3-843c1f7580d256f5766d538f369ba6d9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

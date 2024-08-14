@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/crackling-fire-7083.mp3-3b6b8054dd66bf46c1137eab5fb087b9.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/crackling-fire-7083.mp3"
+dest_files=[ "res://.import/crackling-fire-7083.mp3-3b6b8054dd66bf46c1137eab5fb087b9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

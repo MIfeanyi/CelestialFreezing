@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sword-against-sword-6341.mp3-151efebf9ea9e51df59f9f864b2b7399.mp3str"
+
+[deps]
+
+source_file="res://sound effects/General Sound Effects/sword-against-sword-6341.mp3"
+dest_files=[ "res://.import/sword-against-sword-6341.mp3-151efebf9ea9e51df59f9f864b2b7399.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

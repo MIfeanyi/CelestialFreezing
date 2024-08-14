@@ -457,7 +457,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -475,7 +475,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Sweet, sweet, candy~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Sweet, sweet, candy~![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -505,7 +505,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Mmmmmm~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Mmmmmm~![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -525,7 +525,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I feel invincible~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]I feel invincible~![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -613,7 +613,7 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]Thank you for helping him...[i]"
+			"text": "[b]Thank you for helping him...[/b]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -654,6 +654,15 @@
 			"random_upper_limit": 100,
 			"set_random": false,
 			"set_value": "1"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
 		},
 		{
 			"change_timeline": "timeline-1717913323.json",
@@ -772,6 +781,9 @@
 		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -970,9 +982,6 @@
 			"event_id": "dialogic_016"
 		},
 		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"choice": "Play with Caden",
 			"condition": "",
 			"definition": "1708998217-648",
@@ -1024,13 +1033,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I AM, IN FACT, A MAN OF MALEVALENT INTENT!"
+			"text": "[shake rate=60.0 level=8 connected=1]I AM, IN FACT, A MAN OF MALEVALENT INTENT![shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "FOR I HAVE KIDNAPPED THE PRINCESS OF THE EAST! "
+			"text": "FOR I HAVE KIDNAPPED THE PRINCESS OF THE FAR EAST! "
 		},
 		{
 			"audio_bus": "Master",
@@ -1051,37 +1060,43 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Camille seems surprised and confused."
+			"text": "Camille is quiet and embarrassed from your theatrics."
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]Come on[i])"
+			"text": "[i]Come on![/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]Sell it a little![i]"
+			"text": "[i]Sell it a little![/i]"
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "P-Please, Sir Caden~!"
+			"text": "[i]F-Fine...[/i]"
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Y-You’re my only hope~ "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]P-Please, Sir Caden~![wave]"
 		},
 		{
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "You have to save me~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Y-You’re my only hope~![wave] "
+		},
+		{
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]You have to save me~![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1099,19 +1114,19 @@
 			"character": "character-1701671584.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]S-Stop laughing![i]"
+			"text": "[shake rate=60.0 level=8 connected=1] [i]S-Stop laughing![/i][shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]Y-You're doing great![i]"
+			"text": "[i]Y-You're doing great![/i]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[/i]I swear![i]"
+			"text": "[i]I swear![/i]"
 		},
 		{
 			"audio_bus": "Master",
@@ -1126,13 +1141,13 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "T-This is it…"
+			"text": "[shake rate=60.0 level=8 connected=1] T-This is it…[shake]"
 		},
 		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "This is the moment I’ve been waiting for!"
+			"text": "[shake rate=60.0 level=8 connected=1] This is the moment I’ve been waiting for![shake]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1160,13 +1175,21 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HIYAAAAAH!"
+			"text": "[shake rate=60.0 level=8 connected=1] HIYAAAAAH![shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "RAAAAAAH!"
+			"text": "[shake rate=60.0 level=8 connected=1] RAAAAAAH![shake]"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/sword-against-sword-6341.mp3",
+			"volume": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1178,7 +1201,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*gasp gasp* "
+			"text": "[shake rate=60.0 level=8 connected=1] *gasp gasp*[shake] "
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1202,7 +1225,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "No, this can't be!"
+			"text": "[shake rate=60.0 level=8 connected=1] No, this can't be![shake]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1214,37 +1237,37 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "GWAAAAAUUUUGGGHHH!"
+			"text": "[shake rate=60.0 level=8 connected=1]GWAAAAAUUUUGGGHHH![shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "T-To t-think..."
+			"text": "[shake rate=60.0 level=8 connected=1] T-To t-think...[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*cough cough*"
+			"text": "[shake rate=60.0 level=8 connected=1] *cough cough*[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "To think I’d be slain by a mere child!"
+			"text": "[shake rate=60.0 level=8 connected=1] To think I’d be slain by a mere c-child![shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "T-Tell my wife..."
+			"text": "[shake rate=60.0 level=8 connected=1] T-Tell my wife...[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I-I n-never liked..."
+			"text": "[shake rate=60.0 level=8 connected=1] I-I n-never liked...[shake]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1256,19 +1279,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "BLEUGH! "
+			"text": "[shake rate=60.0 level=8 connected=1] BLEUGH![shake] "
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "You cartoonishly splay your body out in the snow while sticking your tongue out."
-		},
-		{
-			"character": "character-1701672712.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Camille quitely laughs sitting on the a bunk of snow."
 		},
 		{
 			"audio_bus": "Master",
@@ -1280,6 +1297,20 @@
 			"volume": 0
 		},
 		{
+			"character": "character-1701672712.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Camille quitely laughs sitting on the a bunk of snow."
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sound effects/General Sound Effects/56 Fanfare2.mp3",
+			"volume": -5
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1289,13 +1320,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I did it..."
-		},
-		{
-			"character": "character-1707081795.json",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "I DID IT!"
+			"text": "[shake rate=60.0 level=8 connected=1] I did it...[shake]"
 		},
 		{
 			"audio_bus": "Master",
@@ -1303,8 +1328,14 @@
 			"event_id": "dialogic_031",
 			"event_name": "BackgroundMusic",
 			"fade_length": 1,
-			"file": "res://sound effects/General Sound Effects/56 Fanfare2.mp3",
-			"volume": 0
+			"file": "res://background music/Level I - Revival of Limerick/Residential Area/01. Fire Emblem Theme.mp3",
+			"volume": -5
+		},
+		{
+			"character": "character-1707081795.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[wave amp=50.0 freq=6.0 connected=1]I DID IT![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1328,13 +1359,13 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ack!"
+			"text": "[shake rate=60.0 level=8 connected=1]Ack![shake]"
 		},
 		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I slaid the evil, princess! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]I slaid the evil, princess![wave]"
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1349,13 +1380,12 @@
 			"text": "Camille takes Caden's wooden sword."
 		},
 		{
+			"audio": "play",
 			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
 			"file": "res://sound effects/General Sound Effects/47 Victory.mp3",
-			"volume": 0
+			"volume": -5
 		},
 		{
 			"character": "character-1701671584.json",
@@ -1373,13 +1403,13 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yes~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Yes~![wave]"
 		},
 		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Thank you, thank you, thank you~! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Thank you, thank you, thank you~![wave]"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -1418,6 +1448,15 @@
 			"value": "0"
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 5,
+			"file": "",
+			"volume": 0
+		},
+		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -1433,7 +1472,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "The sweet taste of victory! "
+			"text": "[wave amp=50.0 freq=6.0 connected=1]The sweet taste of victory![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1457,7 +1496,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Oh~, I see, I see~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Oh~, I see, I see~![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1526,7 +1565,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yeah~, but it was fun!"
+			"text": "Yeah, but it was fun!"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1583,14 +1622,6 @@
 			"text": "Hey, wait up!"
 		},
 		{
-			"definition": "1709002528-787",
-			"event_id": "dialogic_014",
-			"operation": "=",
-			"random_upper_limit": 100,
-			"set_random": false,
-			"set_value": "1"
-		},
-		{
 			"condition": "",
 			"definition": "1709002528-787",
 			"event_id": "dialogic_012",
@@ -1609,6 +1640,14 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille’s respect for you has risen! (+1 RESPECT)"
+		},
+		{
+			"definition": "1709002528-787",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
 		},
 		{
 			"definition": "1707082098-787",
@@ -1648,7 +1687,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Noooooooo~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Noooooooo~![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
@@ -1702,7 +1741,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*sniffle* You better! *sniffle*"
+			"text": "[shake rate=60.0 level=8 connected=1]*sniffle* You better! *sniffle*[shake]"
 		},
 		{
 			"character": "character-1707081795.json",
@@ -1729,7 +1768,7 @@
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "See ya~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]See ya~![wave]"
 		},
 		{
 			"audio_bus": "Master",

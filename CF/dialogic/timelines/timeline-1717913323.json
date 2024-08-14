@@ -14,7 +14,7 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "It’s freezing in here!!"
+			"text": "[shake rate=60.0 level=8 connected=1]It’s freezing in here![shake]"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -32,7 +32,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I’m pretty sure I can figure out something with their heater if I can take a look at their generator or something."
+			"text": "I’m pretty sure I can figure out something with their heater if I can take a look at their generator."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -83,7 +83,7 @@
 			"text": "*creek creek creek* "
 		},
 		{
-			"character": "",
+			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "What have I told you about-"
@@ -243,7 +243,7 @@
 			"text": "I'm not a repair man, but with my tools, I can probably fix your heat issue you have going on."
 		},
 		{
-			"character": "character-1701671588.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen steps next to you and places his hand on your shoulder."
@@ -276,7 +276,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it"
+			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -342,13 +342,13 @@
 			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I saw you all from the window."
+			"text": "I saw you all from the window and how you played with my grandson."
 		},
 		{
 			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I'm sure he told you I don't allow him to have any, but the truth is I can't afford the basics ."
+			"text": "I'm sure he told you I don't allow him to have any candy, but the truth is we can barely afford the basics ."
 		},
 		{
 			"character": "character-1718211765.json",
@@ -372,19 +372,19 @@
 			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Except for selling pre-chewed on repackaged meat..."
+			"text": "Except for selling pre-chewed repackaged meat..."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yeah, in the shop, right?"
+			"text": "in the shop, right?"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "That's a first  for me, too."
+			"text": "Talk about first..."
 		},
 		{
 			"character": "character-1718211765.json",
@@ -414,7 +414,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We  made sure it was pre-packaged and factory sealed."
+			"text": "We made sure it was pre-packaged and factory sealed."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -509,7 +509,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it"
+			"text": "Helping heal the planet is our mission which, in turn, will heal all of the life that inhabits it."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -575,13 +575,13 @@
 			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I saw you all from the window."
+			"text": "I saw you all from the window and how you played with my grandson."
 		},
 		{
 			"character": "character-1718211765.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "I'm sure he told you I don't allow him to have any, but the truth is I can't afford the basics ."
+			"text": "I'm sure he told you I don't allow him to have any candy, but the truth is we can barely afford the basics ."
 		},
 		{
 			"character": "character-1718211765.json",
@@ -611,13 +611,13 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yeah, in the shop, right?"
+			"text": "in the shop, right?"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "That's a first  for me, too."
+			"text": "Talk about first..."
 		},
 		{
 			"character": "character-1718211765.json",
@@ -647,7 +647,7 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "We  made sure it was pre-packaged and factory sealed."
+			"text": "We made sure it was pre-packaged and factory sealed."
 		},
 		{
 			"character": "character-1701671588.json",

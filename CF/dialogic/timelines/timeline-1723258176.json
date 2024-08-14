@@ -32,6 +32,10 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T002134.377.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -100,6 +104,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[shake rate=60.0 level=8 connected=1]You annoying, brainless, miscreant...[shake]"
+		},
+		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T010959.846.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701671580.json",

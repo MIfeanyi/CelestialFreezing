@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sword-against-sword-6341.mp3-ee984ab61e675b8eadba4d6cf833793f.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Residential Area/sword-against-sword-6341.mp3"
+dest_files=[ "res://.import/sword-against-sword-6341.mp3-ee984ab61e675b8eadba4d6cf833793f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

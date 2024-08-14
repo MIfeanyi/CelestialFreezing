@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/07. My Heart's Descent.mp3-6607a47a10aebeeb5dee57b40164cb39.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Julian/Silas/07. My Heart's Descent.mp3"
+dest_files=[ "res://.import/07. My Heart's Descent.mp3-6607a47a10aebeeb5dee57b40164cb39.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

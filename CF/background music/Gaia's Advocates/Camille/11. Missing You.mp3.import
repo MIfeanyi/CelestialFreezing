@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/11. Missing You.mp3-b2ad7d452870704d02d13c9e83ab47eb.mp3str"
+
+[deps]
+
+source_file="res://background music/Gaia's Advocates/Camille/11. Missing You.mp3"
+dest_files=[ "res://.import/11. Missing You.mp3-b2ad7d452870704d02d13c9e83ab47eb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
