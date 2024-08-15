@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lowen (CSP2)png.png-3287c21ef2ee9c9573f70ce9f8296c39.stex"
+path="res://.import/CF_L1.png-6809a37231a96cc8a50cb5724ea8f659.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP2)png.png"
-dest_files=[ "res://.import/Lowen (CSP2)png.png-3287c21ef2ee9c9573f70ce9f8296c39.stex" ]
+source_file="res://character portraits/Main Characters/Lowen/Character Speaking Portraits/CF_L1.png"
+dest_files=[ "res://.import/CF_L1.png-6809a37231a96cc8a50cb5724ea8f659.stex" ]
 
 [params]
 

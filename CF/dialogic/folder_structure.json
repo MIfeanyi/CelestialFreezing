@@ -30,7 +30,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Main Characters": {
@@ -47,7 +47,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"NPCs": {
@@ -584,11 +584,12 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
 			"files": [
+				"theme-1723746449.cfg",
 				"theme-1723254858.cfg"
 			],
 			"folders": {
@@ -596,7 +597,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Timelines": {
@@ -769,7 +770,7 @@
 													},
 													"metadata": {
 														"color": null,
-														"folded": false
+														"folded": true
 													}
 												},
 												"Talk to Caden": {
@@ -792,7 +793,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": false
+												"folded": true
 											}
 										},
 										"Shop": {
@@ -855,7 +856,7 @@
 											},
 											"metadata": {
 												"color": null,
-												"folded": true
+												"folded": false
 											}
 										}
 									},
@@ -879,13 +880,13 @@
 							},
 							"metadata": {
 								"color": null,
-								"folded": true
+								"folded": false
 							}
 						}
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"(2) Campsite I": {
@@ -908,7 +909,7 @@
 					},
 					"metadata": {
 						"color": null,
-						"folded": true
+						"folded": false
 					}
 				},
 				"(3) Level II - Malice at McGuire": {

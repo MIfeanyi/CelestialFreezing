@@ -111,13 +111,13 @@
 			"text": "As you continue to make your way through the snowy trees, you hear two male voices with one of them sounding vaguely familiar."
 		},
 		{
-			"character": "character-1723407195.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*whisper whisper*"
 		},
 		{
-			"character": "character-1723407201.json",
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*whisper whisper*"
@@ -496,10 +496,50 @@
 			"text": "[i]But where’s-[/i]"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Ooooy~![wave]"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -511,13 +551,13 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lowen gleefully waves before tossing his rucksack and rifle into the back of the truck."
+			"text": "Seeing you, he gleefully waves before tossing his rucksack and rifle into the back of the truck."
 		},
 		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lowen aggressively rubs your beanie making it partially cover your eyes."
+			"text": "Once close enough, he aggressively rubs your beanie making it partially cover your eyes."
 		},
 		{
 			"change_timeline": "timeline-1723292242.json",

@@ -8,14 +8,22 @@
 	"name": "Alistair",
 	"nickname": "Mysterious Person?",
 	"nickname_bool": true,
-	"offset_x": 0,
-	"offset_y": 0,
+	"offset_x": -125,
+	"offset_y": -46,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CF_A1.png"
+		},
+		{
+			"name": "CF_A1",
+			"path": "res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CF_A1.png"
+		},
+		{
+			"name": "CF_A2",
+			"path": "res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CF_A2.png"
 		}
 	],
-	"scale": 100,
+	"scale": 165,
 	"theme": ""
 }

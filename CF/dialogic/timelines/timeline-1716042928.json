@@ -102,24 +102,6 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Actually...",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"change_timeline": "timeline-1716044176.json",
-			"event_id": "dialogic_020"
-		},
-		{
-			"choice": "How are you?",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -346,17 +328,6 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"choice": "Actually...",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"change_timeline": "timeline-1716044179.json",
-			"event_id": "dialogic_020"
-		},
-		{
 			"choice": "How are you?",
 			"condition": "",
 			"definition": "",
@@ -485,17 +456,6 @@
 			"event_id": "dialogic_020"
 		},
 		{
-			"choice": "Actually...",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"change_timeline": "timeline-1716044180.json",
-			"event_id": "dialogic_020"
-		},
-		{
 			"choice": "How are you?",
 			"condition": "",
 			"definition": "",
@@ -507,6 +467,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "*pending"
+		},
+		{
+			"anchor_id": "anchor-1716046806",
+			"event_id": "dialogic_016"
 		},
 		{
 			"choice": "Leave",

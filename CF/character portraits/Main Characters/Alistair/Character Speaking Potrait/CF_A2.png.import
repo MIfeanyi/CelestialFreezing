@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lowen (CSP6)png.png-e450f82bf2a096e9ef8b5f03f62d7809.stex"
+path="res://.import/CF_A2.png-af8c9825aa45758313bc93597148f50e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP6)png.png"
-dest_files=[ "res://.import/Lowen (CSP6)png.png-e450f82bf2a096e9ef8b5f03f62d7809.stex" ]
+source_file="res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CF_A2.png"
+dest_files=[ "res://.import/CF_A2.png-af8c9825aa45758313bc93597148f50e.stex" ]
 
 [params]
 

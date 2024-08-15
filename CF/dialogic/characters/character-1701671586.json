@@ -8,14 +8,22 @@
 	"name": "Julian",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
-	"offset_y": 0,
+	"offset_x": -125,
+	"offset_y": -46,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/CF_J1.png"
+		},
+		{
+			"name": "CF_J1",
+			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/CF_J1.png"
+		},
+		{
+			"name": "CF_J2",
+			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/CF_J2.png"
 		}
 	],
-	"scale": 100,
+	"scale": 165,
 	"theme": ""
 }

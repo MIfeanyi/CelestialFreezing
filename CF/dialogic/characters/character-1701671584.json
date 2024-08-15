@@ -8,14 +8,22 @@
 	"name": "Camille",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
-	"offset_y": 0,
+	"offset_x": -125,
+	"offset_y": -46,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://character portraits/Main Characters/Camille/Character Speaking Potrait/CF_C1.png"
+		},
+		{
+			"name": "CF_C1",
+			"path": "res://character portraits/Main Characters/Camille/Character Speaking Potrait/CF_C1.png"
+		},
+		{
+			"name": "CF_C2",
+			"path": "res://character portraits/Main Characters/Camille/Character Speaking Potrait/CF_C2.png"
 		}
 	],
-	"scale": 100,
+	"scale": 165,
 	"theme": ""
 }

@@ -29,7 +29,7 @@
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
-			"name": "Initial Loop"
+			"name": "Main Loop"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -41,22 +41,17 @@
 			"question": "Select an Option"
 		},
 		{
-			"choice": "Actually...",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"change_timeline": "timeline-1716044180.json",
-			"event_id": "dialogic_020"
-		},
-		{
 			"choice": "Talk",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1723596130",
+			"index": 0,
+			"name": "Talk Loop"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -221,7 +216,7 @@
 			"text": "..."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -316,7 +311,7 @@
 			"text": "Right…"
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -336,7 +331,7 @@
 			"text": "If you say so."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -570,7 +565,7 @@
 			"text": "Uh huh..."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -593,7 +588,7 @@
 			"text": "Believe me when I say he really appreciates it."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -749,7 +744,7 @@
 			"text": "Don't worry about it."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -796,7 +791,7 @@
 			"text": "It's probably better if you guys didn't meet."
 		},
 		{
-			"anchor_id": "anchor-1634488067",
+			"anchor_id": "anchor-1723596130",
 			"event_id": "dialogic_016"
 		},
 		{
@@ -858,8 +853,22 @@
 			"text": "Julian makes an excited squeal while doing a celebratory dance!"
 		},
 		{
+			"anchor_id": "anchor-1723596130",
+			"event_id": "dialogic_016"
+		},
+		{
+			"choice": "Nevermind",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Select as Partner",
@@ -931,20 +940,6 @@
 		{
 			"change_timeline": "timeline-1717722097.json",
 			"event_id": "dialogic_020"
-		},
-		{
-			"choice": "Nevermind",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"anchor_id": "anchor-1634488067",
-			"event_id": "dialogic_016"
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Leave",

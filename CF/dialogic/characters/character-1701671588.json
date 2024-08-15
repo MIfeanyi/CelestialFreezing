@@ -8,58 +8,22 @@
 	"name": "Lowen",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
-	"offset_y": 0,
+	"offset_x": -125,
+	"offset_y": -46,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/CF_L1.png"
 		},
 		{
-			"name": "Lowen (CSP1)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP1)png.png"
+			"name": "CF_L1",
+			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/CF_L1.png"
 		},
 		{
-			"name": "Lowen (CSP10)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP10)png.png"
-		},
-		{
-			"name": "Lowen (CSP11)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP11)png.png"
-		},
-		{
-			"name": "Lowen (CSP2)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP2)png.png"
-		},
-		{
-			"name": "Lowen (CSP3)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP3)png.png"
-		},
-		{
-			"name": "Lowen (CSP4)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP4)png.png"
-		},
-		{
-			"name": "Lowen (CSP5)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP5)png.png"
-		},
-		{
-			"name": "Lowen (CSP6)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP6)png.png"
-		},
-		{
-			"name": "Lowen (CSP7)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP7)png.png"
-		},
-		{
-			"name": "Lowen (CSP8)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP8)png.png"
-		},
-		{
-			"name": "Lowen (CSP9)png",
-			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/Lowen (CSP9)png.png"
+			"name": "CF_L2",
+			"path": "res://character portraits/Main Characters/Lowen/Character Speaking Portraits/CF_L2.png"
 		}
 	],
-	"scale": 50,
+	"scale": 165,
 	"theme": ""
 }

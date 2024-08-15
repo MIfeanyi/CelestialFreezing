@@ -39,7 +39,7 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Looks like we finally made it to Chester’s Peak."
 		},
 		{
@@ -49,25 +49,25 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "I’m actually surprised to the see the town is a lot smaller than they made it sound."
 		},
 		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "And not as sophisticated either."
 		},
 		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "In a place like this, how can I expect to find any worthwhile parts?"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Default",
 			"text": "Regardless, Gaia’s sent us here for a reason."
 		},
 		{

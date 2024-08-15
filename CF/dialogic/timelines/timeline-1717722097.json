@@ -22,7 +22,7 @@
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "YEEEEEEESSSSS~!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]YEEEEEEESSSSS~![wave]"
 		},
 		{
 			"character": "character-1701671586.json",
@@ -886,6 +886,14 @@
 			"text": "Roger that..."
 		},
 		{
+			"definition": "1708829843-258",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "0"
+		},
+		{
 			"anchor_id": "anchor-1634488067",
 			"event_id": "dialogic_016"
 		},
@@ -1498,7 +1506,7 @@
 			"text": "Okay..."
 		},
 		{
-			"change_timeline": "timeline-1704600595.json",
+			"change_timeline": "timeline-1701714641.json",
 			"event_id": "dialogic_020"
 		},
 		{
@@ -1517,7 +1525,7 @@
 			"text": "I've got some stuff to work on already thanks to you!"
 		},
 		{
-			"change_timeline": "timeline-1704600595.json",
+			"change_timeline": "timeline-1701714641.json",
 			"event_id": "dialogic_020"
 		},
 		{

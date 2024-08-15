@@ -16,7 +16,7 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 6
+			"wait_seconds": 5
 		},
 		{
 			"character": "character-1701672712.json",
@@ -31,10 +31,34 @@
 			"text": "What’s everyone doing?"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Their part."
+		},
+		{
+			"background": "res://character portraits/Main Characters/Alistair/download - 2024-06-08T002134.377.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -45,8 +69,28 @@
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Now, be quiet."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -73,22 +117,62 @@
 			"text": "Groaning in frustration, Alistair’s ethereal glow dissipates as his hair falls to his shoulders."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "LOWEN!"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Tell this wretch what to do!"
 		},
 		{
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "[shake rate=60.0 level=8 connected=1]'It' is upsetting my concentration…[shake]"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
 			"portrait": "",
-			"text": "'It' is upsetting my concentration…"
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
@@ -97,10 +181,35 @@
 			"text": "..."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Sure, sure."
+		},
+		{
+			"background": "res://backgrounds/Campsites/download - 2024-06-08T003851.531.jpg",
+			"event_id": "dialogic_021",
+			"fade_duration": 1
 		},
 		{
 			"character": "character-1701672712.json",
@@ -111,8 +220,28 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I’d say sorry on his behalf, but uh…"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
@@ -121,40 +250,80 @@
 			"text": "Comes with the territory, I know."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "That being said, he’s scanning the area with his abilities to make sure nothing that could be a threat is close by. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Camille's setting up our campfire with those big rocks and sticks."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": " And Julian is doing some maintenance on the truck from the looks of it."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Ahhh~[wave], probably because he feels bad about what happened. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I’m sure our giant military truck is completely fine, but I’ll make sure to talk to him in a bit about what Alistair said before it gets to him."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "*sigh*"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
@@ -163,28 +332,68 @@
 			"text": "And me?"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Well…"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[i]Don’t tell Alistair, but just…[/i]"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[i]Hangout for a bit.[/i]"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[i]Not much is going down right now, but once I get back from hunting, we’ll start sleeping and that’s really where you can help out.[/i]"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -223,6 +432,26 @@
 			"text": "Giving me a perfect opportunity to run away?"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -231,68 +460,108 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "Outside of obvious reasons like, it’s virtually impossible to travel in cold like this on foot for long."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "We’re not near any kind of well-established civilization for miles."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": " Yada yada yada. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "You know, just basic survival stuff, nothing crazy."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I trust you not to. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I trust you, because you’re no prisoner of mine, so I won’t treat you that way. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "If you see this as an opportunity to run away while I’m gone, then do it. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Don't let this conversation stop you."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I wouldn’t blame you, to be honest. "
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "A person can only take so much of Alistair’s constant guilt tripping."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "I can’t imagine it being something anyone could get used to…"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701672712.json",
@@ -303,14 +572,34 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Yeah~[wave], but I’d like to think the others aren’t that bad, right?!"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "I wouldn’t be surprised if you’re growing on them as much as you have on me!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
@@ -319,15 +608,35 @@
 			"text": "*scoff*"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Yeah, yeah~![wave]"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "(Don't change)",
 			"text": "[wave amp=50.0 freq=6.0 connected=1]Turn that frown upside down~![wave]"
 		},
 		{
@@ -335,6 +644,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Lowen playfully pokes and prods you all around trying to get a laugh out of you."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671552.json",
@@ -349,33 +678,53 @@
 			"text": "Frown is upside down! "
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Besides, after seeing everyone in action in Limerick, I’m sure you can see our mission serves a greater purpose than any of us can understand right now."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Everyone here, including Alistair, is serious about helping the planet become what it used to be."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Regardless of how it happened."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "And I know that's the case for you, too!"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Your actions already speak for you, champ!"
 		},
 		{
@@ -387,7 +736,7 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "You made those sandwiches for the reseachers and reunited Donovan and Sayoko."
 		},
 		{
@@ -402,13 +751,13 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "I know you remember thatkid you bought candy for, Caden."
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "It had nothing to do with the mission, but you did it just to help make him happy."
 		},
 		{
@@ -423,13 +772,13 @@
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "Hell, helping Julian get those parts to make his fence cutter!"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
+			"portrait": "Lowen",
 			"text": "He's been stuck on that for a while and here you are."
 		},
 		{
@@ -471,6 +820,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Guess I’ll hangout for now then. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671588.json",
@@ -545,6 +914,46 @@
 			"text": "[wave amp=50.0 freq=6.0 connected=1]I’m out of here, guys~![wave]"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671586.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701671586.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -557,10 +966,90 @@
 			"text": "[shake rate=60.0 level=8 connected=1]S-Stay safe o-out there.[shake]"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671584.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Camille turns towards Lowen and nods before going back to setting up a campfire with large rocks."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1701671580.json",
@@ -587,6 +1076,46 @@
 			"text": "Most likely animals."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -597,6 +1126,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Heading west!"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"change_timeline": "timeline-1723292242.json",

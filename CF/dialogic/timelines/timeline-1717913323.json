@@ -77,10 +77,10 @@
 			"text": "Friends?"
 		},
 		{
-			"character": "character-1718211765.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*creek creek creek* "
+			"text": "The floor boards creek as footsteps approach you and Gaia's Advocates standing in the living room."
 		},
 		{
 			"character": "character-1718211765.json",
@@ -144,25 +144,25 @@
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Knights of Justiice of the jolliest cooperation!"
+			"text": "Knights of Justice of the jolliest cooperation!"
 		},
 		{
 			"character": "character-1707081795.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "HAZAH!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]HAZAH![wave]"
 		},
 		{
 			"character": "character-1701671586.json",

@@ -5,13 +5,13 @@
 			"event_id": "dialogic_021"
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "character-1723408237.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "At this point in time, this segment of the game is still currently under development. "
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "character-1723408237.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "We apologize for the inconvenience and disruption of gameplay. "
@@ -26,7 +26,7 @@
 			"volume": -10
 		},
 		{
-			"character": "character-1701672712.json",
+			"character": "character-1723408237.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "The default scenario is that the player completed the mission with average success and no casualties. "
@@ -56,8 +56,8 @@
 			"text": "To be continued..."
 		},
 		{
-			"change_scene": "res://src/menu/Menu.tscn",
-			"event_id": "dialogic_041"
+			"change_timeline": "timeline-1723258169.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
