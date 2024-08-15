@@ -573,7 +573,19 @@
 			"character": "character-1701671588.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "[wave amp=50.0 freq=6.0 connected=1]Yeah~[wave], but I’d like to think the others aren’t that bad, right?!"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Yeah~[wave]"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But!"
+		},
+		{
+			"character": "character-1701671588.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’d like to think the others aren’t that bad, right?!"
 		},
 		{
 			"character": "character-1701671588.json",
@@ -643,7 +655,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lowen playfully pokes and prods you all around trying to get a laugh out of you."
+			"text": "Lowen playfully pokes and prods you all over trying to get a laugh."
 		},
 		{
 			"animation": "[Default]",
@@ -854,7 +866,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lowen claps his hands together, briefly rubbing them together, before walking to the back of the truck and grabbing some gear."
+			"text": "Lowen claps his hands and rubs them together before walking to the back of the truck and grabbing some gear."
 		},
 		{
 			"character": "character-1701671588.json",
@@ -878,7 +890,7 @@
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Lowens slings a rucksack over his shoulder and performs a functions check on his rifle."
+			"text": "Lowen slings a rucksack over his shoulder and performs a functions check on his rifle."
 		},
 		{
 			"character": "character-1701671588.json",
