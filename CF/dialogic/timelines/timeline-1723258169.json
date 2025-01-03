@@ -109,7 +109,7 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "Laziness as such yours won’t be tolerated."
+			"text": "Laziness can't and  won’t be tolerated."
 		},
 		{
 			"character": "character-1701671580.json",
@@ -809,7 +809,13 @@
 			"character": "character-1701671580.json",
 			"event_id": "dialogic_001",
 			"portrait": "(Don't change)",
-			"text": "And seeing how well rested you are, you’ve got some additional duties, so get up already."
+			"text": "And seeing how well rested you are, you’ve got some additional duties!"
+		},
+		{
+			"character": "character-1701671580.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So get up already."
 		},
 		{
 			"animation": "[Default]",
