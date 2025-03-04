@@ -376,7 +376,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "[wave amp=50.0 freq=6.0 connected=1]Thanks for remember, babe~![wave]"
+			"text": "[wave amp=50.0 freq=6.0 connected=1]Thanks for remembering, babe~![wave]"
 		},
 		{
 			"character": "character-1701671552.json",
