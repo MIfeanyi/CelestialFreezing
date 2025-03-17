@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/04. Morning.mp3-1beed8c98c802ae2bc9eee7b69df33b5.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Research Facility/04. Morning.mp3"
+dest_files=[ "res://.import/04. Morning.mp3-1beed8c98c802ae2bc9eee7b69df33b5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

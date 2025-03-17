@@ -22,6 +22,10 @@
 		{
 			"name": "CF_A2",
 			"path": "res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CF_A2.png"
+		},
+		{
+			"name": "CFS_1",
+			"path": "res://character portraits/Main Characters/Alistair/Character Speaking Potrait/CFS_1.png"
 		}
 	],
 	"scale": 165,

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/10. It's The Training!.mp3-896d13a653ff22bcb69ff95fffd59388.mp3str"
+
+[deps]
+
+source_file="res://background music/Level I - Revival of Limerick/Research Facility/10. It's The Training!.mp3"
+dest_files=[ "res://.import/10. It's The Training!.mp3-896d13a653ff22bcb69ff95fffd59388.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

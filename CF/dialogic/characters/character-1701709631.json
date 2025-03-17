@@ -8,12 +8,12 @@
 	"name": "Unknown Nervous Male",
 	"nickname": "",
 	"nickname_bool": false,
-	"offset_x": 0,
-	"offset_y": 0,
+	"offset_x": -125,
+	"offset_y": -46,
 	"portraits": [
 		{
 			"name": "Default",
-			"path": ""
+			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/CFS_5.png"
 		}
 	],
 	"scale": 100,

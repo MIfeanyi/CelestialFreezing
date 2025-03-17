@@ -1,14 +1,23 @@
 {
 	"events": [
 		{
-			"background": "res://backgrounds/Level I - Revival of Limerick/download (49).jpg",
-			"event_id": "dialogic_021"
-		},
-		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1634488067",
 			"index": 0,
 			"name": "Loop"
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "",
+			"volume": 0
+		},
+		{
+			"background": "res://backgrounds/Level I - Revival of Limerick/download (49).jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "character-1701672712.json",
@@ -362,7 +371,7 @@
 			"text": "Hello?"
 		},
 		{
-			"character": "character-1716036957.json",
+			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "With a swift, jarring, jolt, a male researcher turned towards you startled while adjusting his glasses with a plate of multiple sandwiches at his desk with food in his mouth."

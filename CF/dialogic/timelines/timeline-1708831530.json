@@ -159,13 +159,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*crunch crunch crunch*"
+			"text": "*crunch crunch*"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "*squish squish squish*"
+			"text": "*squish squish*"
 		},
 		{
 			"background": "res://backgrounds/Level I - Revival of Limerick/download (48).jpg",
@@ -187,7 +187,7 @@
 			"character": "character-1714421179.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "They’re here on behalf of an organization called Gaia's Advocates in hopes to try and restore the power plant and the town."
+			"text": "They’re here on behalf of an organization called Gaia's Advocates with the goal of restoring power to the town."
 		},
 		{
 			"character": "character-1714421179.json",
@@ -241,7 +241,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Rustle Rustle"
+			"text": "*rustle rustle*"
 		},
 		{
 			"character": "character-1716036957.json",

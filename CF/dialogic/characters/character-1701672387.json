@@ -22,6 +22,10 @@
 		{
 			"name": "CF_S2",
 			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/Silas/CF_S2.png"
+		},
+		{
+			"name": "CFS_3",
+			"path": "res://character portraits/Main Characters/Julian/Character Speaking Potrait/Silas/CFS_3.png"
 		}
 	],
 	"scale": 165,

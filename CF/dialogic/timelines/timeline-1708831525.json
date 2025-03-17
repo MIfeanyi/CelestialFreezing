@@ -117,6 +117,15 @@
 			"text": "It is you! "
 		},
 		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://background music/Level I - Revival of Limerick/Research Facility/04. Morning.mp3",
+			"volume": -10
+		},
+		{
 			"character": "character-1701672712.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -235,15 +244,6 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "That, and the kind of people left in the town still."
-		},
-		{
-			"audio_bus": "Master",
-			"background-music": "play",
-			"event_id": "dialogic_031",
-			"event_name": "BackgroundMusic",
-			"fade_length": 1,
-			"file": "res://background music/Level I - Revival of Limerick/Town Square/02.  Daylight of Konoha.mp3",
-			"volume": -10
 		},
 		{
 			"character": "character-1701671588.json",

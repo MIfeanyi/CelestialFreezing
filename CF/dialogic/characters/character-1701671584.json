@@ -22,6 +22,10 @@
 		{
 			"name": "CF_C2",
 			"path": "res://character portraits/Main Characters/Camille/Character Speaking Potrait/CF_C2.png"
+		},
+		{
+			"name": "CFS_4",
+			"path": "res://character portraits/Main Characters/Camille/Character Speaking Potrait/CFS_4.png"
 		}
 	],
 	"scale": 165,

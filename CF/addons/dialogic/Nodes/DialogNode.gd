@@ -589,7 +589,7 @@ func _emit_timeline_signals():
 	if dialog_script.has('events'):
 		if dialog_index == 0:
 			on_timeline_start()
-		elif _is_dialog_finished():
+ elif _is_dialog_finished():
 			on_timeline_end()
 
 
